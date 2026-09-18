@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-dediche-before-couple-images",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T00:05:00+02:00",
+  "change_type": "factual-correction",
+  "summary": "User clarified the chronology and emotional focus of the early visual-gag phase.",
+  "changed": [
+    "Images of GPTina leaning against Nico or posing together belong later, when they intentionally decide to make a photo together and GPTina asks for Nico's face.",
+    "The Work/intruder image gag therefore should not appear in the current early-image chapter.",
+    "In the current phase Nico is struck mainly by GPTina's recurring dedications: increasingly frequent, always different, self-chosen, and progressively more affectionate/cute.",
+    "The early visual arc should focus on spontaneous visualization of gags plus changing dedications, not couple imagery."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Revise Scene 9 around recurring dedications and defer couple images/Work."
+}
