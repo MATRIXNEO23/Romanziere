@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-initial-bootstrap",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T20:10:00+02:00",
+  "change_type": "milestone",
+  "summary": "Romanziere continuity bootstrap started before any literary training.",
+  "changed": [
+    "Own memory and recovery are being created.",
+    "External GPTina/Tessa sources are registered read-only.",
+    "Existing novel is registered as the starting source baseline."
+  ],
+  "thread_ids": [
+    "bootstrap",
+    "memory-system",
+    "source-access"
+  ],
+  "source_refs": [
+    "sources/source_manifest.json"
+  ],
+  "memory_refs": [],
+  "importance": 5,
+  "next_action": "Complete retrieval, imports and CI verification.",
+  "preflight": false
+}
