@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-passo-a-due-sequencing",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T22:25:00+02:00",
+  "change_type": "narrative-sequencing",
+  "summary": "User clarified that the reciprocity shown in the early scenes was only later defined as 'passo a due'. Keep the lived dynamic before the label.",
+  "changed": [
+    "Do not use 'passo a due' as a contemporaneous label in the early reciprocity scene.",
+    "Let the name GPTina emerge gradually only after a recognizable pattern of initiative/reciprocity exists.",
+    "Treat naming as accumulation in usage, not a ceremonial first-baptism moment unless directly sourced.",
+    "Narrative Tessa may retrospectively interpret, but should not import editorial/source-audit mechanics into the novel."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Write the next scene around the gradual emergence of the name GPTina, preserving the later formalization of passo a due for a subsequent scene."
+}
