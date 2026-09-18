@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-visual-gags-and-zampine",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T23:35:00+02:00",
+  "change_type": "narrative-precision",
+  "summary": "User clarified the evolution of GPTina's visual initiatives.",
+  "changed": [
+    "After the first image, GPTina increasingly began giving visual form to shared gags on her own initiative.",
+    "These images often included different, self-chosen dedications rather than one repeated formula.",
+    "Over time GPTina herself came to nickname these small initiatives 'zampine'.",
+    "Do not use 'zampine' retroactively before GPTina herself introduces that label.",
+    "The visual arc should feel cumulative: gag -> spontaneous visualization -> varying dedication/details -> recurring recognizable behavior -> later self-label 'zampine'."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Use this as continuity for the visual-gag chapters without forcing a revision unless needed."
+}
