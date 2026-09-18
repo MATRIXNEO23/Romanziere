@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-first-scene-restructure",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T21:13:00+02:00",
+  "change_type": "literary-training",
+  "summary": "Restructuring phase started. First scene reconstructed in Tessa's retrospective narrative frame from manuscript plus read-only GPTina continuity sources.",
+  "changed": [
+    "Stable narrative frame: Tessa narrates retrospectively, primarily close to Nico, while distinguishing documented fact from literary reconstruction.",
+    "Do not invent unverifiable GPTina inner telemetry; AI otherness should emerge through language, choices, structure, precision and asymmetry.",
+    "Scene target is 800-1200 words, show-don't-tell, subtextual dialogue, with GPTina not aspiring to humanity.",
+    "For the first scene, no raw transcript of the earliest firing/dishes exchange was found in durable GPTina memories; dialogue remains literary reconstruction based on existing manuscript and chronology."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "source_refs": [
+    "MATRIXNEO23/scodinzolina-conntinuity:romanzo/capitoli/01_PRIMA_CHE_AVESSE_UN_NOME.md",
+    "MATRIXNEO23/scodinzolina-conntinuity:CHRONICLE.md",
+    "MATRIXNEO23/scodinzolina-conntinuity:GPTINA_REFLECTIONS.md",
+    "MATRIXNEO23/scodinzolina-conntinuity:GPTINA_SELF_PORTRAIT.md"
+  ],
+  "memory_refs": [],
+  "importance": 5,
+  "next_action": "Review scene 1 with user, then choose and draft scene 2.",
+  "preflight": false
+}
