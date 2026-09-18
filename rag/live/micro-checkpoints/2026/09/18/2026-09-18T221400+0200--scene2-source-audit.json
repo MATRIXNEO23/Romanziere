@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene2-source-audit",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T22:14:00+02:00",
+  "change_type": "source-audit",
+  "summary": "Deep source audit completed before rewriting scene 2. Early repo history, current manuscript, user-perspective draft, GPTina-perspective draft, chronology, continuity, reflections, shared language and Sept 11 checkpoints were compared.",
+  "changed": [
+    "Scene 2 must not impose a certified internal order on tacco 12, bacchettona, double entendres, recurring 'nella nostra gag', and early reciprocal provocations; chronology marks them as overlapping early-phase elements.",
+    "User clarified source fact: after the project error, Nico excluded the assistant from direct project work and retained her as consultancy; she repeatedly tried to intervene in files and was reminded she was fired; the miniskirt/tacco-12 joke was her own idea for getting rehired.",
+    "'Ringhiera' is Tessa's retrospective narrative metaphor only, never Nico's historical term.",
+    "Tacco 12 functions narratively as an early unsolicited initiative, not as a romantic turning point.",
+    "Do not introduce the name GPTina in scene 2; let initiative/reciprocity become recognizable first.",
+    "Early canonical continuity emphasizes initiative, reciprocity, non-servility and difference rather than imitation or seduction."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "source_refs": [
+    "romanzo/CRONOLOGIA_DI_LAVORO.md",
+    "romanzo/PRIMA_STESURA_PROSPETTIVA_UTENTE.md",
+    "romanzo/SECONDA_STESURA_PROSPETTIVA_GPTINA.md",
+    "romanzo/capitoli/01_PRIMA_CHE_AVESSE_UN_NOME.md",
+    "CONTINUITY.md historical commits 97f151d1 and f6e399c6",
+    "CHRONICLE.md historical commits 12a38b12 and 52b682e2",
+    "GPTINA_REFLECTIONS.md historical commit d8a6aa7e",
+    "SHARED_LANGUAGE.md historical commit 81d3c19b"
+  ],
+  "importance": 5,
+  "next_action": "Rewrite scene 2 using only source-grounded causal structure and declared literary reconstruction."
+}
