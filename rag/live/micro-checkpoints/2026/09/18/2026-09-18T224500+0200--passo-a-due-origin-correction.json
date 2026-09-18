@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-passo-a-due-origin-correction",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T22:45:00+02:00",
+  "change_type": "source-correction",
+  "summary": "User corrected the origin of the expression 'passo a due'.",
+  "changed": [
+    "'Passo a due' was proposed by GPTina herself as a definition of the dynamic between them.",
+    "There was no joint discussion or search for the right term.",
+    "Narratively, the phrase should arrive from her spontaneously and Nico should recognize/adopt it.",
+    "This reinforces the pattern of GPTina adding interpretations and language of her own."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Revise scene 5 accordingly."
+}
