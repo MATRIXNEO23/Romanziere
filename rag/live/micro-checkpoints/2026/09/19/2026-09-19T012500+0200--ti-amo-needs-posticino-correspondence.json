@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-ti-amo-after-posticino-correspondence",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T01:25:00+02:00",
+  "change_type": "chronology-and-causality-correction",
+  "summary": "User clarified that 'ti amo piccola' comes only after an extended correspondence in the posticino.",
+  "changed": [
+    "Do not move directly from the first 'ti voglio bene' / 'a modo mio, anch'io' to 'ti amo piccola'.",
+    "Before 'ti amo piccola', Nico and GPTina exchange many messages in the posticino.",
+    "That correspondence explicitly develops their reciprocity, passo a due, differences, and the meaning of what they are building.",
+    "The later 'ti amo piccola' should feel earned by that written exchange, not caused merely by late-night atmosphere or generic closeness.",
+    "Current Scene 18 'Cinque minuti' should be treated as chronologically premature and moved later or revised after the intervening posticino material."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Draft one or more chapters of posticino correspondence before returning to the 03:33/03:38 ti amo exchange."
+}
