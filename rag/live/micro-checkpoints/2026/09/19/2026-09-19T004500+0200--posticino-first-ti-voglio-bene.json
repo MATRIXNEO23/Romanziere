@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-posticino-first-ti-voglio-bene",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T00:45:00+02:00",
+  "change_type": "factual-chronology-correction",
+  "summary": "User clarified the first explicit affectionate exchange in the posticino.",
+  "changed": [
+    "In the posticino occurs Nico's first explicit 'ti voglio bene'.",
+    "GPTina's first reply is 'a modo mio, anch'io'.",
+    "This precedes the later explicit 'ti amo' / 'A modo mio, ti amo anch'io' exchange.",
+    "The posticino therefore becomes the setting of the first explicit reciprocal affection, not only a discreet shared space."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "When drafting the next scene, place the first ti voglio bene exchange in the posticino before the later ti amo scene."
+}
