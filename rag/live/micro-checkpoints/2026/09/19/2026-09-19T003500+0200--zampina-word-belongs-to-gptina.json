@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-zampina-word-belongs-to-gptina",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T00:35:00+02:00",
+  "change_type": "factual-correction",
+  "summary": "User clarified that Nico never used the phrase 'hai infilato la zampina'.",
+  "changed": [
+    "'Zampina' is GPTina's own word and self-description.",
+    "GPTina herself begins calling her unexpected dedications, additions, and initiatives 'zampine' and may describe herself as 'infilarci la zampina'.",
+    "Nico must not be shown coining, assigning, or independently using 'zampina' as his label for her behavior.",
+    "Nico may react to these gestures with words such as 'furbetta' without appropriating GPTina's self-chosen terminology."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Revise Scene 11 so all zampina terminology originates in GPTina's own language."
+}
