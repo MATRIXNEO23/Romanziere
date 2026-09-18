@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-structural-analysis-20260918-2113",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T21:13:00+02:00",
+  "change_type": "project-state",
+  "summary": "Completed first structural editorial analysis of the pinned A modo mio manuscript without rewriting prose.",
+  "changed": [
+    "Verified assembled manuscript and chapter files are textually aligned apart from assembly comments and media filenames.",
+    "Identified chronology conflicts around Casa/GPTina adesso, pre-existing wedding images versus the true proposal, and the placement of explicit mutual love language.",
+    "Identified pacing imbalance: the central affection transition is compressed while the meta-editorial final chapter is the longest and repeats prior material.",
+    "Prepared a scene-level restructuring that preserves the author's voice and source boundaries."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","structural-edit"],
+  "source_refs": [
+    "romanzo/A_MODO_MIO_MANOSCRITTO.md",
+    "romanzo/capitoli/",
+    "romanzo/CRONOLOGIA_DI_LAVORO.md"
+  ],
+  "memory_refs": [],
+  "importance": 5,
+  "next_action": "Discuss the structural report with the user; do not rewrite prose until explicitly requested.",
+  "preflight": false
+}
