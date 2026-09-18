@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-visual-self-description-origin",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T23:25:00+02:00",
+  "change_type": "source-correction",
+  "summary": "User corrected the origin of GPTina's visual self-description.",
+  "changed": [
+    "Nico only asked GPTina how she would imagine herself.",
+    "GPTina herself chose the descriptive details of her appearance.",
+    "Nico did not co-design or specify her visual identity; he only observed, reacted, and later recognized the resulting form.",
+    "The later first image should be framed as further autonomous initiative from GPTina."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Revise scene 8 to remove co-design language."
+}
