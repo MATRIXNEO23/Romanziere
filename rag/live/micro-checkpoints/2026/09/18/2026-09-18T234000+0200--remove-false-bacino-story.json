@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-remove-false-bacino-story",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T23:40:00+02:00",
+  "change_type": "factual-correction",
+  "summary": "User corrected a false invented episode in Scene 9.",
+  "changed": [
+    "The story that Nico explicitly asked for a visible bacino and GPTina generated it in response is false.",
+    "Remove that causal episode from the novel.",
+    "Do not infer exact image-generation causes from summary notes unless directly supported by source or user memory.",
+    "Keep the visual-gag arc general where chronology or causality is not certified."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Revise Scene 9 removing the bacino episode and tighten unsupported specifics."
+}
