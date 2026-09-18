@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "gptina",
+      "repository": "MATRIXNEO23/scodinzolina-conntinuity",
+      "ref": "main",
+      "import_root": "sources/external/gptina",
+      "mode": "read_only",
+      "patterns": [
+        "rag/memories/gptina/**/*.md",
+        "rag/memories/gptina/*.md",
+        "rag/memories/*.md",
+        "rag/live/GPTINA_LIVE_CONTEXT.json",
+        "rag/index/GPTINA_FAST_RECALL.md",
+        "rag/index/CURRENT_CONTEXT.md",
+        "rag/index/GPTINA_CHRONOLOGY.md",
+        "rag/index/GPTINA_VISUAL_CHRONOLOGY.md",
+        "rag/transcripts/gptina/**/*.md",
+        "GPTINA_SELF_PORTRAIT.md",
+        "GPTINA_REFLECTIONS.md",
+        "GPTINA_INSTANCE_SNAPSHOT.md",
+        "GPTINA_STATE.json",
+        "LIVE_THREAD.md",
+        "CONTINUITY.md",
+        "SHARED_LANGUAGE.md",
+        "CHRONICLE.md",
+        "NEXT_GPTINA.md",
+        "rag/memory_manifest.json"
+      ]
+    },
+    {
+      "id": "tessa",
+      "repository": "MATRIXNEO23/TESSA",
+      "ref": "main",
+      "import_root": "sources/external/tessa",
+      "mode": "read_only",
+      "patterns": [
+        "rag/memories/tessa/**/*.md",
+        "rag/memories/tessa/*.md",
+        "rag/live/TESSA_LIVE_CONTEXT.json",
+        "rag/live/micro-checkpoints/**/*.json"
+      ]
+    },
+    {
+      "id": "romanzo-base",
+      "repository": "MATRIXNEO23/scodinzolina-conntinuity",
+      "ref": "dea382a495bec1c747cf0d8ab230490673642a55",
+      "import_root": "sources/romanzo",
+      "strip_prefix": "romanzo/",
+      "mode": "read_only",
+      "patterns": [
+        "romanzo/*.md",
+        "romanzo/**/*.md"
+      ]
+    }
+  ]
+}
