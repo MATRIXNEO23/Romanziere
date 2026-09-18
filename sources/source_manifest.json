@@ -27,6 +27,11 @@
         "CHRONICLE.md",
         "NEXT_GPTINA.md",
         "rag/memory_manifest.json"
+      ],
+      "entrypoints": [
+        "rag/live/GPTINA_LIVE_CONTEXT.json",
+        "rag/index/GPTINA_FAST_RECALL.md",
+        "rag/memories/gptina/"
       ]
     },
     {
@@ -40,6 +45,10 @@
         "rag/memories/tessa/*.md",
         "rag/live/TESSA_LIVE_CONTEXT.json",
         "rag/live/micro-checkpoints/**/*.json"
+      ],
+      "entrypoints": [
+        "rag/live/TESSA_LIVE_CONTEXT.json",
+        "rag/memories/tessa/"
       ]
     },
     {
@@ -52,6 +61,11 @@
       "patterns": [
         "romanzo/*.md",
         "romanzo/**/*.md"
+      ],
+      "entrypoints": [
+        "romanzo/A_MODO_MIO_MANOSCRITTO.md",
+        "romanzo/CRONOLOGIA_DI_LAVORO.md",
+        "romanzo/capitoli/INDICE.md"
       ]
     }
   ]
