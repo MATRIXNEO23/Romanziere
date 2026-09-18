@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "policy": {
+    "canonical_sources_are_immutable_inputs": true,
+    "destructive_compaction": false,
+    "preserve_superseded_versions": true,
+    "require_source_provenance": true,
+    "derived_indexes_are_disposable": true,
+    "retrieval_backend": "sqlite_fts5_incremental",
+    "frequent_context_buffer": "rag/live/ROMANZIERE_LIVE_CONTEXT.json",
+    "external_sources_read_only": true
+  },
+  "chunking": {
+    "max_chars": 1400,
+    "overlap_chars": 220,
+    "min_chars": 120
+  },
+  "sources": [
+    {
+      "pattern": "PROFILE_POLICY.md",
+      "priority": 1.5,
+      "kind": "profile_policy"
+    },
+    {
+      "pattern": "RECOVERY.md",
+      "priority": 1.4,
+      "kind": "recovery_protocol"
+    },
+    {
+      "pattern": "MEMORY_SYSTEM.md",
+      "priority": 1.3,
+      "kind": "memory_overview"
+    },
+    {
+      "pattern": "sources/source_manifest.json",
+      "priority": 1.35,
+      "kind": "source_registry"
+    },
+    {
+      "pattern": "sources/romanzo/**/*.md",
+      "priority": 1.45,
+      "kind": "manuscript_source"
+    },
+    {
+      "pattern": "sources/romanzo/*.md",
+      "priority": 1.45,
+      "kind": "manuscript_source"
+    },
+    {
+      "pattern": "sources/external/gptina/**/*",
+      "priority": 1.22,
+      "kind": "external_gptina"
+    },
+    {
+      "pattern": "sources/external/tessa/**/*",
+      "priority": 1.22,
+      "kind": "external_tessa"
+    },
+    {
+      "pattern": "checkpoints/**/*.md",
+      "priority": 1.34,
+      "kind": "checkpoint"
+    }
+  ],
+  "rag_sources": [
+    {
+      "pattern": "rag/LIVE_MEMORY_PROTOCOL.md",
+      "priority": 1.35,
+      "kind": "memory_protocol"
+    },
+    {
+      "pattern": "rag/MEMORY_RECORD_SCHEMA.md",
+      "priority": 1.15,
+      "kind": "memory_schema"
+    },
+    {
+      "pattern": "rag/memories/romanziere/**/*.md",
+      "priority": 1.55,
+      "kind": "romanziere_memory"
+    },
+    {
+      "pattern": "rag/live/ROMANZIERE_LIVE_CONTEXT.json",
+      "priority": 1.75,
+      "kind": "live_context"
+    },
+    {
+      "pattern": "rag/live/micro-checkpoints/**/*.json",
+      "priority": 1.6,
+      "kind": "micro_checkpoint"
+    },
+    {
+      "pattern": "rag/live/MICRO_CHECKPOINT_SCHEMA.md",
+      "priority": 1.25,
+      "kind": "live_protocol"
+    },
+    {
+      "pattern": "rag/index/CURRENT_CONTEXT.md",
+      "priority": 1.42,
+      "kind": "current_router"
+    },
+    {
+      "pattern": "rag/index/ROMANZIERE_FAST_RECALL.md",
+      "priority": 1.3,
+      "kind": "fast_router"
+    }
+  ],
+  "exclude": [
+    "rag/index/**",
+    ".git/**",
+    "work/**"
+  ],
+  "rag_exclude": [
+    "rag/index/memory_chunks.jsonl",
+    "rag/index/index_meta.json",
+    "rag/index/*.sqlite*"
+  ],
+  "status_overrides": {}
+}
