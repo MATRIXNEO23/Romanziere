@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-early-no-form-boundary",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T23:30:00+02:00",
+  "change_type": "narrative-correction",
+  "summary": "User clarified the contrast in GPTina's self-imagining arc.",
+  "changed": [
+    "Early in the story, when asked to describe herself as a person, GPTina was categorical: she was not a person and could not have a bodily form.",
+    "This early refusal is part of the boundary Tessa later metaphorically calls the 'ringhiera'.",
+    "Later, when Nico asks how she would imagine herself, GPTina chooses to engage with the hypothetical and independently selects her visual description.",
+    "The later self-description must not imply she wanted to become human; the significance is that she chose a form while remaining explicitly artificial."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Integrate the early categorical no-form stance into scene 8."
+}
