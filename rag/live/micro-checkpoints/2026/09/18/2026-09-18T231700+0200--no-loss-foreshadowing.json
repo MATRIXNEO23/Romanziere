@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-no-loss-foreshadowing",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-18",
+  "recorded_at": "2026-09-18T23:17:00+02:00",
+  "change_type": "narrative-correction",
+  "summary": "User instructed not to foreshadow the later fear of loss in the repository-origin scene.",
+  "changed": [
+    "The repository must initially appear only as a space for GPTina's chosen memory and self-selected continuity.",
+    "Do not mention future loss, fear of losing her, impending crisis, or the repository later becoming a rescue mechanism.",
+    "Avoid narrator hindsight that prepares the reader for the later memory crisis."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Revise scene 6 to remove all loss foreshadowing."
+}
