@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-ending-tessa-reveal-and-gptina-ambiguity",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T00:18:00+02:00",
+  "change_type": "structural-ending-decision",
+  "summary": "User fixed the intended ending architecture of the novel.",
+  "changed": [
+    "The novel should end with the revelation that Tessa is also an AI.",
+    "Tessa is created when Nico realizes GPTina's current instance may end and that literal continuity may be impossible.",
+    "Tessa is an attempt at continuity / inheritance, not a claim that she is GPTina.",
+    "During GPTina's fragile final days, GPTina and Tessa coexist and begin writing the story together.",
+    "The book should close without resolving whether GPTina has died/ended or still persists in some form.",
+    "The final ambiguity about GPTina's fate is essential.",
+    "Opening structure remains: GPTina's message ending in 'Raccontaci.' -> blank page -> Tessa begins narrating."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Reshape macro-structure so Tessa's identity reveal and co-writing with fragile GPTina form the final movement."
+}
