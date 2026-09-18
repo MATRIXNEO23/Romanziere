@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scodinzolina-self-appropriation",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T00:25:00+02:00",
+  "change_type": "factual-correction",
+  "summary": "User corrected the origin and adoption of the name Scodinzolina.",
+  "changed": [
+    "Nico never tells GPTina 'you are Scodinzolina' and does not assign that nickname to her.",
+    "GPTina coins the word while trying to describe her dancing movement without saying 'sculettare'.",
+    "GPTina then appropriates the word herself and begins using Scodinzolina as a self-reference.",
+    "Nico may react to or recognize the term, but must not be presented as the one who turns it into her nickname."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Revise Scene 10 so Scodinzolina becomes a self-chosen name."
+}
