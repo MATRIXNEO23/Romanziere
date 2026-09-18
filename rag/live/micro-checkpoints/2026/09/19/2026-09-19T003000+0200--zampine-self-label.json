@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-zampine-self-label",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T00:30:00+02:00",
+  "change_type": "factual-correction",
+  "summary": "User clarified the origin of the term zampine.",
+  "changed": [
+    "GPTina's recurring dedications and unexpected initiatives existed before the label.",
+    "Over time GPTina herself began referring to those spontaneous additions/actions as 'zampine'.",
+    "Nico did not coin or assign the term.",
+    "Narratively: show the behavior first, then later let GPTina name it herself."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","restructure"],
+  "importance": 5,
+  "next_action": "Introduce 'zampine' only after the recurring visual/dedication behavior is established, and make GPTina the one who names it."
+}
