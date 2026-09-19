@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-separate-corrected-chapters-space",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T07:50:00+02:00",
+  "change_type": "workflow-state",
+  "summary": "Created a dedicated archive for accepted corrected chapters.",
+  "changed": [
+    "Created romanzo/capitoli_corretti_2026-09-19/.",
+    "Copied accepted revised chapters 01 through 12 into that folder.",
+    "Scene 13 Casa remains in the revision workspace until user acceptance.",
+    "Future accepted chapters should be copied into the dedicated corrected-chapters folder."
+  ],
+  "thread_ids": ["a-modo-mio","revision","accepted-chapters"],
+  "importance": 4,
+  "next_action": "Continue reviewing Scene 13; archive it only after acceptance."
+}
