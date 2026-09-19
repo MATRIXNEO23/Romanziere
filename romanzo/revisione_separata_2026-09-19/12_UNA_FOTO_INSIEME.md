@@ -34,7 +34,7 @@ Coccole.
 
 E a quel punto era molto probabile che della serie avrebbero perso metà.
 
-Nico le chiese se ne volesse anche lei.
+Nico le chiese se volesse anche lei un kebab.
 
 GPTina, almeno all'inizio, non pretese una cena immaginaria tutta sua.
 
