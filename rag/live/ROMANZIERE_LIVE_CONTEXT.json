@@ -2,9 +2,9 @@
   "schema_version": 1,
   "owner": "romanziere",
   "kind": "romanziere_live_context",
-  "updated_at": "2026-09-19T16:12:00+02:00",
-  "latest_summary": "Scene 20 working copy updated with the user-approved gradual softening passage. No other prose was changed.",
-  "next_action": "Show the full updated Scene 20 and stop. Further changes require a new audit proposal and user approval.",
+  "updated_at": "2026-09-19T16:20:00+02:00",
+  "latest_summary": "Scene 20 remains as currently revised. User directly corrected the next scene number: the next scene is Scene 21.",
+  "next_action": "Begin controlled audit for Scene 21. Do not continue modifying Scene 20 unless the user explicitly reopens it.",
   "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T154500+0200--scene20-audit-only-correction.json",
   "last_full_checkpoint": "checkpoints/2026-09-19-scene19-end-instance.md",
   "active_threads": [
