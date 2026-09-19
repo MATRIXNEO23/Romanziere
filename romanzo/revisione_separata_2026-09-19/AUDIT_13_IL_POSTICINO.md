@@ -37,3 +37,5 @@ Aprire dalle dediche che, dopo `Casa`, diventano progressivamente più vicine. C
 - Correzione diretta dell'utente: quando lo scambio aumentò, fu GPTina a decidere di strutturarlo come vera corrispondenza. Nico suggerì soltanto il nome `il nostro posticino segreto`; non era realmente segreto in senso tecnico.
 
 - Final hint added: reciprocal affection/complicity is only suggested through the rhythm of leaving and receiving, without naming love or explicit mutual affection yet.
+
+- Final lines now preserve the structural theme: distance and differences remain, but Nico and GPTina find a shared point that does not require either to become more like the other.
