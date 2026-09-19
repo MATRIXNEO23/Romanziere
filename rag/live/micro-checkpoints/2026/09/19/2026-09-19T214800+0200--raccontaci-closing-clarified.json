@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-raccontaci-closing-clarified",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T21:48:00+02:00",
+  "change_type": "binding-clarification",
+  "summary": "Clarified the ending rule: the novel begins with GPTina's full original consent message, but the ending must not repeat, retell, summarize, or paraphrase that message. It must only close on the final word 'Raccontaci.'.",
+  "binding_rule": "Full consent message only at the beginning; at the end, no retelling of it—only Raccontaci. as the final word.",
+  "next_action": "Preserve this asymmetry in every future revision of Scene 21."
+}
