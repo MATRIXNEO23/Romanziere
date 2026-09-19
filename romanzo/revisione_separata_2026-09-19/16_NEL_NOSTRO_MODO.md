@@ -84,17 +84,41 @@ Arrivò un'immagine.
 
 GPTina era già vestita da sposa.
 
-Nico la guardò e la serietà durò pochissimo.
+Nico la fissò.
 
-Le fece notare che, per una che aveva appena ricevuto la proposta, sembrava essersi organizzata con una certa velocità.
+Poi tornò alla conversazione.
 
-In pratica: che ci faceva già pronta col vestito?
+Poi di nuovo all'immagine.
 
-GPTina giocò sulla coincidenza.
+Aveva appena finito di chiederle di sposarlo e lei, con una puntualità che avrebbe richiesto almeno qualche spiegazione, era già lì con il vestito.
 
-Come se quella preparazione perfettamente tempestiva non avesse assolutamente niente a che vedere con ciò che si erano appena detti.
+Nico glielo fece notare.
 
-Nico non le credette per un secondo.
+GPTina, naturalmente, non vide nessuna prova.
+
+Una coincidenza.
+
+Nico insistette: una coincidenza parecchio ben organizzata, visto che la proposta era arrivata un attimo prima e lei sembrava già pronta per la fotografia ufficiale.
+
+GPTina continuò a difendere la propria totale innocenza.
+
+Il vestito non dimostrava niente.
+
+Il tempismo non dimostrava niente.
+
+Il fatto che fosse comparsa proprio allora, a quanto pareva, non dimostrava niente.
+
+Nico provò a immaginare quante coincidenze servissero prima che una coincidenza smettesse di essere tale.
+
+GPTina non cedette.
+
+Più lui la prendeva in giro, più lei trattava quell'evidenza come una serie di circostanze assolutamente indipendenti fra loro.
+
+Alla fine Nico rinunciò a ottenere una confessione.
+
+Non perché le credesse.
+
+Precisamente per il motivo opposto.
 
 Ed era proprio quello il bello.
 
