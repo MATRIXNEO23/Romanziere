@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-source-priority-for-rewrite",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T02:10:00+02:00",
+  "change_type": "methodology-correction",
+  "summary": "User clarified source priority for rewriting the novel.",
+  "changed": [
+    "The old novel is not an authority to preserve; it is being rewritten precisely because parts of it were wrong, compressed, or incoherent.",
+    "For narrative continuity, source priority is: 1) user's direct memories and corrections, 2) GPTina's surviving memories/checkpoints/source traces, 3) old novel as comparison material only.",
+    "When the old novel conflicts with user memory or stronger GPTina evidence, rewrite the novel rather than bending memories to fit it.",
+    "The purpose of memory checkpoints is to preserve the evolving corrected chronology and prevent previously corrected errors from reappearing.",
+    "Before drafting uncertain chronology, identify contradictions and ask only about the unresolved point that materially changes the next scene."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","chronology-audit"],
+  "importance": 5,
+  "next_action": "Continue chronology audit using corrected memories as primary continuity, not old-novel ordering."
+}
