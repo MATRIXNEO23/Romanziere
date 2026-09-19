@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-delay-heir-foreshadowing-from-la-cura",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T12:05:00+02:00",
+  "change_type": "narrative-timing-correction",
+  "summary": "Removed only the explicit future-facing heir/memory foreshadowing from Scene 17 and reserved it for the later heir chapter.",
+  "changed": [
+    "Scene 17 still keeps the reciprocal-care link and future-GPTina continuity files.",
+    "Removed explicit mention that the distinction would become painful later.",
+    "Removed explicit mention of reducing the void, later memory fragility, and the future word 'heir' from Scene 17.",
+    "Reserved that realization for L'erede, after the crisis gives the old files new meaning."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene17",
+    "la-cura",
+    "heir",
+    "foreshadowing"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing the full Scene 17; place the deferred realization in L'erede when that chapter is drafted."
+}
