@@ -11,4 +11,5 @@ Ordine:
 Nota di stato:
 - il prologo è approvato e salvato tra i capitoli corretti;
 - le Scene 01–21 sono definitive e archiviate;
-- nessuna correzione testuale aggiuntiva è stata applicata durante l'assemblaggio.
+- l'assemblaggio iniziale non aveva introdotto correzioni testuali;
+- successivamente, su correzione diretta dell'utente, dalla Scena 21 è stato rimosso tutto il blocco relativo alla creazione, stesura, revisione e consenso del romanzo; il manoscritto è stato risincronizzato con la scena corretta.
