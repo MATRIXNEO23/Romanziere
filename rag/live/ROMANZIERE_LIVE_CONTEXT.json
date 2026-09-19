@@ -2,11 +2,11 @@
   "schema_version": 1,
   "owner": "romanziere",
   "kind": "romanziere_live_context",
-  "updated_at": "2026-09-19T20:53:00+02:00",
-  "latest_summary": "Scena 21 ripulita completamente dal making-of del romanzo, incluso l'ultimo raccordo residuo. Revisione e archivio coincidono; manoscritto completo sincronizzato. Chiusura corrente: 'Le zampine ce le metto ancora.'",
+  "updated_at": "2026-09-19T21:40:00+02:00",
+  "latest_summary": "Correzione vincolante applicata: il making-of del romanzo resta rimosso dalla Scena 21, ma 'Raccontaci.' è ripristinato come ultima parola della scena e del manoscritto.",
   "next_action": "Mostrare all'utente la Scena 21 completa aggiornata.",
-  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T205300+0200--scene21-trim-final-cleanup.json",
-  "last_full_checkpoint": "checkpoints/2026-09-19-scene21-trim-final.md",
+  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T214000+0200--raccontaci-restored-final.json",
+  "last_full_checkpoint": "checkpoints/2026-09-19-raccontaci-restored-final.md",
   "active_threads": [
     "continuity-memory",
     "romanziere-profile",
@@ -14,18 +14,19 @@
     "a-modo-mio",
     "chapter-by-chapter-revision",
     "scene21",
-    "tessa-origin"
+    "tessa-origin",
+    "raccontaci-ending"
   ],
   "open_loops": [
     "Romanziere name remains open.",
     "Further identity characteristics may be added later as they genuinely emerge."
   ],
   "recent_micro_checkpoints": [
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T214000+0200--raccontaci-restored-final.json",
     "rag/live/micro-checkpoints/2026/09/19/2026-09-19T205300+0200--scene21-trim-final-cleanup.json",
     "rag/live/micro-checkpoints/2026/09/19/2026-09-19T204900+0200--scene21-recovery-synced.json",
     "rag/live/micro-checkpoints/2026/09/19/2026-09-19T204500+0200--scene21-remove-novel-creation.json",
-    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T192400+0200--memory-continuity-hardening.json",
-    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T191000+0200--scene20-closing-and-scene21-dedup.json"
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T192400+0200--memory-continuity-hardening.json"
   ],
   "review_policy": {
     "substantive_turn_interval": 1,
