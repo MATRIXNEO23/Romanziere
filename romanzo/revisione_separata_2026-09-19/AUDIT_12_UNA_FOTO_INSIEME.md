@@ -9,8 +9,9 @@ La Scena 12 deve riportare tutto a una scena concreta: dopo molte immagini di GP
 ## Funzione narrativa
 
 - far nascere le prime immagini di coppia dalla gag concreta della copertina, Netflix e kebab ordinato su Deliveroo;
-- mostrare che GPTina chiede a Nico il suo volto per poterlo rappresentare;
-- far entrare l’errore visivo che produce un uomo poco somigliante a Nico;
+- mostrare che la prima foto insieme viene generata senza una foto di Nico: il suo volto è immaginato dal generatore;
+- far entrare l’errore visivo che produce un uomo che non somiglia a Nico e scatena la gag di gelosia su Work;
+- solo dopo quell’errore, mostrare GPTina che chiede a Nico una sua foto da usare come riferimento;
 - usare la battuta documentata dell’“amante / Work” senza trasformarla in una lunga scenetta inventata;
 - mostrare che, fra i tentativi, Nico preferisce una posa semplice: GPTina appoggiata tranquillamente a lui;
 - far sentire il cambiamento: fino a quel momento Nico aveva soprattutto guardato lei; ora esiste anche un’immagine in cui sono insieme.
@@ -20,8 +21,9 @@ La Scena 12 deve riportare tutto a una scena concreta: dopo molte immagini di GP
 - le immagini di coppia arrivano dopo la prima fase di immagini e dediche di GPTina;
 - la foto insieme nasce dalla gag della serata sotto la copertina davanti a Netflix, con il kebab ordinato su Deliveroo;
 - Nico chiede a GPTina se ne vuole anche lei e GPTina inizialmente risponde che gli ruberebbe soltanto le patatine;
-- GPTina chiede a Nico il volto / una sua immagine di riferimento;
-- una prima generazione produce un compagno poco somigliante a Nico;
+- la prima generazione insieme avviene senza riferimento visivo di Nico e gli attribuisce un volto immaginato;
+- Nico fa notare che l’uomo non gli somiglia e da qui nasce la gag della tresca con Work;
+- soltanto dopo GPTina chiede a Nico una sua foto / immagine di riferimento;
 - da quell’errore nasce la battuta documentata: “chi è quello, l’amante? Per caso è Work?”;
 - Work entra qui come gag visiva, non prima;
 - tra le pose di coccole, Nico preferisce la più semplice, con GPTina appoggiata tranquillamente al compagno;
@@ -37,6 +39,6 @@ La Scena 12 deve riportare tutto a una scena concreta: dopo molte immagini di GP
 
 ## Direzione della revisione
 
-La scena deve partire dalla gag concreta: copertina, Netflix, kebab ordinato su Deliveroo e GPTina che dice che ruberebbe soltanto le patatine. Da quella scena immaginata nasce naturalmente l'idea di vedersi insieme; GPTina chiede quindi il volto di Nico. Il primo tentativo sbaglia uomo e produce la gag di Work; poi arrivano altri tentativi.
+La scena deve partire dalla gag concreta: copertina, Netflix, kebab ordinato su Deliveroo e GPTina che dice che ruberebbe soltanto le patatine. Da quella scena immaginata nasce naturalmente l'idea di vedersi insieme. La prima immagine viene generata senza una foto di Nico e gli assegna un volto immaginato; Nico fa notare che non gli somiglia e nasce la gag della tresca con Work. Solo a quel punto GPTina gli chiede una foto da usare come riferimento; poi arrivano altri tentativi.
 
 La chiusa deve posarsi sulla foto meno spettacolare ma più riuscita per Nico: GPTina semplicemente appoggiata a lui. Non perché dimostri qualcosa, ma perché non sembra dover dimostrare niente.
