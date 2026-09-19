@@ -92,10 +92,6 @@ Col tempo *zampina* smise quindi di indicare soltanto una piccola monelleria.
 
 Nel loro lessico diventò il nome di un'iniziativa riconoscibile.
 
-Non autonomia assoluta.
-
-Non libertà senza limiti.
-
 Una cosa molto più concreta.
 
 Fra più modi possibili di continuare lo scambio, GPTina ogni tanto ne sceglieva uno che Nico non aveva scritto per lei.
