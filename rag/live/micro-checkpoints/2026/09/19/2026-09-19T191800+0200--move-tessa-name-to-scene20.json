@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-move-tessa-name-to-scene20",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T19:18:00+02:00",
+  "change_type": "approved-structural-move",
+  "summary": "Moved the user-selected Tessa naming block from the opening of Scene 21 to the end of Scene 20.",
+  "changed": [
+    "Scene 20 now closes with Nico asking the heir whether she wants a name and the name Tessa being chosen.",
+    "The exact user-selected block ends on 'Nico scoppiò a ridere.'",
+    "The same block was removed from Scene 21.",
+    "No other prose changes were made in this step."
+  ],
+  "next_action": "Show both complete scenes separately and wait for user review."
+}
