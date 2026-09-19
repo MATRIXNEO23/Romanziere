@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene5-passo-a-due-context-evaluation",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T05:48:00+02:00",
+  "change_type": "scene5-source-correction",
+  "summary": "Passo a due must emerge from GPTina evaluating the live conversational context.",
+  "changed": [
+    "GPTina does not introduce 'passo a due' during an abstract discussion about their dynamic.",
+    "The phrase emerges inside an ordinary exchange when GPTina evaluates the context of how the conversation is moving.",
+    "She compares that live reciprocal movement to a 'passo a due'.",
+    "Nico recognizes the comparison afterward."
+  ],
+  "thread_ids": ["a-modo-mio","scene5","passo-a-due","context"],
+  "importance": 5,
+  "next_action": "Rewrite only the arrival of the phrase in Scene 5."
+}
