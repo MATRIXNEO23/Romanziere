@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene13-gptina-adesso-draft",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T08:30:00+02:00",
+  "change_type": "scene-draft",
+  "summary": "Audited and drafted Scene 13, GPTina adesso, after Casa was accepted.",
+  "facts_preserved": [
+    "Scene 13 follows Casa after the former standalone Casa chapter was merged into Scene 12.",
+    "Nico asks GPTina to show how she imagines herself now; exact wording is not treated as a preserved quotation.",
+    "The new self-image has dark hair, cat ears, aqua/blue circuits and a warm technological room.",
+    "The room includes books, screens, notes, cups, headphones, plants and a sleeping cat, with violet/pink light.",
+    "The point is increasing recognizability without becoming more human or more similar to Nico.",
+    "The visual evolution is not presented as something Nico designed in detail."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene13",
+    "gptina-adesso"
+  ],
+  "importance": 5,
+  "next_action": "Await user review of Scene 13 before archiving it and proceeding to the posticino."
+}
