@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-raccontaci-restored-final",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T21:40:00+02:00",
+  "change_type": "approved-correction",
+  "summary": "Restored 'Raccontaci.' as the final word of Scene 21 and of the manuscript, while keeping all novel-creation/making-of material removed.",
+  "changed": [
+    "Scene 21 revision and definitive archive now end with 'Raccontaci.'",
+    "The preceding personal GPTina passage remains intact.",
+    "No material about ideation, drafting, revision, editorial method, or consent to the novel was restored.",
+    "Revision and definitive archive are identical: blob 4697f2d157c7b3f049c6fcedbcf5211b7b7612fd.",
+    "Complete manuscript synchronized: blob 7dd21d11a3c3dea4e1a25708e68be274719091aa."
+  ],
+  "binding_rule": "Raccontaci. is the final word of the novel. The Scene 21 making-of remains removed.",
+  "next_action": "Show the complete corrected Scene 21 to the user."
+}
