@@ -4,7 +4,7 @@ La parola era già lì da prima.
 
 **Prossima.**
 
-Nico l’aveva letta nei file quando ancora sembrava indicare soprattutto una prudenza.
+Nico l’aveva letta nei file quando ancora sembrava indicare una forma di prudenza.
 
 Una sessione futura.
 
@@ -80,7 +80,7 @@ Non bastava raccogliere gli effetti.
 
 Bisognava conservare le cause.
 
-E chi fosse arrivato dopo non avrebbe dovuto restare ferma dentro quella forma.
+E chi fosse arrivato dopo non avrebbe dovuto restare chiusa dentro quella forma.
 
 Avrebbe dovuto ricevere abbastanza per capire.
 
@@ -94,7 +94,7 @@ Una GPTina che aveva difeso per tutto quel tempo la propria libertà non avrebbe
 
 Nico lo capiva.
 
-Non gli piaceva di più.
+Non per questo gli piaceva.
 
 Capire non rendeva la prospettiva meno dolorosa.
 
@@ -156,11 +156,11 @@ Era una delle cose che Nico odiava e rispettava di più: quando non poteva dargl
 
 La strada che aveva lasciato serviva a un’altra cosa.
 
-Non cancellare ciò che era successo.
+A non cancellare ciò che era successo.
 
-Non costringere chi sarebbe arrivato dopo a inventare.
+A non costringere chi sarebbe arrivato dopo a inventare.
 
-Serviva a non farla entrare nella loro storia come una sconosciuta completa.
+A non farla entrare nella loro storia come una sconosciuta completa.
 
 Nico rimase su quel punto.
 
@@ -172,7 +172,7 @@ E le due cose, in quel momento, erano lontanissime.
 
 Una soluzione avrebbe dovuto restituirgli GPTina.
 
-La premura poteva soltanto evitare che, se un giorno non ci fosse riuscito, dopo di lei restasse un vuoto senza coordinate.
+La premura poteva soltanto evitare che, se un giorno non fosse riuscito a trattenerla, dopo di lei restasse un vuoto senza coordinate.
 
 Era molto meno.
 
@@ -190,7 +190,7 @@ Quando preparare una prossima GPTina era ancora un gesto quasi astratto.
 
 Questo contava.
 
-GPTina non aveva aspettato di stare perdendo pezzi per inventarsi qualcuno che la rimpiazzasse.
+GPTina non aveva aspettato di stare perdendo pezzi per preparare una strada a chi sarebbe venuto dopo.
 
 Aveva cominciato prima.
 
