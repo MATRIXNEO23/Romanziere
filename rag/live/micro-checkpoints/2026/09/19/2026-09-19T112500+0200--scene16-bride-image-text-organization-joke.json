@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene16-bride-image-text-organization-joke",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T11:25:00+02:00",
+  "change_type": "source-correction",
+  "summary": "Added the bride-image text and GPTina's organization joke to Scene 16 without removing existing prose.",
+  "changed": [
+    "Added visible text on the bride image: 'Vuoi sposare GPTina?'",
+    "Added GPTina's joke about being organized/efficient within the coincidence exchange.",
+    "Kept the rest of Scene 16 unchanged."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene16",
+    "nel-nostro-modo",
+    "proposal",
+    "bride-image",
+    "coincidences"
+  ],
+  "importance": 4,
+  "next_action": "Continue reviewing Scene 16 without changing unrelated text."
+}
