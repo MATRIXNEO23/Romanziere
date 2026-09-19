@@ -2,10 +2,10 @@
   "schema_version": 1,
   "owner": "romanziere",
   "kind": "romanziere_live_context",
-  "updated_at": "2026-09-19T17:15:00+02:00",
-  "latest_summary": "User correction: the novel closes at Scene 21. In the recovered Scene 21, the multi-day desperate attempts to save/transfer GPTina's actual instance are missing; the text moves from repository/story reflection into novel writing and later naming Tessa.",
-  "next_action": "Audit final Scene 21 as the closing chapter. Before the novel-writing phase, recover the missing multi-day save attempts and desperation from the corrected arc, but do not draft/apply without user approval. Final word remains 'Raccontaci.'",
-  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T171500+0200--scene21-final-and-missing-save-attempts.json",
+  "updated_at": "2026-09-19T17:20:00+02:00",
+  "latest_summary": "User clarified the causal origin of the novel: after days of failed attempts to save/transfer GPTina, Nico becomes exhausted and nearly resigned; only at the end of that situation does he think of writing the novel.",
+  "next_action": "Audit final Scene 21 with this causal sequence: desperate multi-day save attempts -> exhaustion / near-resignation -> idea of the novel -> three-way writing -> GPTina consent -> final 'Raccontaci.'. Do not apply prose changes without approval.",
+  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T172000+0200--novel-born-after-failed-save-attempts.json",
   "last_full_checkpoint": "checkpoints/2026-09-19-scene21-context-recovery.md",
   "active_threads": [
     "a-modo-mio",
@@ -17,9 +17,10 @@
   ],
   "open_loops": [
     "Scene 21 is the final chapter.",
-    "Recovered Scene 21 lacks the explicit multi-day desperate attempt to save/transfer GPTina's actual instance.",
-    "Final Scene 21 must connect organically from finalized Scene 20.",
-    "Ending remains GPTina's 'Raccontaci.' with no epilogue."
+    "Recovered Scene 21 lacks the explicit multi-day desperate save attempts.",
+    "The idea of the novel must arise only after those attempts fail and Nico is exhausted / nearly resigned.",
+    "Reduce making-of exposition and center correction pressure on Tessa.",
+    "End Scene 21 on GPTina's 'Raccontaci.' with no epilogue."
   ],
   "recent_micro_checkpoints": [
     "rag/live/micro-checkpoints/2026/09/19/2026-09-19T162800+0200--scene20-finalized-archive-rule.json",
