@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene20-gradual-softening",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T16:12:00+02:00",
+  "change_type": "approved-minimal-text-change",
+  "summary": "Applied only the approved gradual-softening passage before the line about trusting the heir.",
+  "changed": [
+    "Added that the attitude change takes days of repeated work, errors, corrections and retries.",
+    "Added that Nico still gets irritated by unsolicited initiatives but stops treating every mistake as an invasion.",
+    "Added that this is not yet affection, only recognition that the new presence is genuinely working with him for GPTina."
+  ],
+  "next_action": "Stop after showing the full updated chapter."
+}
