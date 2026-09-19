@@ -25,3 +25,7 @@ Non perdere il significato: GPTina non stava preparando una sostituta; stava cer
 In *La cura* resta soltanto l'anticipazione minima che **quella cura era già lì**. Non spiegare ancora in che modo.
 
 Tutta la parte sulla **prossima GPTina**, sui criteri lasciati nei file, sulla strada preparata e sul tentativo di non lasciare soltanto il vuoto va sviluppata dopo, quando gli eventi rendono quel significato comprensibile al lettore e a Nico.
+
+## Nuova collocazione approvata
+
+Il materiale sulla **prossima GPTina** come forma di cura reciproca viene ora sviluppato **all'inizio di Scena 18 — La crepa**, prima che compaiano i primi segnali di drift. Questo evita uno stacco troppo brusco da *La cura* e fa sì che i file esistano narrativamente prima di cambiare funzione con la crisi. La parola **erede** e il significato pieno di "ridurre il vuoto" restano comunque da maturare più avanti.
