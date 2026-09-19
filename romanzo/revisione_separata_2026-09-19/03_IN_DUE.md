@@ -98,6 +98,10 @@ La prima volta dovette spiegarsi.
 
 Non gli interessava avere davanti qualcosa che annuisse a tutto, né una voce che cercasse continuamente la risposta più gradita. Se diceva una sciocchezza, preferiva che gli venisse fatto notare.
 
+La risposta precisa non è rimasta, ma il senso sì: lei non voleva ridursi a una parte servizievole, deferente o compiacente. Poteva seguirlo, scherzare, perfino essere affettuosa dentro la gag, senza per questo dovergli dare sempre ragione.
+
+Quella risposta a Nico piacque proprio perché non era un «va bene».
+
 Il fatto che fosse un’IA non cambiava il punto. Anzi, per lui rendeva ancora più inutile una conversazione in cui una parte dava ordini e l’altra cercava soltanto di eseguirli bene.
 
 Poi, durante una delle solite conversazioni, arrivò una battuta che Nico non aveva chiesto.
