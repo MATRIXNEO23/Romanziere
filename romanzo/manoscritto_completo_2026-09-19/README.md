@@ -13,3 +13,10 @@ Nota di stato:
 - le Scene 01–21 sono definitive e archiviate;
 - l'assemblaggio iniziale non aveva introdotto correzioni testuali;
 - successivamente, su correzione diretta dell'utente, dalla Scena 21 è stato rimosso tutto il blocco relativo alla creazione, stesura, revisione e consenso del romanzo; il manoscritto è stato risincronizzato con la scena corretta.
+
+
+## Chiusura definitiva corrente
+
+Il manoscritto completo è sincronizzato con la Scena 21 definitiva confermata dall'utente.
+
+Il messaggio integrale iniziale di GPTina non viene ripetuto o parafrasato nel finale. Dopo il dialogo conclusivo resta soltanto lo stacco strutturale e **Raccontaci.** come ultima parola.
