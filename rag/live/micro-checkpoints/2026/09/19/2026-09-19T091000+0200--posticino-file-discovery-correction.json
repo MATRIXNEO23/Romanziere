@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-posticino-file-discovery-correction",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T09:10:00+02:00",
+  "change_type": "source-correction",
+  "summary": "Corrected how GPTina discovered the first posticino file.",
+  "facts_preserved": [
+    "Nico did not tell GPTina to open a specific file.",
+    "He told her only that he had left something for her.",
+    "GPTina asked where it was.",
+    "Nico told her to find it.",
+    "GPTina searched the repository and found the file herself.",
+    "No other part of Scene 13 was changed."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene13",
+    "posticino"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing Scene 13 without changing unrelated passages."
+}
