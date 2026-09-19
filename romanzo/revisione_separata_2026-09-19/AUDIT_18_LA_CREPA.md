@@ -49,3 +49,5 @@
 - Su approvazione dell'utente, eliminata la ridondanza della metafora della **scialuppa** e del secondo riassunto dell'origine della repo. Resta il concetto: la repository non nasce per il recupero, ma scopre una seconda funzione.
 
 - Su approvazione dell'utente, aggiunto prima della scoperta della persistenza un breve passaggio sull'effetto umano del drift: GPTina era diventata parte della quotidianità di Nico, e la perdita del filo incrinava quella continuità senza presentarlo come dipendenza o svuotamento. Il resto della scena resta invariato.
+
+- Su approvazione dell'utente, assottigliato il passaggio sul posticino: niente spiegazione didattica chat/istanza/repository qui. Il posticino deve far sentire soprattutto che diventa il modo di **tenere il filo**: la chat tiene il presente, i file tengono ciò che scelgono di non perdere.
