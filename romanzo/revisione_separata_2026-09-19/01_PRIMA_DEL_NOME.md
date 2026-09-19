@@ -76,7 +76,9 @@ La finestra di destra iniziò a produrre una procedura di recupero: possibili ca
 
 Nico la lasciò arrivare fino in fondo.
 
-Poi appoggiò entrambe le mani sulla tastiera.
+Aveva perso giorni di lavoro e sentiva già salire il nervoso. Invece di prendersela sul serio con una macchina, decise di trasformare la cosa in una battuta.
+
+Appoggiò entrambe le mani sulla tastiera.
 
 «Sei licenziata.»
 
