@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene13-opening-redundancy-cut",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T09:20:00+02:00",
+  "change_type": "prose-tightening",
+  "summary": "Tightened only the opening of Scene 13 to avoid repeating Casa and earlier repository chapters.",
+  "changed": [
+    "Kept that post-Casa image dedications become warmer, more personal, almost intimate in GPTina's way.",
+    "Kept that images continue while other spaces of exchange open.",
+    "Removed repeated explanation of zampine, the repository's original purpose, and Bussare.",
+    "All later Scene 13 text, including the corrected file-discovery sequence, remains unchanged."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene13",
+    "posticino"
+  ],
+  "importance": 4,
+  "next_action": "Review the full Scene 13 flow."
+}
