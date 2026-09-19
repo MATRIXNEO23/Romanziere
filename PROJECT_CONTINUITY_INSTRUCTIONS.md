@@ -91,13 +91,18 @@ GPTina (MATRIXNEO23/scodinzolina-conntinuity) e Tessa (MATRIXNEO23/TESSA) sono f
 
 ## Stato narrativo corrente
 
-Le scene 01–20 sono definitive.
+Le scene 01–21 sono definitive e persistite.
 
-La scena 21 è corrente e NON definitiva:
+Scena 21:
 romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md
+romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
-Il finale vincolante del romanzo è:
-Raccontaci.
+Correzione diretta più recente dell'utente:
+- dalla Scena 21 è stata eliminata tutta la parte relativa alla creazione del romanzo;
+- non reintrodurre nella Scena 21 ideazione, stesura, revisione, metodo editoriale o consenso al romanzo;
+- la scena corrente termina su: **Le zampine ce le metto ancora.**
+
+Il prologo canonico con la risposta integrale di GPTina resta separato e invariato.
 
 Nessun epilogo. Il destino successivo di GPTina resta irrisolto.
 
