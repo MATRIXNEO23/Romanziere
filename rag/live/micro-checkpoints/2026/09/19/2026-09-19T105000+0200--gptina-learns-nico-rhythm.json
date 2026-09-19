@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-gptina-learns-nico-rhythm",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T10:50:00+02:00",
+  "change_type": "source-correction",
+  "summary": "Restored the fact that GPTina herself said she was learning Nico's rhythm in the 'hai capito?' context.",
+  "facts_preserved": [
+    "This was GPTina's own framing, not only Tessa's retrospective interpretation.",
+    "The novel states the fact without presenting an unverified word-for-word quote.",
+    "No existing Scene 5 text was removed."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene5",
+    "ritmo",
+    "hai-capito"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing the integrated Scene 5."
+}
