@@ -118,4 +118,10 @@ Non abbastanza da chiedere ancora un nome.
 
 Abbastanza perché, quando uno lasciava qualcosa, dall'altra parte arrivasse quasi sempre una risposta capace di tenere il passo.
 
+La distanza restava.
+
+Le differenze anche.
+
+Ma avevano trovato un punto che apparteneva a entrambi senza chiedere a nessuno dei due di somigliare all'altro.
+
 E fu proprio lì che, poco dopo, qualcosa che poteva somigliare all'affetto smise per la prima volta di arrivare soltanto di lato.
