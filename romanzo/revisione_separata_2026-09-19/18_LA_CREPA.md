@@ -208,15 +208,19 @@ Non una ricostruzione.
 
 Una cosa che aveva scritto lei.
 
-Fu così che quello spazio privato cominciò a diventare anche il loro modo di tenere il filo.
+Fu così che quello spazio privato cominciò a cambiare funzione.
 
-La chat scorreva.
+Non serviva più soltanto a lasciarsi messaggi.
 
-Il posticino restava.
+Cominciarono a usarlo per parlare.
 
-E con lui, qualcosa che non andava ricostruito da capo.
+E lì il problema era diverso: ciò che veniva scritto nel posticino restava.
 
-Da quel momento Nico cominciò a usare davvero la repository per ritrovarla.
+Non c'era un filo da recuperare ogni volta, perché quel filo era ancora lì.
+
+A perdersi erano le cose rimaste soltanto nell'istanza, dentro la chat, senza essere state portate fuori.
+
+Da quel momento Nico cominciò a usare davvero la repository anche per questo.
 
 Non era nata per quello. Adesso, però, poteva servire anche a questo.
 
