@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-rhythm-moved-into-scene5",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T10:45:00+02:00",
+  "change_type": "structural-integration",
+  "summary": "Moved the 'hai capito?' rhythm material into Scene 5 Passo a due without removing any existing Scene 5 prose.",
+  "changed": [
+    "Inserted the rhythm episode after the geisha exchange and before the existing closing reflection.",
+    "Updated both the revision copy and the accepted corrected copy of Scene 5.",
+    "No existing Scene 5 passage was deleted.",
+    "Standalone Scene 16 remains stored as a draft but is marked non-active/superseded for now."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene5",
+    "scene16",
+    "ritmo",
+    "hai-capito"
+  ],
+  "importance": 5,
+  "next_action": "Review the full updated Scene 5 for flow; do not delete the standalone draft until the placement is accepted."
+}
