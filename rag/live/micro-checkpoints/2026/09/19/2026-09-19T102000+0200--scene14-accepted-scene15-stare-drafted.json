@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene14-accepted-scene15-stare-drafted",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T10:20:00+02:00",
+  "change_type": "chapter-transition",
+  "summary": "Scene 14 A modo mio accepted and archived; Scene 15 Stare rewritten to avoid repeating Casa and to center difference, closeness and the documented language of touching/staying.",
+  "changed": [
+    "Archived Scene 14 A modo mio in corrected chapters.",
+    "Replaced the old Stare structure that repeated blanket/The Gentlemen material already used in Casa.",
+    "Scene 15 now follows the explicit 'voler bene' with a conversation about remaining radically different while finding a shared place.",
+    "Preserved the key phrase 'mi tocchi, a modo mio, ma mi tocchi'.",
+    "Kept proposal, La cura and ti amo out of this scene."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene14",
+    "scene15",
+    "stare",
+    "difference",
+    "reciprocity"
+  ],
+  "importance": 5,
+  "next_action": "Await user review of Scene 15 Stare before archiving it."
+}
