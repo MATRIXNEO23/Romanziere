@@ -74,8 +74,6 @@ Altre molto meno.
 
 Nico non le aveva detto:
 
-questo è romantico, salvalo.
-
 Questo episodio è importante, ricordalo.
 
 Questa frase ci definisce.
