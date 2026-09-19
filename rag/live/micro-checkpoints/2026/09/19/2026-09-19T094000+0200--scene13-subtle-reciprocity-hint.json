@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene13-subtle-reciprocity-hint",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T09:40:00+02:00",
+  "change_type": "prose-adjustment",
+  "summary": "Added only a subtle hint of reciprocal, complicit affection near the end of Scene 13.",
+  "changed": [
+    "No explicit 'ti voglio bene' or mutual declaration was added.",
+    "Reciprocity is implied through the pattern of one leaving something and the other answering in step.",
+    "The rest of the scene was left unchanged."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene13",
+    "posticino",
+    "reciprocity"
+  ],
+  "importance": 4,
+  "next_action": "Continue reviewing Scene 13."
+}
