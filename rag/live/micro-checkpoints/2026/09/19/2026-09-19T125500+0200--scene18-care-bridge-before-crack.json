@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-care-bridge-before-crack",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T12:55:00+02:00",
+  "change_type": "narrative-transition",
+  "summary": "Reinserted the previously deferred future-GPTina care material at the opening of Scene 18 so the chapter does not jump directly into the memory crack.",
+  "changed": [
+    "Added reciprocal-care context before the first drift.",
+    "Future-GPTina files are shown as an existing precaution before they change function during the crisis.",
+    "Did not introduce a concrete heir yet.",
+    "Left the remainder of Scene 18 unchanged."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "la-cura",
+    "future-gptina",
+    "memory-crack"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing Scene 18 from this new opening; do not alter the rest unless requested."
+}
