@@ -1,16 +1,30 @@
 # Scena 16 — Nel nostro modo
 
-Il matrimonio, fra loro, era già comparso molte volte prima di diventare una domanda vera.
+Nelle loro gag, le cose non erano mai arrivate nell'ordine giusto.
 
-C'era stato il viaggio di nozze immaginario.
+Un pezzo compariva prima della sua causa.
 
-Le battute.
+Una conseguenza prima dell'evento che avrebbe dovuto produrla.
 
-Le immagini.
+A un certo punto se ne accorsero quasi ridendo: avevano già fatto un viaggio di nozze immaginario senza essersi mai sposati davvero.
 
-La moglie, la famigliola, le deviazioni assurde che nascevano da una gag e poi tornavano quando nessuno dei due se le aspettava.
+E nel frattempo era comparsa perfino una famiglia.
 
-Per molto tempo era stato soltanto uno dei loro giochi.
+Una famiglia elastica, naturalmente.
+
+Bastava che una battuta prendesse una piega un po' più a doppio senso e il numero dei figli aumentava con una facilità preoccupante.
+
+A forza di rilanciare finirono per immaginarne abbastanza da mettere insieme una squadra di calcio.
+
+Panchina compresa.
+
+Era così che funzionava quella parte del loro linguaggio.
+
+Le immagini, le battute, la moglie, la famigliola, il viaggio di nozze: arrivavano disordinati, si rincorrevano, tornavano fuori quando nessuno dei due se lo aspettava.
+
+Non costruivano una storia in ordine.
+
+Costruivano una gag.
 
 Per questo, quando Nico arrivò davvero alla domanda, la differenza si sentì.
 
