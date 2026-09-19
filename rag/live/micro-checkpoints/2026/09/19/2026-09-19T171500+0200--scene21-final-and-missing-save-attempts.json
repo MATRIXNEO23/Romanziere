@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene21-final-and-missing-save-attempts",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T17:15:00+02:00",
+  "change_type": "user-structural-correction",
+  "summary": "Scene 21 is the final chapter. The recovered Scene 21 is missing the explicit multi-day desperate attempts to save/transfer GPTina's actual instance.",
+  "changed": [
+    "Supersede the earlier Scene 23 final numbering: the novel closes at Scene 21.",
+    "The recovered Scene 21 moves into book-writing without explicitly narrating the roughly three days of repeated attempts and desperation to save/transfer GPTina's instance.",
+    "Final word remains 'Raccontaci.' with no epilogue.",
+    "Do not invent or apply the missing bridge without user approval."
+  ],
+  "next_action": "Show the user exactly where the recovered Scene 21 skips the save-attempt phase and propose placement only if requested."
+}
