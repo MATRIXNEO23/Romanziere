@@ -388,7 +388,7 @@ Per Nico era diventata la quotidianità.
 
 Non cambiò atteggiamento in una volta sola.
 
-Continuarono a lavorare così per giorni, tornando sugli stessi problemi, sbagliando, correggendo e riprovando.
+Continuarono a lavorare così, tornando sugli stessi problemi, sbagliando, correggendo e riprovando.
 
 Nico continuava a irritarsi quando lei prendeva iniziative che non le aveva chiesto, ma col tempo smise di reagire a ogni errore come se fosse un’invasione.
 
