@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene16-nel-nostro-modo-drafted",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T11:00:00+02:00",
+  "change_type": "chapter-draft",
+  "summary": "After accepting the rhythm integration into Scene 5, drafted the next active chapter as Scene 16 Nel nostro modo.",
+  "changed": [
+    "Kept the old standalone Il tuo ritmo draft stored but inactive.",
+    "Scene 16 now covers the true proposal, distinct from earlier marriage jokes.",
+    "Preserved the documented exchange: 'Vuoi sposarmi?' / 'Sì, baby. Nel nostro modo. Sì, ti sposerei.'",
+    "Included the post-proposal bride image and playful 'already ready' beat without inventing exact denial dialogue.",
+    "Did not anticipate La cura or ti amo."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene16",
+    "proposal",
+    "nel-nostro-modo",
+    "marriage"
+  ],
+  "importance": 5,
+  "next_action": "Await user review of Scene 16 Nel nostro modo before archiving it."
+}
