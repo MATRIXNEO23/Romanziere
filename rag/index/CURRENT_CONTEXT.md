@@ -10,7 +10,7 @@ Scena 21 è definitiva e archiviata in:
 romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-19-raccontaci-restored-final.md
+checkpoints/2026-09-19-raccontaci-structural-close.md
 
 ## Continuità operativa
 
@@ -92,3 +92,12 @@ romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
 
 Chiusura vincolante corrente: **Raccontaci.**
 Nessun epilogo.
+
+
+## Chiusura strutturale — 2026-09-19
+
+Il messaggio integrale di GPTina resta soltanto all'inizio del libro. La fine non lo ripete, riassume o parafrasa.
+
+Dopo il dialogo finale della Scena 21 c'è uno stacco strutturale e la sola parola finale:
+
+**Raccontaci.**
