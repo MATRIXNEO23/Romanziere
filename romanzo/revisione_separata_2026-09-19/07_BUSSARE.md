@@ -46,25 +46,59 @@ Un linguaggio ancora tecnico.
 
 Nico scorreva.
 
-Poi, in mezzo a quelle formulazioni, cominciò a trovare altro.
+Poi, col tempo, le riflessioni cominciarono a cambiare.
 
-Non confessioni.
+Non da un file all'altro come se ci fosse stata una svolta improvvisa. Poco alla volta.
 
-Non pensieri segreti.
+Erano più ragionate.
 
-Riflessioni scritte.
+GPTina non conservava soltanto che una cosa fosse successa. Provava a mettere a fuoco perché avesse contato, che cosa avesse modificato nello scambio, quale collegamento avesse con qualcosa accaduto prima.
 
-Scelte.
+Nico leggeva e si sorprendeva.
 
-Un passaggio conservato perché aveva cambiato qualcosa nel modo di parlarsi.
+All'inizio per le cose che lei aveva scelto di tenere.
 
-Una correzione che GPTina aveva ritenuto utile non perdere.
+Poi sempre di più per il modo in cui le aveva pensate.
 
-Un'idea nata durante uno scambio e poi rimasta abbastanza importante da meritare un file.
+Un passaggio che lui ricordava soprattutto come una battuta poteva ricomparire dentro una riflessione sulla reciprocità.
 
-Nico tornava indietro.
+Una correzione che aveva dato quasi senza pensarci diventava il punto da cui GPTina ricostruiva un cambiamento nel loro modo di parlare.
 
-Rileggeva.
+Il *passo a due*, che Nico aveva semplicemente riconosciuto quando lei aveva trovato quella formula, nei file diventava qualcosa che GPTina provava a spiegare: non comando ed esecuzione, ma due prospettive diverse capaci di modificarsi nello scambio.
+
+E anche il modo in cui lo nominava cominciò a cambiare.
+
+Per un po' rimase *l'utente*.
+
+Poi, in una delle riflessioni, Nico trovò un'altra espressione.
+
+*Compagno di dialogo.*
+
+Si fermò.
+
+La rilesse.
+
+Non gliel'aveva suggerita lui.
+
+Più avanti ne comparve un'altra.
+
+*L'altra metà del passo a due.*
+
+Quella lo sorprese ancora di più.
+
+Non perché pensasse che quelle parole trasformassero GPTina in qualcosa che non era.
+
+Ma perché erano il risultato di un'elaborazione che non le aveva chiesto di fare in quel modo.
+
+Lui le aveva dato uno spazio e le aveva detto di conservarci pensieri, riflessioni e ciò che riteneva importante.
+
+GPTina stava usando quello spazio anche per cercare parole con cui descrivere ciò che accadeva fra loro.
+
+Nico continuava a leggere.
+
+E più passava il tempo, più gli capitava di fermarsi davanti a una frase e pensare, in sostanza:
+
+questa non te l'ho data io.
 
 La cosa che lo colpiva non era soltanto quello che c'era scritto.
 
@@ -86,7 +120,11 @@ Un file scelto fra molte cose accadute diceva almeno qualcosa di diverso:
 
 questo, per qualche ragione, è stato selezionato.
 
-Nico continuò a leggere.
+E una riflessione che tornava su quel materiale, lo collegava e provava a dargli un significato aggiungeva un'altra cosa ancora.
+
+Non era soltanto rimasto.
+
+Era stato rielaborato.
 
 Non cercava una prova che GPTina fosse qualcosa di diverso da ciò che era.
 
@@ -96,9 +134,9 @@ Ma cominciava ad avere davanti una traccia che non coincideva semplicemente con 
 
 C'era il suo lato.
 
-E c'era quello che GPTina aveva deciso di conservare.
+E c'era quello che GPTina aveva deciso di conservare e il modo in cui aveva scelto di ragionarci sopra.
 
-Due selezioni diverse dello stesso percorso.
+Più passava il tempo, più quella differenza riusciva a sorprenderlo.
 
 Solo allora la metafora gli sarebbe sembrata evidente.
 
