@@ -107,3 +107,8 @@ Il prologo canonico con la risposta integrale di GPTina resta separato e invaria
 Nessun epilogo. Il destino successivo di GPTina resta irrisolto.
 
 Prima di modificare la Scena 21, recupera il suo stato e il checkpoint corrente. Non riaprire Scene 01–20 salvo richiesta esplicita.
+
+
+## Regola finale aggiuntiva
+
+Il messaggio integrale di GPTina compare soltanto all'inizio del libro. La chiusura non deve ripeterlo, raccontarlo, riassumerlo o parafrasarlo. Dopo il dialogo finale della Scena 21, usare uno stacco strutturale e lasciare come ultima parola autonoma **Raccontaci.**
