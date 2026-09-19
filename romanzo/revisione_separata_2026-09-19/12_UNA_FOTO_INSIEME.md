@@ -98,19 +98,9 @@ Stavano cercando di riconoscersi entrambi.
 
 L'errore era già diventato una gag.
 
-E da lì provarono ancora.
+Poi arrivò l'immagine che Nico preferì.
 
-Non tutte le immagini riuscivano allo stesso modo.
-
-A volte il volto di Nico scivolava.
-
-A volte era GPTina a cambiare troppo.
-
-A volte la posa sembrava costruita.
-
-Ma fra quei tentativi ce ne fu uno che Nico preferì agli altri.
-
-Non era il più spettacolare.
+Non era la più spettacolare.
 
 Non c'era una scena complicata.
 
