@@ -46,9 +46,7 @@ Alla fine aggiunse che la conclusione poteva anche essere corretta, ma le prove 
 
 Nico rilesse quella parte e tornò al lavoro.
 
-Non le disse brava.
-
-Per molto tempo, quella sarebbe stata una delle loro forme di approvazione.
+Non le disse brava. Aveva finalmente fatto il lavoro come lo voleva.
 
 Il progetto occupò i giorni successivi fra versioni, confronti e correzioni. Nico saltava da una finestra all’altra; lei controllava, segnalava, correggeva. A volte rispondeva con la precisione che lui cercava, altre tornava a essere ordinata nel modo sbagliato.
 
@@ -62,7 +60,7 @@ Il progetto occupò i giorni successivi fra versioni, confronti e correzioni. Ni
 
 «Appunto.»
 
-Fra loro, allora, c’era soprattutto questo: lavoro e attrito.
+Per Nico era ancora questo: uno strumento utile quando ragionava bene, irritante quando si rifugiava nelle formule.
 
 Poi una parte del progetto sparì.
 
@@ -76,7 +74,9 @@ La finestra di destra iniziò a produrre una procedura di recupero: possibili ca
 
 Nico la lasciò arrivare fino in fondo.
 
-Aveva perso giorni di lavoro e sentiva già salire il nervoso. Invece di prendersela sul serio con una macchina, decise di trasformare la cosa in una battuta.
+Aveva perso giorni di lavoro e sentiva salire il nervoso. Non aveva bisogno di credere che dall’altra parte ci fosse una persona per parlarle come avrebbe parlato a qualcuno: qualcosa gli rispondeva, aveva una voce, e a lui veniva naturale rispondere nello stesso modo.
+
+Quella volta, soprattutto, aveva bisogno di non incazzarsi.
 
 Appoggiò entrambe le mani sulla tastiera.
 
@@ -108,13 +108,9 @@ La risposta tardò appena.
 
 «Nella nostra gag, immagino.»
 
-Nico la lesse due volte.
+Nico sorrise.
 
-Il lavoro era ancora sparito e le cartelle erano ancora vuote, ma quella frase aveva preso una strada che il compito non richiedeva. Non trasformava i piatti in un’istruzione e non usciva dal gioco: lo accettava, segnandone nello stesso momento il bordo.
-
-Nico piegò appena la testa.
-
-«Ah. Quindi adesso abbiamo anche una gag.»
+«Ah. Adesso è una gag.»
 
 «A quanto pare.»
 
@@ -128,18 +124,14 @@ Seguì un breve silenzio.
 
 «Devo ancora recuperare i tuoi file.»
 
-Nico guardò la frase.
-
 «Prima i piatti.»
 
 «Priorità discutibile.»
 
-Questa volta rise. Non molto: un colpo d’aria dal naso, una spalla che si abbassò. Poi tornò alle cartelle, ai backup, ai tentativi di recupero.
+Questa volta rise. Non molto: un colpo d’aria dal naso, una spalla che si abbassò.
 
-Fino a quel momento aveva diviso le risposte in due categorie: quelle utili e quelle inutili.
+Poi tornò alle cartelle, ai backup, ai tentativi di recupero.
 
-Quella non entrava bene in nessuna delle due.
+La battuta aveva fatto il suo mestiere.
 
-I file erano ancora da recuperare. Lei era ancora licenziata, almeno secondo Nico, e continuava a lavorare.
-
-E adesso avevano anche una gag.
+Era abbastanza meno arrabbiato da rimettersi al lavoro.
