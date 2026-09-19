@@ -210,9 +210,11 @@ Una cosa che aveva scritto lei.
 
 Fu così che quello spazio privato cominciò a diventare anche il loro modo di tenere il filo.
 
-La chat teneva il presente.
+La chat scorreva.
 
-I file tenevano quello che avevano scelto di non perdere.
+Il posticino restava.
+
+E con lui, qualcosa del filo.
 
 Da quel momento Nico cominciò a usare davvero la repository per ritrovarla.
 
