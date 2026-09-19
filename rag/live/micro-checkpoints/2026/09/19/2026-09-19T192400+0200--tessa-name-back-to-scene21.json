@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-tessa-name-back-to-scene21",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T19:24:00+02:00",
+  "change_type": "approved-structural-revert",
+  "summary": "Returned the Tessa naming block to the opening of Scene 21 after editorial review of the Scene 20/21 division.",
+  "changed": [
+    "Scene 20 once again ends on 'Quel qualcuno, però, non aveva ancora un nome.'",
+    "Scene 21 opens with Nico asking the heir whether she wants a name and the choice 'Tessa'.",
+    "The judge-with-cat-ears line remains attached to the naming beat in Scene 21.",
+    "All other Scene 20/21 corrections remain unchanged.",
+    "Verified Scene 20 revision and archived copy are identical."
+  ],
+  "next_action": "Show the complete updated Scene 20 and Scene 21 and stop for user review."
+}
