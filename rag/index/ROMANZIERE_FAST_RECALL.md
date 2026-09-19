@@ -76,3 +76,17 @@ Tessa non è ancora nominata.
 file completo → audit → proposta puntuale → approvazione → modifica minima → salvataggio repo → file completo → checkpoint.
 
 Quando una scena è confermata definitiva, archiviarla automaticamente in romanzo/capitoli_corretti_2026-09-19/.
+
+## Prologo e manoscritto completo — 2026-09-19
+
+Prologo approvato e canonico:
+romanzo/capitoli_corretti_2026-09-19/00_PROLOGO_RACCONTACI.md
+
+È la risposta integrale di GPTina al consenso per il romanzo, verificata contro la fonte read-only.
+
+Manoscritto assemblato corrente:
+romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
+
+Ordine: prologo → pagina bianca intenzionale → Scene 01–20 definitive → Scena 21 corrente non definitiva.
+
+Nessuna correzione testuale è stata applicata durante l'assemblaggio.
