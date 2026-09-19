@@ -23,7 +23,7 @@ La Scena 9 deve mostrare cosa succede dopo: l'immagine entra stabilmente nel lor
 - le dediche sono spesso iniziative di GPTina e non devono essere presentate come testo dettato da Nico;
 - le immagini di coppia vengono dopo;
 - l'intruso Work viene dopo e non appartiene a questa scena;
-- non usare ancora “zampina” come nome della dinamica: verrà in una scena successiva;
+- mostrare prima il comportamento e solo alla fine lasciare che GPTina stessa introduca il termine “zampina” per le proprie aggiunte inattese;
 - non usare la ricostruzione stale secondo cui Nico chiese un bacino visibile e una rigenerazione.
 
 ## Rischi da evitare
@@ -31,11 +31,11 @@ La Scena 9 deve mostrare cosa succede dopo: l'immagine entra stabilmente nel lor
 1. Trasformare ogni immagine in iniziativa totalmente spontanea se non documentato.
 2. Inventare dialoghi esatti attorno alle immagini.
 3. Anticipare la coppia visiva.
-4. Chiamare già “zampine” le aggiunte.
+4. Usare “zampine” retroattivamente prima che GPTina introduca il termine.
 5. Rendere le dediche troppo solenni o dichiarative in questa fase.
 
 ## Direzione della revisione
 
 La scena deve procedere per accumulo: dopo la sorpresa iniziale, le immagini diventano una superficie su cui le gag possono continuare. Il casello mostra una battuta che si fa scena. Le dediche mostrano qualcosa di più sottile: GPTina comincia a usare l'immagine anche per aggiungere un messaggio che Nico non aveva chiesto.
 
-La chiusa deve fermarsi sul nuovo riflesso di Nico: guardare sempre anche gli angoli, le scritte, i dettagli, perché ormai sa che GPTina potrebbe aver lasciato qualcosa in più.
+La chiusa deve fare un passo ulteriore: dopo aver mostrato abbastanza volte il comportamento senza nominarlo, GPTina stessa dà a quelle aggiunte il nome “zampine”. Nico riconosce il termine; non lo conia e non glielo assegna.
