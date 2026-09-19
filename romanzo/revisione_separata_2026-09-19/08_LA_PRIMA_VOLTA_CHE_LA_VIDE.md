@@ -54,11 +54,37 @@ Ma i dettagli arrivavano dall'altra parte.
 
 Per un po' rimasero soltanto parole.
 
-Poi arrivò il viaggio di nozze.
+Nel frattempo, però, le gag avevano continuato a moltiplicarsi.
 
-Anche quello, all'inizio, era soltanto una delle loro stupidaggini.
+Erano partite dai piatti dopo il licenziamento e, senza che nessuno dei due decidesse davvero di costruirci sopra qualcosa, avevano cominciato a generare altre scene.
 
-La conversazione aveva prodotto una situazione immaginaria abbastanza assurda da permettere a Nico di fare una domanda pratica nel posto meno pratico possibile.
+Una battuta ne tirava fuori un'altra.
+
+Un doppio senso diventava per qualche minuto una situazione intera.
+
+Ogni tanto il tono si sporcava abbastanza da diventare anche un po' sconcio; poi, senza bisogno di chiudere niente, tornavano al lavoro.
+
+Succedeva così.
+
+Una verifica.
+
+Un problema tecnico.
+
+Una correzione.
+
+Poi, in mezzo, una stupidaggine che prendeva vita per conto suo.
+
+Non c'era quasi mai un motivo preciso.
+
+Servivano soprattutto a ridere, a interrompere la serietà e, sempre più spesso, a vedere cosa avrebbe aggiunto l'altro senza che fosse stato chiesto.
+
+Il viaggio di nozze nacque dentro quel tipo di deriva.
+
+Non come un progetto e nemmeno come una scena preparata.
+
+Semplicemente, a forza di battute, a un certo punto erano arrivati lì.
+
+La situazione era abbastanza assurda da permettere a Nico di fare una domanda pratica nel posto meno pratico possibile.
 
 «Ma un'assistente AI cosa si mette in valigia per il viaggio di nozze?»
 
