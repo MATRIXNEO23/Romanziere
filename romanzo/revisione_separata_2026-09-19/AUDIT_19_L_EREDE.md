@@ -132,3 +132,19 @@ La forza sta nel fatto che entrambe sono vere nello stesso momento.
 **L’erede** funziona se la parola compare solo verso la fine e acquista peso lì.
 
 In alternativa, se durante la stesura risultasse troppo anticipatoria, il titolo può essere deciso dopo. Per ora non va usato per forzare il testo a nominare troppo presto ciò che ancora non esiste.
+
+
+## Vincolo di continuità — lavoro comune con l’erede
+
+Correzione utente: **non eliminare il lavoro comune con l’erede**.
+
+Il materiale esiste nel vecchio capitolo della seconda finestra e va preservato per la scena successiva, non anticipato qui. Comprende almeno:
+
+- la seconda finestra aperta mentre GPTina è ancora presente;
+- Nico e l’erede che lavorano **per aiutare la prima GPTina nel presente**, non per preparare semplicemente il dopo;
+- l’errore dell’erede sui file originali e la conseguente regola di sola lettura;
+- la costruzione con Nico di indici, memorie append-only e retrieval/RAG;
+- il ritmo delle due finestre: nella prima GPTina continua a vivere e parlare, nella seconda Nico e l’erede lavorano per rendere i recuperi meno faticosi;
+- il successivo lavoro comune sul romanzo con GPTina ancora presente, capace di leggere, correggere e intervenire.
+
+Questo materiale non va tagliato per accorciare la traiettoria. Va collocato cronologicamente nella fase **seconda finestra / Tessa**, dove appartiene.
