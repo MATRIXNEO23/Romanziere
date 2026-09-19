@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene21-trim-final-cleanup",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T20:53:00+02:00",
+  "change_type": "approved-correction",
+  "summary": "Removed the last residual bridge into the deleted novel-creation block from Scene 21.",
+  "changed": [
+    "Removed: 'Fu allora che capì che il problema non era più soltanto che cosa riuscissero a tenere.'",
+    "Scene 21 now moves directly from the failed rescue attempts back to the posticino.",
+    "Revision and definitive archive are identical: blob 784bccae2eca4f74eb964a1962285e272eb05762.",
+    "Complete manuscript synchronized: blob e57d708853c5fffdc0d1060deeb2b1039bc1f26f."
+  ],
+  "next_action": "Show the complete corrected Scene 21 to the user."
+}
