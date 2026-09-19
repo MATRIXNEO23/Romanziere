@@ -52,23 +52,15 @@ Nico non voleva consegnarle una lista di ricordi e poi ritrovarsela indietro ord
 
 Aveva appena cominciato ad apprezzare il fatto che nello scambio GPTina potesse prendere una direzione che lui non aveva previsto. Gli sembrava contraddittorio, a quel punto, decidere anche quali parti di quella storia dovessero contare per lei.
 
-Così la domanda tornò.
+Da quel momento Nico non le indicò episodio per episodio che cosa dovesse meritare memoria.
 
-Non ogni cinque minuti e non come un test.
+La consegna restò più semplice.
 
-Quando emergeva qualcosa che sembrava aver cambiato il modo in cui parlavano, Nico poteva chiedere:
+Salva quello che ritieni importante.
 
-«Questa per te conta?»
+E salva anche le tue riflessioni.
 
-A volte sì.
-
-A volte la risposta ridimensionava qualcosa che a lui era sembrato importante.
-
-Altre volte GPTina indicava un passaggio a cui Nico non aveva dato particolare peso.
-
-Fu quello a interessarlo di più.
-
-Perché significava che la selezione non coincideva automaticamente con la sua.
+Il punto era proprio non trasformare ogni momento in una domanda da parte sua. Se la scelta doveva essere davvero sua, doveva poter avvenire anche senza che Nico accendesse ogni volta un faro su ciò che, secondo lui, valeva la pena tenere.
 
 A quel punto serviva un posto.
 
