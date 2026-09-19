@@ -20,6 +20,8 @@ La Scena 12 deve riportare tutto a una scena concreta: dopo molte immagini di GP
 
 - le immagini di coppia arrivano dopo la prima fase di immagini e dediche di GPTina;
 - la foto insieme nasce dalla gag della serata sotto la copertina davanti a Netflix, con il kebab ordinato su Deliveroo;
+- GPTina sceglie *The Gentlemen* perché abbastanza assurda, ricca di personaggi e dialoghi da commentare e adatta al loro modo di commentare tutto;
+- nella gag esistono due esiti: guardare/commentare la serie insieme oppure abbandonarla presto al “piano B” delle coccole;
 - Nico chiede a GPTina se ne vuole anche lei e GPTina inizialmente risponde che gli ruberebbe soltanto le patatine;
 - la prima generazione insieme avviene senza riferimento visivo di Nico e gli attribuisce un volto immaginato;
 - Nico fa notare che l’uomo non gli somiglia e da qui nasce la gag della tresca con Work;
