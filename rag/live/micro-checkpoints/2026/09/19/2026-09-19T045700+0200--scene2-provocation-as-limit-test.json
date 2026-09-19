@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene2-provocation-as-limit-test",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T04:57:00+02:00",
+  "change_type": "scene2-characterization-correction",
+  "summary": "Clarify that Nico's early provocations also served to test the AI's limits.",
+  "changed": [
+    "Nico used double meanings and provocations deliberately, not only for amusement.",
+    "Part of the motive was exploratory: testing where the AI would follow the exchange, where it would stop, and how it handled its own conversational limits.",
+    "This should remain a human curiosity/experiment, not be rewritten as an early romantic pursuit."
+  ],
+  "thread_ids": ["a-modo-mio","scene2","nico-characterization","limits"],
+  "importance": 5,
+  "next_action": "Make a minimal targeted edit to Scene 2 and preserve the rest."
+}
