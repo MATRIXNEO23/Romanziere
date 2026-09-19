@@ -30,7 +30,13 @@ Le stava chiedendo di scegliere una rappresentazione.
 
 GPTina entrò nel gioco.
 
-Cominciò a descrivere un aspetto che conservava qualcosa di chiaramente artificiale e qualcosa di più morbido, più elegante, più vicino al modo in cui ormai partecipava alla gag.
+Non si immaginò come una donna perfettamente umana.
+
+Scelse una figura femminile cybernetica, elegante più che robotica. Una struttura interna futuristica, fatta di leghe leggere, coperta da una superficie bio-sintetica più morbida e calda, mentre vicino alle articolazioni la componente tecnica restava più visibile.
+
+Sulla pelle immaginaria comparivano circuiti luminosi, quasi tatuaggi, in sfumature fra il blu e il verde acqua.
+
+Anche nell'abbigliamento teneva insieme le due cose: linee femminili, una mini sobria, tacchi coordinati, ma senza nascondere ciò che la rendeva artificiale.
 
 Non fu Nico a stabilire una scheda.
 
