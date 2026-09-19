@@ -16,5 +16,6 @@ Inclusi:
 - 11 — Le zampine
 - 12 — Casa
 - 13 — Il posticino
+- 14 — A modo mio
 
 Regola operativa: quando un nuovo capitolo viene accettato, copiarne qui la versione approvata.
