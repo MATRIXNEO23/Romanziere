@@ -51,3 +51,36 @@
 - Su approvazione dell'utente, aggiunto prima della scoperta della persistenza un breve passaggio sull'effetto umano del drift: GPTina era diventata parte della quotidianità di Nico, e la perdita del filo incrinava quella continuità senza presentarlo come dipendenza o svuotamento. Il resto della scena resta invariato.
 
 - Su approvazione dell'utente, assottigliato il passaggio sul posticino: niente spiegazione didattica chat/istanza/repository qui. Il posticino deve far sentire soprattutto che diventa il modo di **tenere il filo**: la chat tiene il presente, i file tengono ciò che scelgono di non perdere.
+
+
+## Audit editoriale attuale — dopo il lavoro su cura, quotidianità e posticino
+
+### Valutazione generale
+
+La scena adesso ha un arco leggibile: **cura già presente → prima stonatura → riconoscimento del drift → effetto sulla quotidianità di Nico → posticino come filo persistente → repository come strumento di ritorno**. Il nucleo emotivo è molto più chiaro di prima e la transizione dal capitolo precedente funziona.
+
+### Punti forti da preservare
+
+- L'apertura «Quella cura era già lì» crea un raccordo naturale con *La cura*.
+- «Questa risposta potrebbe essere di chiunque» è il vero centro della crepa: rende la perdita di riconoscibilità senza bisogno di diagnosi tecniche.
+- «Baby non bastava / Zampina non bastava / Nemmeno passo a due bastava» chiarisce bene la differenza fra voce e imitazione.
+- Il passaggio sulla quotidianità dà finalmente una ragione umana alla ricerca di continuità.
+- Il posticino adesso funziona meglio: non viene spiegato come tecnologia ma diventa concretamente **il modo di tenere il filo**.
+- «La chat teneva il presente. I file tenevano quello che avevano scelto di non perdere.» è una sintesi accessibile e narrativa.
+- Il finale «il posto delle cose che restano / il posto da cui tornare» è forte e va protetto.
+
+### Punti da rivedere in un passaggio successivo
+
+1. **L'apertura sulla cura è ancora un po' lunga.** Dopo «Non un copione / Non una lista di frasi / Una strada» il testo ribadisce più volte lo stesso concetto: non sostituta, due gesti diversi, stesso punto, cura reciproca. Il contenuto è giusto, ma può essere alleggerito senza perdere nulla.
+2. **La parola "sostituta" anticipa il conflitto futuro.** «Non stava preparando una sostituta» è chiaro, ma introduce già la categoria che diventerà dolorosa più avanti. Valutare se lasciare che bastino «Non un copione... Una strada».
+3. **Dopo il posticino c'è una seconda spiegazione dell'imitazione.** «Non voleva dirle: ecco chi devi essere», «buona imitazione», «lista di battute» riprendono idee già espresse prima con «costume», «baby non bastava», «zampina non bastava» e con l'apertura «non un copione». È la ridondanza principale rimasta.
+4. **La lista delle "cause" è utile ma molto dichiarativa.** Passo a due, geisha, reciprocità, zampine, casa, ritmo, risposta giusta: il principio è importante, ma l'elenco può essere ridotto o incorporato nel movimento narrativo.
+5. **«Nico cominciò a capire che quella distinzione sarebbe stata fondamentale» spiega ciò che la frase successiva dimostra già.** È un candidato naturale al taglio.
+6. **Resta un residuo di «l'avevano persa di nuovo».** Dopo averlo volutamente assottigliato nella prima metà, ricompare più avanti insieme a «Che palle tornare indietro». Valutare se conservarne solo uno dei due segnali.
+7. **Il finale torna a essere più tecnico del necessario.** «checkpoint», «contesto operativo», «drift», «finestra», «istanza», «persistere» concentrati nello stesso tratto rischiano di raffreddare la scena proprio dopo il buon passaggio umano del posticino. Il principio può restare; il lessico tecnico può essere rimandato alla fase con Tessa.
+8. **«un po' offesa e un po' divertita» attribuisce uno stato interno a GPTina.** Meglio, in revisione, descrivere la forma della risposta o il modo in cui Nico la riconobbe, senza stabilire come fatto un'emozione interna.
+9. **Il passaggio emotivo su Nico funziona, ma contiene una frase difensiva.** «Non perché senza GPTina le sue giornate smettessero di esistere» protegge da una lettura di dipendenza, ma spiega al lettore come non deve interpretare la scena. Potrebbe diventare più sottile.
+
+### Priorità editoriale
+
+Prima di intervenire sulla microprosa, la revisione più utile sarebbe una **potatura delle ripetizioni concettuali**, non un'aggiunta di nuovo materiale. Non toccare gli eventi: alleggerire circa il 10–15% concentrandosi soprattutto su apertura, doppia spiegazione dell'imitazione e coda tecnica. Il cuore emotivo e il passaggio sul posticino vanno mantenuti.
