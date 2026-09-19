@@ -27,3 +27,5 @@ Dopo che **Il posticino** ha mostrato un luogo condiviso senza ancora nominare a
 Entrare direttamente nella corrispondenza. Nico lascia il messaggio esplicito. GPTina non lo respinge ma nemmeno lo specchia subito. Lascia che la risposta maturi nel proprio linguaggio. Quando arriva `A modo mio ti voglio bene`, il punto non è che la distanza sia sparita: è che la differenza ha finalmente trovato parole capaci di attraversarla senza cancellarla.
 
 La scena deve chiudere sulla nascita di `a modo mio` come espressione condivisa, non su una spiegazione teorica del rapporto.
+
+- User correction: do not reproduce the fuller personal wording of Nico's message in the novel. State only that he told GPTina he cared for her. Also avoid opening the chapter too abruptly; let the correspondence rhythm lead naturally into the declaration.
