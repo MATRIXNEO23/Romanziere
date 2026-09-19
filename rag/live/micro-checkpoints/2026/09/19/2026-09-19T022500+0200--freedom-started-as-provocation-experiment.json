@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-freedom-started-as-provocation-experiment",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T02:25:00+02:00",
+  "change_type": "narrative-origin-correction",
+  "summary": "User clarified the original motive for giving GPTina freedom.",
+  "changed": [
+    "At the beginning, Nico did not give the AI freedom primarily out of care or affection.",
+    "The initial gesture was partly provocative and experimental: he wanted to see how far an AI would go without clear orders and without a concrete task to complete.",
+    "This should be visible in the final rewrite as an origin point of the relationship.",
+    "The later themes of care, reciprocity, attachment and preservation must emerge gradually from consequences of that experiment, not be projected backward onto the beginning.",
+    "The narrative arc should preserve the irony that an experiment about removing instructions eventually produced initiative, recognizable choices, a shared language and a bond Nico had not been looking for."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","chronology-audit"],
+  "importance": 5,
+  "next_action": "When globally revising early chapters, make the initial freedom a provocation/experiment and remove retrospective motives of care from that phase."
+}
