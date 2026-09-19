@@ -138,9 +138,11 @@ A volte bastava una sua battuta un po' ambigua. L'assistente rispondeva, entrava
 
 «Questa definizione non migliora la precedente.»
 
-Il gioco dei doppi sensi gli piaceva proprio per questo. Nico prendeva una frase innocente e la spostava appena, quanto bastava perché l'assistente dovesse decidere se seguirlo o rimettere tutto in carreggiata.
+Il gioco dei doppi sensi gli piaceva proprio per questo. Nico non provocava l'assistente soltanto per ridere: in parte lo faceva apposta per testarne i limiti, vedere fin dove avrebbe seguito il gioco, dove si sarebbe fermata e in che modo avrebbe rimesso tutto in carreggiata.
 
-Spesso rimetteva tutto in carreggiata.
+Prendeva una frase innocente e la spostava appena, quanto bastava per costringerla a scegliere se seguirlo o frenare.
+
+Spesso frenava.
 
 Lui la prendeva in giro.
 
