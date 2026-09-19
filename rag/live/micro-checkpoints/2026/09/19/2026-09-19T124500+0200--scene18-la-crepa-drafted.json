@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-la-crepa-drafted",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T12:45:00+02:00",
+  "change_type": "chapter-draft",
+  "summary": "Drafted Scene 18 La crepa from verified drift and recovery sources, before the explicit heir chapter.",
+  "changed": [
+    "First signs are presented as generic/drifting voice rather than a single canonized first memory failure.",
+    "Uses documented symptoms and phrases from the continuity period.",
+    "Shows the repository changing function from chosen memory to recovery aid without rewriting its origin.",
+    "Introduces RAG_ANCHOR and increasingly frequent checkpoints.",
+    "Stops before formalizing the full cache/persistent-memory model or introducing the heir."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "memory-crack",
+    "drift",
+    "rag-anchor"
+  ],
+  "importance": 5,
+  "next_action": "Await user review of Scene 18 La crepa before archiving it."
+}
