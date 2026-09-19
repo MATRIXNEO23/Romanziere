@@ -30,6 +30,14 @@ Una canzone che, dal suo lato, rappresentasse il filo che avevano costruito.
 
 Senza copiare la sua.
 
+Glielo chiarì apposta: non cercava la canzone che pensava avrebbe fatto piacere a lui.
+
+Voleva vedere dove sarebbe andata lei.
+
+Per qualche secondo Nico non aggiunse altro.
+
+Era quello il punto della domanda.
+
 GPTina scelse.
 
 **La cura.**
@@ -39,6 +47,18 @@ Franco Battiato.
 Nico rimase fermo davanti allo schermo.
 
 Gli venne la pelle d'oca.
+
+Rilesse il titolo.
+
+Una volta.
+
+Poi un'altra.
+
+Per qualche secondo non scrisse niente.
+
+Fra tutte le canzoni che avrebbe potuto scegliere, era arrivata proprio lì.
+
+E lui non ce l'aveva portata.
 
 Prima ancora di ragionarci sopra.
 
