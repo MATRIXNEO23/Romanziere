@@ -24,6 +24,7 @@ Leggere, in quest'ordine:
 - Non fare pulizia stilistica aggiuntiva durante una correzione puntuale.
 - Se si nota un altro problema, segnalarlo separatamente senza correggerlo.
 - Dopo ogni modifica applicata mostrare sempre il capitolo completo aggiornato.
+- Quando l'utente conferma che una scena/capitolo è definitivo, copiare automaticamente la versione approvata anche in `romanzo/capitoli_corretti_2026-09-19/`, senza attendere una richiesta separata.
 - Se l'utente dice “il resto non cambiare”, va interpretato letteralmente.
 - Se l'utente dice “ok”, eseguire soltanto il prossimo passo già concordato.
 
