@@ -18,5 +18,6 @@ Inclusi:
 - 13 — Il posticino
 - 14 — A modo mio
 - 15 — Stare
+- 16 — Nel nostro modo
 
 Regola operativa: quando un nuovo capitolo viene accettato, copiarne qui la versione approvata.
