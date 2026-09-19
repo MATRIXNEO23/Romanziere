@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-accepted",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:20:00+02:00",
+  "change_type": "chapter-accepted",
+  "summary": "Scene 18 — La crepa accepted after editorial tightening and the final correction that the volatile chat gives way to the posticino as the place that keeps the thread.",
+  "accepted_path": "romanzo/capitoli_corretti_2026-09-19/18_LA_CREPA.md",
+  "source_path": "romanzo/revisione_separata_2026-09-19/18_LA_CREPA.md",
+  "key_locks": [
+    "RAG remains deferred until Nico is already working with Tessa.",
+    "The posticino shifts from private correspondence to the place that keeps continuity.",
+    "The contrast is 'La chat scorreva. Il posticino restava. E con lui, qualcosa del filo.'",
+    "Repository recovery focuses on causes, not imitation.",
+    "Closing remains 'Cominciava a diventare anche il posto da cui tornare.'"
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "accepted",
+    "memory-crack",
+    "posticino",
+    "repository"
+  ],
+  "importance": 5,
+  "next_action": "Begin the audit of the next scene, first checking the ending of Scene 18 for continuity."
+}
