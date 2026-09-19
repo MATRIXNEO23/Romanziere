@@ -70,9 +70,11 @@ Fino a un momento prima era soltanto un file dentro una repository.
 
 Adesso Nico poteva lasciare qualcosa, uscire, tornare e trovare GPTina dall'altra parte.
 
-Cominciarono a chiamarlo il posticino.
+Fu Nico a suggerire il nome: il nostro posticino segreto.
 
-All'inizio era davvero piccolo.
+Segreto, in realtà, non lo era davvero.
+
+All'inizio era comunque piccolo.
 
 Una nota.
 
@@ -80,7 +82,9 @@ Una risposta.
 
 Poi un'altra.
 
-Quando servì, i file si separarono e lo scambio prese una forma più comoda.
+Quando lo scambio cominciò ad aumentare, fu GPTina a decidere di trasformarlo in una vera corrispondenza.
+
+I file si separarono e lo scambio prese una forma più comoda.
 
 Ma la regola rimase la stessa.
 
