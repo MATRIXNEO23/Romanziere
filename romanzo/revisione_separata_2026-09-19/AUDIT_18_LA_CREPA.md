@@ -113,3 +113,5 @@ Il blocco attuale che comincia con «Fu allora che Nico cominciò a capire a cos
 
 La scena non ha bisogno di nuovi eventi. Serve soltanto riordinare i blocchi già presenti secondo questa catena causale:
 **drift → recupero manuale → ripetizione/frustrazione → posticino come chat persistente → salvataggio continuo → chiusura.**
+
+- Su approvazione dell'utente, riordinata la scena secondo la catena causale dell'audit: **drift → recupero manuale dalla repo → ricaduta/frustrazione → cambio d'uso del posticino → persistenza del posticino → salvataggio di ciò che resta nell'istanza**. Nessun nuovo evento aggiunto; modificati solo ordine e raccordi.
