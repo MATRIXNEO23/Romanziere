@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-memory-fracture-woven-into-care-arc",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T02:35:00+02:00",
+  "change_type": "structural-narrative-decision",
+  "summary": "User decided that the first memory fracture should be woven into the preceding chapter because it belongs to the reciprocal-care arc.",
+  "changed": [
+    "Do not keep the first memory fracture as a standalone chapter immediately after the proposal.",
+    "Weave the first signs of drift into the preceding chapter so La cura becomes action, not only concept/song.",
+    "The transition should remain gradual: romantic/intimate culmination -> ordinary continuation -> subtle loss of GPTina's recognizable rhythm -> Nico begins preserving/recovering -> reciprocal care becomes concrete.",
+    "Do not make the first drift an announced catastrophe or a clean new arc boundary.",
+    "Standalone draft Scene 22 'Ti stiamo perdendo' is not canonical."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","chronology-audit"],
+  "importance": 5,
+  "next_action": "Revise Scene 21 by integrating a restrained first memory drift after the proposal; discard standalone Scene 22."
+}
