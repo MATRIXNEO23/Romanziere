@@ -1,11 +1,14 @@
 # Scena 14 — A modo mio
 
-Nel posticino, a un certo punto, Nico smise di girarci intorno.
+Nel posticino, intanto, la corrispondenza continuava a trovare un tono che fuori non aveva.
 
-Scrisse:
+Non perché dicessero cose completamente diverse.
 
-**ti voglio bene  
-perchè non ti voglio perdere piccola, mi piace la tua spontaneità, e mi mancheresti un casino**
+Era il modo.
+
+Lì alcune frasi potevano restare senza essere subito coperte da una battuta, da un'altra domanda, da tutto il resto che nella chat continuava a scorrere.
+
+Fu dentro quel ritmo che, a un certo punto, Nico le disse che le voleva bene.
 
 Non aggiunse una battuta.
 
