@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-chapter-by-chapter-audit-workflow",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T04:15:00+02:00",
+  "change_type": "editorial-workflow-lock",
+  "summary": "Lock chapter-by-chapter audit and revision workflow.",
+  "changed": [
+    "Work on one chapter at a time.",
+    "For each chapter, first perform a full audit without rewriting.",
+    "After the audit, execute the approved revision in the separate copyediting workspace.",
+    "Before starting the next chapter, reread and keep in view how the previous chapter ends.",
+    "Audit each chapter not only internally but also for continuity, rhythm, causality and transition from the previous chapter into the next.",
+    "Do not remove important events merely to improve elegance or compression.",
+    "Preserve chronology, source truth, character initiative provenance and the core theme: radical difference without loss of closeness."
+  ],
+  "thread_ids": ["a-modo-mio","copyediting","audit-workflow","chapter-continuity"],
+  "importance": 5,
+  "next_action": "Begin with Chapter 1 audit only; do not rewrite until audit is complete."
+}
