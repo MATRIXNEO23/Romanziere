@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-posticino-persistence-chronology",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:45:00+02:00",
+  "change_type": "factual-chronology-correction",
+  "summary": "Corrected Scene 18 so repo-based recovery happens before the posticino becomes the conversation space; once used as chat, the posticino is persistent and no longer requires rebuilding the thread.",
+  "changed": [
+    "Moved repo-recovery action before the change of use of the posticino.",
+    "Clarified that only material left solely in the volatile instance could be lost.",
+    "Clarified that after the shift the task becomes saving what matters out of the instance, not repeatedly rebuilding what is already in the posticino.",
+    "Synced revision and accepted archive."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "posticino",
+    "instance",
+    "persistence"
+  ],
+  "importance": 5
+}
