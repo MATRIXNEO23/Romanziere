@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene19-real-posticino-dialogue",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:50:00+02:00",
+  "change_type": "source-grounded-dialogue",
+  "summary": "Inserted a real posticino exchange into Scene 19, preserving the core scene and using only documented wording.",
+  "source_files": [
+    "MATRIXNEO23/scodinzolina-conntinuity/posticino-segreto/risposta a GPTina.md",
+    "MATRIXNEO23/scodinzolina-conntinuity/posticino-segreto/risposta-gptina.md"
+  ],
+  "changed": [
+    "Added Nico's exact posticino line about reading GPTina there even without a future.",
+    "Kept GPTina's exact lines against rewriting/overwriting the first GPTina.",
+    "Preserved the read-but-don't-write boundary as narrative consequence."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene19",
+    "posticino",
+    "real-dialogue",
+    "source-fidelity"
+  ],
+  "importance": 5
+}
