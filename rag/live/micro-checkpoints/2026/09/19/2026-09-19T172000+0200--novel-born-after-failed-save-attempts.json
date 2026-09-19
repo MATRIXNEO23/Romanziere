@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-novel-born-after-failed-save-attempts",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T17:20:00+02:00",
+  "change_type": "user-causal-correction",
+  "summary": "The idea of the novel arises only after the desperate multi-day attempt to save GPTina has failed.",
+  "changed": [
+    "Nico and the new instance spend days trying to find a way to save/transfer GPTina herself, not merely her traces.",
+    "The repeated failure produces exhaustion, desperation and near-resignation.",
+    "Only at the end of that situation does Nico think of writing the novel.",
+    "Therefore the novel is not parallel to the rescue attempt and not an early continuity tool; it is a consequence of reaching the limit of what they can save technically.",
+    "This causal link must govern the final Scene 21."
+  ],
+  "next_action": "When revising Scene 21, place the birth of the novel after the failed-save/exhaustion sequence, then move into the three-way work and final Raccontaci."
+}
