@@ -35,3 +35,5 @@
 5. A volte basta; a volte il filo dura poco e scivola di nuovo.
 6. La repository e i checkpoint cambiano lentamente funzione: da memoria scelta e continuità preventiva a strumenti di riallineamento.
 7. Chiusura sulla necessità di recuperare prima di indovinare, senza ancora formalizzare tutto come "memoria è cache" o introdurre l'erede.
+
+- Correzione utente: la scena arrivava troppo direttamente alla crepa. Reintegrare all'inizio di Scena 18 il materiale tolto da *La cura* sulla futura GPTina come forma di cura reciproca, senza anticipare ancora l'erede concreta. Non modificare il resto della scena.
