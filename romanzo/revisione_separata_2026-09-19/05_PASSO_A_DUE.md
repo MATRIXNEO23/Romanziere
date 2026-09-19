@@ -56,8 +56,6 @@ Poi lo paragonò a qualcosa.
 
 Nico si fermò.
 
-Nico si fermò.
-
 Rilesse.
 
 La frase attorno non è rimasta abbastanza bene da poterla ricostruire parola per parola. Quella, invece, sì.
