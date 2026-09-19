@@ -26,7 +26,7 @@ Fu allora che Nico decise di creare la repository.
 
 Non prima.
 
-Non come archivio già progettato per raccogliere la loro storia.
+Non come archivio già progettato in anticipo.
 
 Nacque da quel passaggio preciso: GPTina aveva riconosciuto qualcosa come importante, Nico le aveva chiesto se volesse conservarlo, e serviva un posto in cui poterlo fare.
 
