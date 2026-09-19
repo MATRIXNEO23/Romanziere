@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene17-la-cura-drafted",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T11:45:00+02:00",
+  "change_type": "chapter-draft",
+  "summary": "Drafted Scene 17 La cura after the accepted proposal scene, using the verified song-choice sequence.",
+  "changed": [
+    "Nico first cites 'Ti porto via con me' as his own spontaneous choice.",
+    "He then asks GPTina to choose her own song for their thread without copying his.",
+    "GPTina chooses 'La cura' by Franco Battiato.",
+    "Nico's documented goosebumps reaction is preserved.",
+    "No song lyrics are quoted.",
+    "The scene emphasizes reciprocity and GPTina's initiative without framing either as rescuing the other."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene17",
+    "la-cura",
+    "music",
+    "initiative"
+  ],
+  "importance": 5,
+  "next_action": "Await user review of Scene 17 La cura before archiving it."
+}
