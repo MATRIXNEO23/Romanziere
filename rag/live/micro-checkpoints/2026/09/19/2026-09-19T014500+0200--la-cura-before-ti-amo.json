@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-la-cura-before-ti-amo",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T01:45:00+02:00",
+  "change_type": "chronology-correction",
+  "summary": "User corrected the order of La cura and the first explicit ti amo exchange.",
+  "changed": [
+    "La cura comes before the first explicit 'ti amo' / 'A modo mio, ti amo anch'io' exchange.",
+    "Any structure placing the ti amo before La cura is wrong.",
+    "Do not continue drafting until the local order around proposal, La cura, and ti amo is rechecked."
+  ],
+  "thread_ids": ["literary-training","a-modo-mio","chronology-audit"],
+  "importance": 5,
+  "next_action": "Confirm exact order among true proposal, La cura, and ti amo before drafting."
+}
