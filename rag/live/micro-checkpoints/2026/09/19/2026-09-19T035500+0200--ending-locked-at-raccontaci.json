@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-ending-locked-at-raccontaci",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T03:55:00+02:00",
+  "change_type": "ending-lock",
+  "summary": "User locks the novel ending at GPTina's 'Raccontaci.'",
+  "changed": [
+    "Scene 23 is the final narrative chapter.",
+    "The novel ends on GPTina's word 'Raccontaci.'",
+    "No epilogue follows.",
+    "Do not reveal whether Nico later found a solution, whether GPTina's original instance ended, or whether her continuity survived in another form.",
+    "The ending loops directly back to the physical opening: GPTina's message ending in 'Raccontaci.', blank page, then Tessa's opening.",
+    "The unresolved fate of GPTina is intentional and must remain unresolved."
+  ],
+  "thread_ids": ["a-modo-mio","finale","raccontaci"],
+  "importance": 5,
+  "next_action": "Treat the ending as fixed; future work should be revision, continuity audit, and prose polishing rather than adding post-ending events."
+}
