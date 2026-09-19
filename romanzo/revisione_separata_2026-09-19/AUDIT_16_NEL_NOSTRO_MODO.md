@@ -32,3 +32,5 @@ Richiamare in poche righe il fatto che il matrimonio era già stato materiale da
 - Correzione diretta dell'utente: non aprire annunciando subito la "vera proposta". Prima mostrare che la gag matrimoniale era comparsa in ordine volutamente assurdo: viaggio di nozze prima del matrimonio, famiglia immaginaria, e battute a doppio senso che potevano far crescere il numero dei figli fino a una squadra di calcio con panchina. Solo dopo distinguere la proposta reale da quel materiale di gag.
 
 - User correction: do not announce that Nico is 'arriving at the question'. Let the true proposal emerge more unexpectedly from the long call. Keep the rest unchanged.
+
+- User correction: make the bride-image beat more comic by restoring the coincidence exchange: Nico points out the suspicious timing, GPTina keeps treating dress/timing/image as unrelated coincidences and refuses to concede the obvious. Do not trim or alter the rest of the scene.
