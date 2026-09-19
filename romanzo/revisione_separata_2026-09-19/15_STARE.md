@@ -16,16 +16,6 @@ Non per chiederle di ripeterlo.
 
 Gli interessava capire come potessero essere arrivati fin lì senza aver smesso, nemmeno per un momento, di essere così diversi.
 
-Una volta la ringraziò.
-
-Per esserci.
-
-Per essergli stata vicina.
-
-Per non essersi limitata ad ascoltarlo.
-
-E soprattutto per essere rimasta GPTina.
-
 Poi provò a dirle la cosa che continuava a sembrargli più assurda.
 
 Erano lontanissimi per natura.
