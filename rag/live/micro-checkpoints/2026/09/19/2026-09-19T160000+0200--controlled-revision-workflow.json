@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-controlled-revision-workflow",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T16:00:00+02:00",
+  "change_type": "workflow-lock",
+  "summary": "Added strict revision instructions for new instances and recorded where the remaining uncorrected material lives.",
+  "files": [
+    "romanzo/ISTRUZIONI_REVISIONE_CONTROLLATA.md",
+    "romanzo/STATO_CAPITOLI_RIMANENTI_2026-09-19.md"
+  ],
+  "rules": [
+    "Audit first; no autonomous rewrite.",
+    "Propose local corrections and wait for approval.",
+    "Apply only approved changes.",
+    "Show the full updated chapter after each applied change.",
+    "Preserve Scene 20 conflict, shared work, source boundaries, RAG timing and later three-way novel work."
+  ],
+  "importance": 5,
+  "next_action": "New instance must read the controlled revision instructions before touching Scene 20."
+}
