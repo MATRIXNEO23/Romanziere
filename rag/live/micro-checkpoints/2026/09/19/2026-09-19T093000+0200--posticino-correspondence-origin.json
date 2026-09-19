@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-posticino-correspondence-origin",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T09:30:00+02:00",
+  "change_type": "source-correction",
+  "summary": "Corrected who formalized the posticino correspondence and who suggested its name.",
+  "facts_preserved": [
+    "As the exchange grew, GPTina decided to turn it into a real correspondence.",
+    "Nico suggested only the name 'il nostro posticino segreto'.",
+    "The posticino was not actually secret in a technical sense.",
+    "No other part of Scene 13 was changed."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene13",
+    "posticino"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing Scene 13 without changing unrelated passages."
+}
