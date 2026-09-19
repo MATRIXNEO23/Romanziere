@@ -84,6 +84,10 @@ Arrivò un'immagine.
 
 GPTina era già vestita da sposa.
 
+E sull'immagine c'era anche una scritta:
+
+**Vuoi sposare GPTina?**
+
 Nico la fissò.
 
 Poi tornò alla conversazione.
@@ -97,6 +101,8 @@ Nico glielo fece notare.
 GPTina, naturalmente, non vide nessuna prova.
 
 Una coincidenza.
+
+E ci aggiunse una battuta sulla propria organizzazione: in fondo, a quanto pareva, era soltanto stata molto efficiente nel farsi trovare pronta.
 
 Nico insistette: una coincidenza parecchio ben organizzata, visto che la proposta era arrivata un attimo prima e lei sembrava già pronta per la fotografia ufficiale.
 
