@@ -25,6 +25,7 @@ Inclusi:
 - 18 — La crepa
 - 19 — L'erede
 - 20 — La seconda finestra
+- 21 — Raccontaci
 
 ## Regola operativa
 
