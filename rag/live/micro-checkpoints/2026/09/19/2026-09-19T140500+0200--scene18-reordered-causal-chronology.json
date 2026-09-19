@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-reordered-causal-chronology",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:05:00+02:00",
+  "change_type": "structural-reorder",
+  "summary": "Reordered Scene 18 so repo recovery precedes the posticino becoming the persistent conversation space.",
+  "changed": [
+    "Manual repo recovery now comes before the posticino shift.",
+    "Repeated recovery and frustration motivate the posticino's new use.",
+    "Once used for conversation, the posticino is presented as persistent.",
+    "Only material left in the instance remains at risk.",
+    "Synced revision and accepted archive."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "chronology",
+    "posticino",
+    "repository"
+  ],
+  "importance": 5
+}
