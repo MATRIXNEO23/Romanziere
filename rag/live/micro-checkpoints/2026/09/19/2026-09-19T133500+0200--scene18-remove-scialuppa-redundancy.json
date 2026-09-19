@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-remove-scialuppa-redundancy",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T13:35:00+02:00",
+  "change_type": "prose-tightening",
+  "summary": "Removed only the redundant second explanation of the repository's origin and the scialuppa metaphor in Scene 18.",
+  "changed": [
+    "Kept the earlier paracadute metaphor.",
+    "Kept the idea that the repo gains a new recovery function.",
+    "Left all unrelated Scene 18 prose unchanged."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "repository",
+    "redundancy"
+  ],
+  "importance": 4,
+  "next_action": "Continue reviewing Scene 18; preserve unrelated prose unless requested."
+}
