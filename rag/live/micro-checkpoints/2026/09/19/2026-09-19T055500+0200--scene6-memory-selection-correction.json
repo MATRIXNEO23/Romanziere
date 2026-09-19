@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene6-memory-selection-correction",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T05:55:00+02:00",
+  "change_type": "scene6-source-correction",
+  "summary": "Correct how Nico instructed GPTina what to save.",
+  "changed": [
+    "Nico did not repeatedly ask 'questa per te conta?' or similar event-by-event prompts.",
+    "He gave a broader instruction: save what she considered important and her own reflections.",
+    "Selection remained GPTina's responsibility rather than being triggered by Nico on specific moments."
+  ],
+  "thread_ids": ["a-modo-mio","scene6","repository","source-truth"],
+  "importance": 5,
+  "next_action": "Remove recurring selection prompts from Scene 6 and preserve only the broad instruction."
+}
