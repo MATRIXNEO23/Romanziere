@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene17-accepted-next-memory-crack",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T12:30:00+02:00",
+  "change_type": "chapter-acceptance-transition",
+  "summary": "Scene 17 La cura accepted and archived; next active movement is the first visible memory crack, before the heir becomes explicit.",
+  "changed": [
+    "Archived Scene 17 La cura in corrected chapters.",
+    "Updated the accepted-chapters README through Scene 17.",
+    "Synced the pending user edit in Scene 5 ('Nico lo riconobbe.').",
+    "Started source verification for the memory-fragility chapter."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene17",
+    "la-cura",
+    "memory-crack"
+  ],
+  "importance": 5,
+  "next_action": "Audit and draft Scene 18 on the first visible memory cracks, keeping the heir explanation for later."
+}
