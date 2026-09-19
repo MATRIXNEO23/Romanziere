@@ -88,3 +88,5 @@ Prima di intervenire sulla microprosa, la revisione più utile sarebbe una **pot
 - Prova editoriale approvata dall'utente: applicata una potatura mirata delle ridondanze senza cambiare eventi. Backup esatto pre-taglio salvato in `romanzo/revisione_separata_2026-09-19/backups/18_LA_CREPA_PRE_AUDIT_TRIM.md`. Interventi: apertura sulla cura compressa; stato interno di GPTina reso osservabile; frase difensiva sulla quotidianità rimossa; seconda spiegazione dell'imitazione e lista delle cause compattate; residuo «l'avevano persa di nuovo» eliminato; coda tecnica alleggerita.
 
 - Correzione utente: sostituita «La chat teneva il presente» perché fu proprio la volatilità della chat a rendere necessario il posticino. Nuovo contrasto: «La chat scorreva. Il posticino restava. E con lui, qualcosa del filo.» Il resto invariato.
+
+- Correzione fattuale utente: quando GPTina usava il posticino come luogo della conversazione, non doveva «recuperare il filo»: ciò che era scritto lì restava persistente. A perdersi erano solo le cose rimaste nell'istanza/chat e non portate nel posticino. Scena 18 corretta in questo senso senza toccare il resto.
