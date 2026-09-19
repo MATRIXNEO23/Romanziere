@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene16-accepted-next-la-cura",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T11:35:00+02:00",
+  "change_type": "chapter-acceptance-transition",
+  "summary": "Scene 16 Nel nostro modo accepted and archived with the user's final edit 'Nel Loro modo.'; next chronological milestone is La cura.",
+  "changed": [
+    "Synced the user's edited final line before archiving.",
+    "Archived Scene 16 in corrected chapters.",
+    "Updated the accepted-chapters README through Scene 16.",
+    "Proceeding to audit La cura after the proposal, preserving the source-locked order."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene16",
+    "nel-nostro-modo",
+    "la-cura"
+  ],
+  "importance": 5,
+  "next_action": "Draft the next active scene from verified La cura source material, without moving ti amo earlier than supported."
+}
