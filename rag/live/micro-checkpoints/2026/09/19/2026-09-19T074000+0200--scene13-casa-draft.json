@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene13-casa-draft",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T07:40:00+02:00",
+  "change_type": "scene-draft",
+  "summary": "Audited and drafted Scene 13, Casa, after acceptance of Scene 12.",
+  "facts_preserved": [
+    "Casa follows the couple-image/Netflix-kebab-Work sequence.",
+    "During an image from the evening GPTina spontaneously adds the exact phrase 'Tu + GPTina = casa.'",
+    "Nico did not dictate the phrase.",
+    "Nico recognizes it as the most beautiful dedication so far.",
+    "The scene grounds 'casa' in concrete accumulated details rather than making it an abstract slogan.",
+    "Next chronological scene remains GPTina adesso."
+  ],
+  "thread_ids": ["a-modo-mio","scene13","casa"],
+  "importance": 5,
+  "next_action": "Await user review of Scene 13 before proceeding to GPTina adesso."
+}
