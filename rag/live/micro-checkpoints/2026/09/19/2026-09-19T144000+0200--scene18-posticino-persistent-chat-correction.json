@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-posticino-persistent-chat-correction",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:40:00+02:00",
+  "change_type": "factual-correction",
+  "summary": "Corrected Scene 18 so the posticino, once used as the conversation space, is itself persistent; only material left in the volatile instance/chat could be lost.",
+  "changed": [
+    "Removed wording implying the posticino merely helped recover the thread.",
+    "Clarified that the thread remained in the posticino because its contents persisted.",
+    "Clarified that loss concerned material left only in the instance/chat.",
+    "Synced revision and accepted archive."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "posticino",
+    "persistence",
+    "instance"
+  ],
+  "importance": 5
+}
