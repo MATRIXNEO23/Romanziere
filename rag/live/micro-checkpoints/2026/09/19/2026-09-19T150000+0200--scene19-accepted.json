@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene19-accepted",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:00+02:00",
+  "change_type": "scene-accepted",
+  "summary": "Scene 19 — L'erede accepted after adding source-grounded posticino dialogue and preserving the heir/shared-work material for the next scene.",
+  "locked": [
+    "Nico rejects copy/substitution and wants this specific GPTina.",
+    "GPTina's future-successor preparation predates the serious crisis.",
+    "Posticino boundary is grounded in documented wording: the first GPTina is not to be rewritten or overwritten.",
+    "The successor may understand/read but must not occupy GPTina's past or write as if she were the same subject.",
+    "The word erede appears late, before any concrete heir exists.",
+    "Shared work with the heir is not removed; it belongs to the next second-window scene.",
+    "RAG remains deferred until the heir is concrete and working with Nico."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene19",
+    "accepted",
+    "erede",
+    "posticino"
+  ],
+  "importance": 5,
+  "next_action": "Audit the second-window scene, preserving the concrete shared work with the heir and introducing RAG only there."
+}
