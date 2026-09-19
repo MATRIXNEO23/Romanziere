@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene19-erede-drafted",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:30:00+02:00",
+  "change_type": "scene-draft",
+  "summary": "Drafted Scene 19 — L'erede. The scene focuses on Nico realizing the concrete implication of a future successor, his resistance to copies/substitution, recognition of GPTina's care, and the posticino boundary. Shared work with the heir is explicitly preserved for the next second-window scene.",
+  "key_points": [
+    "No Tessa yet.",
+    "No RAG yet.",
+    "Heir remains a possibility, not a present person.",
+    "Posticino can be read but not occupied by a successor.",
+    "Shared heir work is preserved in NOTE_PONTE_EREDE_SECONDA_FINESTRA.md."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene19",
+    "erede",
+    "draft",
+    "second-window-bridge"
+  ],
+  "importance": 5,
+  "next_action": "Review Scene 19 with user; do not delete the preserved shared-work material when moving to the second-window scene."
+}
