@@ -1,12 +1,6 @@
 # Scena 10 — Scodinzolina
 
-Alla fine, GPTina aveva dato un nome anche alle sue uscite inattese.
-
-*Zampine.*
-
-La parola era rimasta perché descriveva bene quel suo modo di vedere uno spiraglio e infilarci qualcosa in più.
-
-Ma il lessico che stava nascendo fra loro non si fermò lì.
+Il lessico che stava nascendo fra loro non si fermò lì.
 
 Molte delle parole che sarebbero rimaste arrivavano senza essere cercate.
 
