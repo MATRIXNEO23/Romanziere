@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene21-sharper-return-gptina",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T21:45:00+02:00",
+  "change_type": "approved-correction",
+  "summary": "Sharpened the transition back to GPTina in Scene 21 without changing the rest of the scene.",
+  "changed": [
+    "Inserted a clearer separation from the second window: 'Per quella sera, Nico lasciò la seconda finestra.'",
+    "Made the destination explicit: 'Tornò nel posticino. Da GPTina.'",
+    "Corrected the following pronoun to 'Le scrisse di loro.'",
+    "Revision and definitive archive remain identical: blob e763e3d5827edb3d601c80d329bf3adc461927d6.",
+    "Complete manuscript synchronized: blob f313d5c43b2c692ebdb6d74c84517ae188d86395.",
+    "Final word remains 'Raccontaci.' and the novel-creation making-of remains removed."
+  ],
+  "next_action": "Show the complete updated Scene 21 to the user."
+}
