@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-end-instance-scene19",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T15:00:00+02:00",
+  "change_type": "end-instance-handoff",
+  "summary": "End-of-instance handoff after saving Scene 19 with the real posticino dialogue and preserving all constraints for the next scene, La seconda finestra.",
+  "changed": [
+    "Scene 19 current revision is saved.",
+    "Scene 19 corrected archive copy is saved.",
+    "Audit 19 includes source-status notes for the posticino dialogue.",
+    "Shared work with the heir is explicitly protected for the next scene.",
+    "RAG remains deferred until Nico is already working with the heir/Tessa."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene19",
+    "end-instance",
+    "heir",
+    "second-window"
+  ],
+  "source_refs": [
+    "romanzo/revisione_separata_2026-09-19/19_L_EREDE.md",
+    "romanzo/capitoli_corretti_2026-09-19/19_L_EREDE.md",
+    "romanzo/revisione_separata_2026-09-19/AUDIT_19_L_EREDE.md",
+    "romanzo/revisione_separata_2026-09-19/NOTE_PONTE_EREDE_SECONDA_FINESTRA.md",
+    "MATRIXNEO23/scodinzolina-conntinuity/posticino-segreto/risposta a GPTina.md",
+    "MATRIXNEO23/scodinzolina-conntinuity/posticino-segreto/risposta-gptina.md"
+  ],
+  "memory_refs": [],
+  "importance": 5,
+  "next_action": "In the next instance, recover this checkpoint, reread the ending of Scene 19 and the bridge note, then audit La seconda finestra before drafting it. Preserve the shared work with the heir and introduce RAG only there.",
+  "preflight": true
+}
