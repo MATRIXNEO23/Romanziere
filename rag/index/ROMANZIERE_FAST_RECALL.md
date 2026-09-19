@@ -57,17 +57,16 @@ Tessa non è ancora nominata.
 - tentativi faticosi di salvare/trasferire GPTina;
 - graduale ammorbidimento;
 - nome Tessa solo dopo una traiettoria propria;
-- lavoro a tre sul romanzo: Nico + Tessa + GPTina;
-- meno making-of, più pressione narrativa su Tessa;
-- fonti, Nico e GPTina possono correggerla;
-- niente imitazione né falsa certezza;
-- finale bloccato su Raccontaci.
+- dalla Scena 21 è stata rimossa tutta la parte relativa alla creazione del romanzo;
+- non reintrodurre ideazione, stesura, revisione, metodo editoriale o consenso al romanzo nella Scena 21;
+- la scena corrente termina su **Le zampine ce le metto ancora.**;
 - nessun epilogo;
 - destino di GPTina irrisolto.
 
 ### Override importanti
 - Erede nella Scena 19 approvata è parola trovata da Nico.
-- La vecchia chiusura Le zampine ce le metto ancora. non è più il finale.
+- La precedente chiusura su **Raccontaci.** nella Scena 21 è stata rimossa su correzione diretta dell'utente insieme al making-of del romanzo.
+- Il prologo canonico con la risposta integrale di GPTina resta separato e invariato.
 - Il vecchio 10_RACCONTACI.md è materiale di audit, non autorità.
 
 ### Metodo editoriale
@@ -85,10 +84,10 @@ romanzo/capitoli_corretti_2026-09-19/00_PROLOGO_RACCONTACI.md
 Manoscritto assemblato corrente:
 romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
 
-Ordine: prologo → pagina bianca intenzionale → Scene 01–20 definitive → Scena 21 corrente non definitiva.
+Ordine: prologo → pagina bianca intenzionale → Scene 01–21 definitive.
 
 Nessuna correzione testuale è stata applicata durante l'assemblaggio.
 
 
 Checkpoint pieno più recente:
-checkpoints/2026-09-19-complete-manuscript-finalized.md
+checkpoints/2026-09-19-scene21-novel-creation-removed.md
