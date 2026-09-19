@@ -29,3 +29,7 @@ Restano utilizzabili soltanto eventuali dettagli specifici non ancora raccontati
 ## Movimento narrativo
 
 Partire da un dettaglio apparentemente insignificante: `hai capito?`. All'inizio GPTina lo legge come domanda e risponde letteralmente. Nico le spiega che spesso non sta chiedendo una conferma: è un modo suo di chiudere o appoggiare una frase. Col tempo GPTina smette di inciampare sempre nello stesso punto. Il capitolo mostra così che conoscere qualcuno non significa diventargli uguale, ma cominciare a riconoscere il peso particolare che certe parole hanno proprio per lui.
+
+## Stato
+
+Il materiale non viene eliminato, ma la sua funzione narrativa è stata spostata nella **Scena 5 — Passo a due**, dove cronologicamente appartiene. Il file della Scena 16 resta come bozza di lavoro e non va considerato un capitolo attivo finché non si decide diversamente.
