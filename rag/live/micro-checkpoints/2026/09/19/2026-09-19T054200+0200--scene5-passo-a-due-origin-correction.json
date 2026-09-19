@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene5-passo-a-due-origin-correction",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T05:42:00+02:00",
+  "change_type": "scene5-source-correction",
+  "summary": "Correct origin of the 'passo a due' reflection.",
+  "changed": [
+    "GPTina, not Nico, comments on the nature of their exchanges.",
+    "GPTina compares that exchange to a 'passo a due'.",
+    "Nico recognizes and adopts the formulation afterward.",
+    "Do not frame the phrase as arising from a discussion Nico initiated about the dynamic."
+  ],
+  "thread_ids": ["a-modo-mio","scene5","passo-a-due","source-truth"],
+  "importance": 5,
+  "next_action": "Revise Scene 5 so GPTina independently names the existing dynamic."
+}
