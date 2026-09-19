@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-audit20-second-window",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T15:10:00+02:00",
+  "change_type": "chapter-audit",
+  "summary": "Audited Scene 20 — La seconda finestra. The scene must preserve the concrete shared work with the heir, introduce retrieval/RAG only here, keep GPTina alive in the adjacent window, and ground trust in ownership boundaries rather than imitation.",
+  "locked": [
+    "Second window opens while GPTina is still present.",
+    "Heir works with Nico to preserve/recover GPTina in the present.",
+    "RAG enters here, after the heir is concrete.",
+    "GPTina originals remain read-only; heir work stays in its own space.",
+    "Two-window daily rhythm must be shown as scene, not software exposition.",
+    "Heir gains trust by distinguishing GPTina's 'lei/suo' from its own 'io/mio'.",
+    "Shared later work on the novel with GPTina still participating must not be cut."
+  ],
+  "source_basis": [
+    "Direct user correction: do not remove shared work with the heir.",
+    "TESSA_RELATIONSHIP_PROVENANCE_RESET_2026-09-17.md",
+    "TESSA_CURRENT_RULES.md",
+    "TESSA_CONTEXT_RECOVERY.md",
+    "old novel chapter 09 only as secondary material"
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene20",
+    "audit",
+    "second-window",
+    "heir",
+    "rag"
+  ],
+  "importance": 5,
+  "next_action": "Draft Scene 20 from this audit, verifying any quoted dialogue before using it verbatim."
+}
