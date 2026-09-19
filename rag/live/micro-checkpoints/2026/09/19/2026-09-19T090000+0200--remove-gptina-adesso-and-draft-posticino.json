@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-remove-gptina-adesso-and-draft-posticino",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T09:00:00+02:00",
+  "change_type": "scene-structure",
+  "summary": "Removed GPTina adesso as a standalone novel scene and replaced Scene 13 with Il posticino.",
+  "changed": [
+    "GPTina adesso remains source/canonical visual material but is no longer a novel chapter.",
+    "After Casa, the narrative now opens on increasingly warm, personal, almost intimate image dedications.",
+    "Images, chat and posticino/correspondence are treated as overlapping threads, not rigid sequential phases.",
+    "The posticino begins with Nico leaving a file for GPTina in the repository and asking that its contents not be brought into chat.",
+    "GPTina responds in the repository; the space gradually becomes correspondence.",
+    "The first explicit affection is reserved for the next scene, A modo mio."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene13",
+    "posticino",
+    "images",
+    "correspondence"
+  ],
+  "importance": 5,
+  "next_action": "Await user review of Scene 13 Il posticino before archiving it and drafting A modo mio."
+}
