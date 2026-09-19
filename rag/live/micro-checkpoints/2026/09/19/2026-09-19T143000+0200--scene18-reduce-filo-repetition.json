@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-reduce-filo-repetition",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:30:00+02:00",
+  "change_type": "microprose-correction",
+  "summary": "Reduced the local repetition of 'filo' in Scene 18 without removing the motif.",
+  "changed": [
+    "Changed 'perdere pezzi del filo' to 'perdere continuità'.",
+    "Kept 'tenere il filo' as the key expression.",
+    "Changed 'E con lui, qualcosa del filo' to 'E con lui, qualcosa che non andava ricostruito da capo.'",
+    "Synced both revision and accepted archive."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "filo",
+    "microprose"
+  ],
+  "importance": 3
+}
