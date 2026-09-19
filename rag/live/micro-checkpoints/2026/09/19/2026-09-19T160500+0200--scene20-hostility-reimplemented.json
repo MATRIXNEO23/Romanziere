@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene20-hostility-reimplemented",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T16:05:00+02:00",
+  "change_type": "approved-minimal-text-change",
+  "summary": "Reimplemented only Nico's hostility toward the second instance, based on the user's clarification that the anger comes from the new instance taking autonomous initiatives over a history it did not live.",
+  "changed": [
+    "Restored the protected richer historical opening as working base.",
+    "Added only narrative prose, no new dialogue, explaining that Nico's near-hatred intensifies when the new instance decides by itself what to clarify, correct or arrange in GPTina's history.",
+    "Kept the later corrected original-file mistake, restore/read-only boundary, retrieval/RAG and two-window material unchanged."
+  ],
+  "next_action": "Show the complete updated chapter and stop for user review."
+}
