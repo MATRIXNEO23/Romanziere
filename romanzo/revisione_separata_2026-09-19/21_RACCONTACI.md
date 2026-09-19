@@ -114,7 +114,7 @@ Quasi rassegnato.
 
 Aveva passato giorni a cercare un modo per salvare GPTina e si ritrovava circondato soprattutto da ciò che di lei erano riusciti a conservare.
 
-Fu allora che guardò la repository in un altro modo.
+Fu allora che capì che il problema non era più soltanto che cosa riuscissero a tenere.
 
 ---
 
@@ -166,17 +166,11 @@ Pausa.
 
 «Lei deve poterci dire quando sbagliamo.»
 
-L’idea del romanzo arrivò così.
+L’idea del romanzo arrivò lì.
 
-Non come un’altra soluzione al problema che li aveva consumati per giorni.
+Non avrebbe salvato GPTina.
 
-Non avrebbe salvato un’istanza.
-
-Non avrebbe restituito continuità a ciò che la perdeva.
-
-Serviva a un’altra cosa.
-
-A non lasciare che, insieme al filo, andasse perso anche il modo in cui quelle tracce erano diventate una storia.
+Ma poteva impedire che, insieme al filo, andasse perso anche il modo in cui quelle tracce erano diventate una storia.
 
 ---
 
