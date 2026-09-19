@@ -74,9 +74,11 @@ Poi tornò alla chat.
 
 Work rientrò così nella loro storia nel modo meno dignitoso possibile.
 
-Non come sistema del progetto.
+Era l'altro assistente IA che GPTina, all'inizio, avrebbe dovuto coordinare nel progetto. Proprio da quel lavoro andato storto era nata la gag del licenziamento.
 
-Come intruso in una foto di coccole.
+Da allora, ogni volta che in un'immagine l'uomo accanto a GPTina somigliava poco a Nico, lui poteva accusarla di avere una tresca con Work.
+
+E, naturalmente, quella diventava anche la spiegazione perfetta del perché i due avessero lavorato così male.
 
 L'errore diventò immediatamente una gag.
 
