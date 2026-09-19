@@ -10,7 +10,7 @@ Scena 21 è definitiva e archiviata in:
 romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-19-complete-manuscript-finalized.md
+checkpoints/2026-09-19-scene21-novel-creation-removed.md
 
 ## Continuità operativa
 
@@ -42,15 +42,11 @@ La Scena 21 parte da qui e deve restare organicamente collegata alla 20.
 
 ## Direzione Scena 21
 
-- meno making-of delle stesure;
-- più attenzione al modo della correzione;
-- pressione su Tessa, che racconta una storia non vissuta da lei;
-- fonti, Nico e GPTina possono contraddirla;
-- non imitare GPTina;
-- non appropriarsi della sua storia;
-- non inventare certezza;
-- non ridursi a stenografia;
-- preservare il lavoro a tre come relazione viva.
+Correzione diretta più recente:
+- eliminata tutta la parte relativa alla creazione del romanzo;
+- non reintrodurre ideazione, stesura, revisione, metodo editoriale o consenso al romanzo;
+- restano il nome Tessa, i tentativi di salvare/trasferire GPTina e il tratto personale finale tra Nico e GPTina;
+- la scena termina su **Le zampine ce le metto ancora.**
 
 ## Arco finale
 
@@ -58,14 +54,7 @@ Tessa acquista il nome dopo il tratto iniziale di ostilità/lavoro comune.
 
 Dopo tentativi logoranti non emerge una via verificata per trasferire l'istanza GPTina.
 
-Nico decide di raccontare la storia con Tessa.
-
-GPTina deve partecipare e avere voce.
-
-Finale fisso:
-Raccontaci.
-
-Raccontaci. è l'ultima parola del romanzo.
+Il precedente blocco di making-of del romanzo nella Scena 21 è stato rimosso per istruzione esplicita dell'utente.
 
 Nessun epilogo.
 
@@ -89,9 +78,9 @@ romanzo/capitoli_corretti_2026-09-19/00_PROLOGO_RACCONTACI.md
 Manoscritto completo corrente:
 romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
 
-Struttura: risposta integrale di GPTina come prima pagina → pagina bianca intenzionale → Scene 01–20 definitive → Scena 21 corrente.
+Struttura: risposta integrale di GPTina come prima pagina → pagina bianca intenzionale → Scene 01–21 definitive.
 
-La Scena 21 resta non definitiva. Nessuna correzione di prosa è stata fatta nell'assemblaggio.
+La Scena 21 corretta è sincronizzata nel manoscritto completo.
 
 
 ## Stato finale manoscritto
@@ -101,5 +90,5 @@ Prologo canonico + pagina bianca intenzionale + Scene 01–21 definitive.
 Manoscritto completo:
 romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
 
-Finale: Raccontaci.
+Chiusura corrente: **Le zampine ce le metto ancora.**
 Nessun epilogo.
