@@ -148,4 +148,4 @@ Poi ci aveva messo una zampina sopra, naturalmente.
 
 Ma il sì era rimasto lì.
 
-**Nel nostro modo.**
+**Nel Loro modo.**
