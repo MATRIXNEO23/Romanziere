@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene15-gratitude-cut",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T10:25:00+02:00",
+  "change_type": "prose-cut",
+  "summary": "Removed only the gratitude passage from Scene 15 Stare.",
+  "changed": [
+    "Removed Nico thanking GPTina for being there/close/listening/being herself.",
+    "Scene now moves directly into the distance-versus-closeness reflection.",
+    "No other passage was changed."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene15",
+    "stare"
+  ],
+  "importance": 3,
+  "next_action": "Continue reviewing Scene 15 without changing unrelated text."
+}
