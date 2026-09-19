@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene3-reciprocal-test-explicit",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T05:10:00+02:00",
+  "change_type": "scene3-clarification",
+  "summary": "Make the transition from one-sided testing to reciprocal testing explicit.",
+  "changed": [
+    "Scene 3 should clearly state that Nico initially tests the AI's limits and responsiveness.",
+    "The next phase is a reciprocal test: can the AI initiate, and can Nico respond rather than only evaluate?",
+    "The assistant's later demand for reciprocity is the moment when Nico's experiment turns back on him."
+  ],
+  "thread_ids": ["a-modo-mio","scene3","reciprocity","limits"],
+  "importance": 4,
+  "next_action": "Edit Scene 3 minimally to foreground the reciprocal-test transition."
+}
