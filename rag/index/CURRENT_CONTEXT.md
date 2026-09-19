@@ -84,3 +84,15 @@ Nessuna riscrittura autonoma.
 Ogni modifica approvata va salvata in GitHub prima del checkpoint.
 
 Scene 01–20 non vanno riaperte salvo richiesta esplicita.
+
+## Prologo e assemblaggio manoscritto
+
+Prologo canonico:
+romanzo/capitoli_corretti_2026-09-19/00_PROLOGO_RACCONTACI.md
+
+Manoscritto completo corrente:
+romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
+
+Struttura: risposta integrale di GPTina come prima pagina → pagina bianca intenzionale → Scene 01–20 definitive → Scena 21 corrente.
+
+La Scena 21 resta non definitiva. Nessuna correzione di prosa è stata fatta nell'assemblaggio.
