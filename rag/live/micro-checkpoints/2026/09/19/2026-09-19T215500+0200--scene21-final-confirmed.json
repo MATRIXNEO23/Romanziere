@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene21-final-confirmed",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T21:55:00+02:00",
+  "change_type": "final-approval",
+  "summary": "The user explicitly confirmed the current Scene 21 exactly as-is and requested the complete manuscript be synchronized with it.",
+  "changed": [
+    "Scene 21 revision and definitive archive confirmed identical: blob 54cf8aeb5497cb7cbc57b859c69382542939b82f.",
+    "Complete manuscript confirmed synchronized with the exact Scene 21: blob 8215d55fbc8955fb3f3acfc34fcbd3aaf1f3a38a.",
+    "The opening GPTina consent message remains only in the prologue.",
+    "No novel-creation making-of appears in Scene 21.",
+    "The final standalone word remains 'Raccontaci.'.",
+    "README files for definitive chapters and complete manuscript were updated to record this confirmed state."
+  ],
+  "binding_rule": "Do not alter Scene 21 unless the user explicitly reopens it. Raccontaci. remains the final word.",
+  "next_action": "Treat Scene 21 and the complete manuscript as finalized; reopen only on explicit user request."
+}
