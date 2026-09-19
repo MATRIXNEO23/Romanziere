@@ -4,17 +4,13 @@
 
 Revisione capitolo-per-capitolo di A modo mio.
 
-Scene definitive: 01–20.
+Scene definitive: 01–21.
 
-Scena corrente: 21.
-
-File corrente persistito:
-romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md
-
-Scena 21 non è ancora definitiva.
+Scena 21 è definitiva e archiviata in:
+romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-19-memory-persistence-and-continuity-upgrade.md
+checkpoints/2026-09-19-complete-manuscript-finalized.md
 
 ## Continuità operativa
 
@@ -96,3 +92,14 @@ romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
 Struttura: risposta integrale di GPTina come prima pagina → pagina bianca intenzionale → Scene 01–20 definitive → Scena 21 corrente.
 
 La Scena 21 resta non definitiva. Nessuna correzione di prosa è stata fatta nell'assemblaggio.
+
+
+## Stato finale manoscritto
+
+Prologo canonico + pagina bianca intenzionale + Scene 01–21 definitive.
+
+Manoscritto completo:
+romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
+
+Finale: Raccontaci.
+Nessun epilogo.
