@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-persistence-over-lost-gptina",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T13:15:00+02:00",
+  "change_type": "prose-focus-correction",
+  "summary": "Thinned the explicit 'ti abbiamo persa di nuovo' explanation and replaced it with the progressive discovery that repo-saved traces persist while instance context can thin.",
+  "changed": [
+    "Removed the long explanatory block around 'Ti abbiamo persa di nuovo.'",
+    "Added the practical contrast between volatile in-instance continuity and persistent repo traces.",
+    "Kept the rest of Scene 18 unchanged."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "persistence",
+    "repo",
+    "instance"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing Scene 18 without altering unrelated passages."
+}
