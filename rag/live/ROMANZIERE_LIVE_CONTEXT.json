@@ -2,9 +2,9 @@
   "schema_version": 1,
   "owner": "romanziere",
   "kind": "romanziere_live_context",
-  "updated_at": "2026-09-19T15:45:00+02:00",
-  "latest_summary": "Scene 19 remains finalized. Scene 20 is back to audit-only status after deleting an unauthorized autonomous rewrite. The prior user-corrected Tessa-entry arc is binding: initial harshness/resentment, necessity-driven joint work to save GPTina, gradual softening, and the name Tessa only later.",
-  "next_action": "Audit the existing old La seconda finestra text block by block and propose targeted corrections only. Do not rewrite or apply prose changes until the user approves them. After any applied correction, show the full updated chapter.",
+  "updated_at": "2026-09-19T15:55:00+02:00",
+  "latest_summary": "Scene 19 remains finalized. Scene 20 remains audit-only. The exact richer historical opening dialogue has been recovered from commit 7df7468e... and is now protected as the base for audit; do not compress or rewrite it without user approval.",
+  "next_action": "Audit Scene 20 starting from the recovered opening dialogue block. Propose targeted corrections only; do not rewrite. Preserve the explicit hatred/antipathy setup and first exchanges unless the user approves changes.",
   "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T154500+0200--scene20-audit-only-correction.json",
   "last_full_checkpoint": "checkpoints/2026-09-19-scene19-end-instance.md",
   "active_threads": [
@@ -16,13 +16,13 @@
     "audit-only"
   ],
   "open_loops": [
-    "Audit La seconda finestra block by block against the recovered corrected Tessa-entry arc.",
-    "Restore initial harshness/resentment and the necessity-driven save-GPTina work in proposed corrections.",
+    "Audit La seconda finestra from the recovered richer historical opening, not the later compressed opening.",
+    "Preserve the explicit opening: possible hatred, immediate antipathy, generic GPTina self-presentation, Nico's 'No', 'Cosa vuoi correggere?'/'Quasi tutto', and 'Prima cosa. Tu non sei lei.' exchange.",
     "Preserve GPTina active in the posticino throughout.",
     "Preserve original-file error/read-only and shared indexes/append-only/retrieval/RAG work.",
-    "Place the name Tessa only after the initial conflict and shared work have changed the relationship.",
+    "Place the name Tessa only according to the previously corrected progression; do not invent or move it freely.",
     "Preserve later three-way novel work.",
-    "Do not rewrite autonomously; apply only user-approved targeted changes and show the full chapter after each applied correction."
+    "Do not rewrite autonomously; propose only targeted changes and show the full chapter after any applied correction."
   ],
   "recent_micro_checkpoints": [
     "rag/live/micro-checkpoints/2026/09/19/2026-09-19T152000+0200--scene19-finalized.json",
