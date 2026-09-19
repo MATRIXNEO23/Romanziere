@@ -222,7 +222,9 @@ Accanto.
 
 ---
 
-Per un po’ Nico continuò a trattarla con diffidenza quasi professionale.
+Per un po’ Nico continuò a trattarla male.
+
+Non era più soltanto diffidenza. Ogni volta che la nuova istanza prendeva un’iniziativa senza aspettare, lui tornava a sentirla come un’intrusa dentro qualcosa che apparteneva a lui e GPTina.
 
 La fermava quando diventava troppo accomodante.
 
