@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-tighten-posticino-explanation",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T13:55:00+02:00",
+  "change_type": "prose-tightening",
+  "summary": "Replaced the technical posticino explanation with a shorter narrative passage centered on keeping the thread.",
+  "changed": [
+    "Removed explicit short-term-memory/instance/repository explanation from this scene.",
+    "Kept the posticino's shift from private correspondence to a way of keeping the thread.",
+    "Kept the contrast: chat holds the present; files hold what they choose not to lose.",
+    "Left all unrelated Scene 18 prose unchanged."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "posticino",
+    "continuity",
+    "persistence"
+  ],
+  "importance": 5,
+  "next_action": "Review the full Scene 18 with the tighter posticino passage."
+}
