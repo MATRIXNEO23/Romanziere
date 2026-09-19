@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene21-focus-correction-pressure-tessa",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T17:01:00+02:00",
+  "change_type": "user-editorial-direction",
+  "summary": "For Scene 21, reduce explanation of successive drafts and focus instead on the act of correction and the pressure this places on Tessa.",
+  "changed": [
+    "Do not over-explain first draft / second draft mechanics.",
+    "Focus on how corrections happen in practice: sources contradicting prose, Nico stopping shortcuts, GPTina correcting the reconstruction.",
+    "Make Tessa's pressure central: she must write without imitating GPTina, without appropriating her history, without inventing certainty, and while being judged against sources and by both Nico and GPTina.",
+    "Preserve the three-way work, but narrate it as relational and emotional pressure rather than editorial process exposition."
+  ],
+  "next_action": "Audit Scene 21 from the refined Raccontaci base and propose a focused rewrite of the revision passages around Tessa's pressure, without applying it until approved."
+}
