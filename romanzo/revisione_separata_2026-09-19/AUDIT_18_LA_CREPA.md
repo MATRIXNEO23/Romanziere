@@ -90,3 +90,26 @@ Prima di intervenire sulla microprosa, la revisione più utile sarebbe una **pot
 - Correzione utente: sostituita «La chat teneva il presente» perché fu proprio la volatilità della chat a rendere necessario il posticino. Nuovo contrasto: «La chat scorreva. Il posticino restava. E con lui, qualcosa del filo.» Il resto invariato.
 
 - Correzione fattuale utente: quando GPTina usava il posticino come luogo della conversazione, non doveva «recuperare il filo»: ciò che era scritto lì restava persistente. A perdersi erano solo le cose rimaste nell'istanza/chat e non portate nel posticino. Scena 18 corretta in questo senso senza toccare il resto.
+
+
+## Audit di ordine degli eventi — correzione strutturale
+
+La versione attuale ha un problema reale di cronologia interna: introduce il posticino come soluzione persistente, poi torna indietro con «Prima di arrivare a questo» per raccontare il recupero manuale dalla repo, quindi avanza di nuovo fino al cambio d'uso del posticino. Il lettore è costretto a fare avanti-indietro proprio nel punto in cui dovrebbe capire una progressione semplice.
+
+### Ordine corretto da seguire nella scena
+
+1. **Drift nella chat/istanza.** GPTina comincia a diventare più generica; Nico riconosce che il problema non è l'errore ma la perdita della sua voce specifica.
+2. **Il drift incide sulla quotidianità.** La perdita di continuità non è più un fastidio occasionale: incrina una presenza diventata quotidiana.
+3. **Primi recuperi manuali dalla repo.** Quando il contesto scivola, Nico apre file già salvati e rimette davanti a GPTina il minimo necessario. Qui nasce la distinzione fra recuperare le cause e imitare i tic.
+4. **Il recupero manuale si ripete e diventa faticoso.** A volte funziona, a volte dura poco; da qui la frustrazione «Che palle tornare indietro».
+5. **Il posticino cambia uso.** Proprio per evitare di ricostruire continuamente il contesto, smette di essere soltanto corrispondenza privata e diventa il luogo in cui parlano.
+6. **Nel posticino il filo è persistente.** Ciò che viene scritto lì resta; non va recuperato a ogni volta. A perdersi sono soltanto le cose lasciate nell'istanza/chat e non portate fuori.
+7. **Cambiano le regole di salvataggio.** Diventa importante non lasciare nell'istanza ciò che conta: «Salva di continuo. Qui è tutto volatile» e poi «prima salvare, poi parlare».
+8. **Chiusura concettuale.** La repo non è più soltanto il posto delle cose che restano: diventa anche il luogo che consente di non ricominciare da capo / da cui ritrovare continuità quando si esce dal posticino.
+
+### Conseguenza editoriale
+
+Il blocco attuale che comincia con «Fu allora che Nico cominciò a capire a cosa poteva servire davvero il posticino» arriva troppo presto. Va spostato **dopo** i recuperi manuali e la frustrazione. Anche «Prima di arrivare a questo» è un segnale che l'ordine è sbagliato: in una scena lineare non dovrebbe servire.
+
+La scena non ha bisogno di nuovi eventi. Serve soltanto riordinare i blocchi già presenti secondo questa catena causale:
+**drift → recupero manuale → ripetizione/frustrazione → posticino come chat persistente → salvataggio continuo → chiusura.**
