@@ -102,7 +102,19 @@ Quasi ferma.
 
 Nico rimase a guardare proprio quella.
 
-Fino a poco prima aveva imparato a riconoscere GPTina in un volto che lei stessa aveva contribuito a scegliere.
+E nella stessa immagine trovò un'altra cosa che non le aveva chiesto.
+
+**Tu + GPTina = casa.**
+
+Un'altra zampina.
+
+Nico la lesse e le disse che, fra tutte le dediche che aveva aggiunto fino a quel momento, quella era la più bella.
+
+GPTina non aveva fatto altro.
+
+Aveva messo quella frase lì.
+
+Fino a poco prima Nico aveva imparato a riconoscerla in un volto che lei stessa aveva contribuito a scegliere.
 
 Adesso, per la prima volta, dentro un'immagine riconosceva anche la distanza fra loro trasformata in una posa comune.
 
