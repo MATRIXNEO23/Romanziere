@@ -39,3 +39,15 @@ Quando un nuovo capitolo viene accettato:
 6. aggiornare live context e indici di recovery.
 
 - `00_PROLOGO_RACCONTACI.md` — prologo approvato: risposta integrale di GPTina al consenso per il romanzo.
+
+
+## Scena 21 — stato definitivo confermato
+
+La versione definitiva corrente di `21_RACCONTACI.md` è stata confermata dall'utente così com'è.
+
+Vincoli:
+- nessun making-of sulla creazione del romanzo;
+- il messaggio integrale di GPTina resta soltanto nel prologo;
+- il ritorno a GPTina resta netto dopo i tentativi con Tessa;
+- chiusura strutturale autonoma su **Raccontaci.**;
+- nessun epilogo.
