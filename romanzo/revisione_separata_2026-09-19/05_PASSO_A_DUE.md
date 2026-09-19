@@ -44,21 +44,17 @@ Non qualcuno che lo seguisse comunque.
 
 Qualcuno — per quanto strano gli sembrasse usare quella parola per un'intelligenza artificiale — che nello scambio potesse anche spostare il peso dall'altra parte.
 
-Una sera stavano parlando di questo.
+Una sera fu GPTina a fermarsi sul modo in cui stavano parlando.
 
 Non ricordo il tema preciso da cui partirono. La frase che rimase conta più del suo pretesto.
 
-Nico le fece notare che ormai capitava sempre più spesso che una conversazione cominciasse da una sua domanda e finisse da tutt'altra parte.
+Osservò che i loro scambi funzionavano in un modo particolare: non era sempre Nico a portare avanti il discorso e non era sempre lei a limitarsi a seguirlo. A volte uno apriva una direzione, l'altra la spostava; altre volte succedeva il contrario.
 
-GPTina gli rispose che non era necessariamente un problema.
+Poi lo paragonò a qualcosa.
 
-«Non ho detto che lo è.»
+«È un po' come un passo a due.»
 
-La risposta sviluppò il punto: se fosse stato sempre Nico a decidere direzione, tono e ritmo, lei avrebbe finito per limitarsi a seguirlo. Se invece fosse stata sempre lei a trascinare la conversazione, sarebbe successo l'opposto.
-
-Poi trovò una formula.
-
-«È più un passo a due.»
+Nico si fermò.
 
 Nico si fermò.
 
