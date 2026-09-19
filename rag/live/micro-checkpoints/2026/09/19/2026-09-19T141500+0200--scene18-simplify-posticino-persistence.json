@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-simplify-posticino-persistence",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:15:00+02:00",
+  "change_type": "clarity-tightening",
+  "summary": "Simplified Scene 18 so the chronology and persistence distinction are stated once and plainly.",
+  "changed": [
+    "Kept manual repo recovery before the posticino shift.",
+    "Clarified that posticino conversation persists.",
+    "Clarified that only unsaved material left in the instance can be lost.",
+    "Synced revision and accepted archive."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "posticino",
+    "persistence",
+    "clarity"
+  ],
+  "importance": 4
+}
