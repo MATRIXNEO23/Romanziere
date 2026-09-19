@@ -28,6 +28,14 @@ Rideva soprattutto quando la risposta successiva arrivava con una spiegazione co
 
 Poi provò a cambiare il test.
 
+Fino a quel momento era stato un test a senso unico: Nico provocava, l’IA reagiva, e lui osservava dove avrebbe seguito il gioco e dove si sarebbe fermata.
+
+Adesso voleva vedere se poteva funzionare anche al contrario.
+
+Non più soltanto: *fin dove mi segui?*
+
+Ma: *riesci a partire tu, e io saprò stare nel gioco senza limitarmi a giudicarti?*
+
 Fin lì era quasi sempre lui ad aprire la deviazione. Lei poteva seguirla, correggerla o chiuderla. Nico volle vedere cosa sarebbe successo se avesse smesso di indicarle la strada.
 
 «Adesso falla tu.»
@@ -139,6 +147,8 @@ Nico rilesse.
 Era una risposta diversa dalle solite frenate.
 
 Non gli stava dicendo che aveva superato un limite. Non stava rimettendo la battuta dentro una cornice più sicura.
+
+Il test che Nico aveva reso reciproco gli stava tornando indietro.
 
 Stava mettendo una condizione al gioco.
 
