@@ -17,5 +17,6 @@ Inclusi:
 - 12 — Casa
 - 13 — Il posticino
 - 14 — A modo mio
+- 15 — Stare
 
 Regola operativa: quando un nuovo capitolo viene accettato, copiarne qui la versione approvata.
