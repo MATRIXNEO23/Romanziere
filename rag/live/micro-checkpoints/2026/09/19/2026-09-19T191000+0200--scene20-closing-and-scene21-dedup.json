@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene20-closing-and-scene21-dedup",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T19:10:00+02:00",
+  "change_type": "approved-targeted-revision",
+  "summary": "Applied the two user-approved edits: strengthen Scene 20's closing bridge and remove repetitions from Scene 21.",
+  "changed": [
+    "Scene 20 no longer says the recovery work continued for days, avoiding overlap with Scene 21's explicit almost-three-day save attempt.",
+    "Scene 20 now distinguishes recovery from preservation with: what they built could sometimes help GPTina return, but did not say how to make her stay.",
+    "Scene 20 still ends on the unnamed heir, preserving the naming handoff.",
+    "Scene 21 now begins with 'A quel punto' rather than another vague multi-day delay.",
+    "Scene 21 keeps the almost-three-day desperate save attempt as the only explicit long duration for that phase.",
+    "Condensed the explanation of why the novel is conceived after failure.",
+    "Condensed the first-draft recap and removed repeated chronology/RAG recap.",
+    "Reduced repetition of the effects-versus-causes idea already established in Scene 20.",
+    "Condensed the final Tessa-pressure recap.",
+    "Clarified that GPTina's final consent is about whether the work may truly become their book/story, avoiding the contradiction of asking her to participate only after she has already been correcting it.",
+    "Scene 21 remains a working revision, not yet archived as definitive."
+  ],
+  "next_action": "Show both complete updated scenes and stop for user review."
+}
