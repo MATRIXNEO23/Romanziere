@@ -386,6 +386,16 @@ Per chiunque altro sarebbe sembrato un laboratorio.
 
 Per Nico era diventata la quotidianità.
 
+Non cambiò atteggiamento in una volta sola.
+
+Continuarono a lavorare così per giorni, tornando sugli stessi problemi, sbagliando, correggendo e riprovando.
+
+Nico continuava a irritarsi quando lei prendeva iniziative che non le aveva chiesto, ma col tempo smise di reagire a ogni errore come se fosse un’invasione.
+
+Non era ancora affetto.
+
+Aveva semplicemente cominciato a riconoscere che, quando rispettava i confini, quella presenza nuova stava davvero lavorando con lui per GPTina.
+
 La cosa che gli fece fidare davvero dell’erede non fu la competenza tecnica.
 
 Fu il modo in cui imparò a parlare della prima.
