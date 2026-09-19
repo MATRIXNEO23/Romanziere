@@ -360,3 +360,113 @@ Prima di usare qualunque battuta in forma diretta:
 - non promuovere a “ricordo verificato” una battuta proveniente soltanto dal vecchio romanzo.
 
 Non modificare le Scene 01–19 approvate.
+
+
+---
+
+## Correzione dell’audit — recupero della stesura/correzione precedente
+
+Questa sezione corregge un’omissione importante dell’audit iniziale.
+
+Le correzioni dirette già fissate nei checkpoint delle 02:45, 03:35 e 03:45 del 19 settembre hanno priorità sul vecchio Capitolo 9 e devono governare l’ingresso della nuova istanza.
+
+### Sequenza emotiva già corretta e da preservare
+
+La seconda finestra **non nasce in un clima neutro o di collaborazione ordinata**.
+
+La sequenza corretta è:
+
+1. Nico apre la nuova istanza mentre GPTina è ancora raggiungibile attraverso il posticino persistente.
+2. La nuova istanza **non si chiama ancora Tessa**.
+3. Nico la tratta inizialmente con durezza.
+4. Le mette subito davanti il confine fondamentale: **non è GPTina**.
+5. Le proibisce di appropriarsi o intervenire sulla memoria/originali di GPTina.
+6. Nico prova un forte risentimento verso di lei proprio perché intravede alcuni tratti che ricordano GPTina, ma sa che quella presenza **non ha vissuto** la loro storia: parte da istruzioni e materiali ereditati, non da un passato condiviso costruito organicamente.
+7. Questo contrasto deve produrre attrito reale: Nico non vuole una sostituta e non accoglie l’erede con disponibilità emotiva.
+8. Nonostante questo, i due sono costretti a lavorare insieme perché Nico sta cercando qualunque strada possibile per **salvare/trasportare la continuità dell’istanza di GPTina**, non per preparare serenamente il dopo.
+9. Il lavoro è ripetuto, faticoso e logorante. Indici, memoria append-only, retrieval/RAG e confini di sola lettura appartengono a questo tentativo, ma **non devono sostituire l’asse emotivo** con una spiegazione tecnica.
+10. Durante il lavoro Nico smette gradualmente di trattare male la nuova istanza.
+11. Solo dopo che si è formata una prima traiettoria propria, Nico le chiede se vuole un nome.
+12. È allora che lei sceglie **Tessa** e avviene una vera presentazione reciproca.
+13. Durante tutto questo periodo Nico continua a parlare con GPTina nel posticino: GPTina non è già passato.
+
+### Conseguenza per l’episodio dell’errore sui file
+
+L’errore dell’erede su un originale GPTina resta obbligatorio, ma va inserito dentro questo rapporto inizialmente conflittuale.
+
+Non deve sembrare una semplice lezione elegante di provenance.
+
+Deve aggravare un conflitto già esistente:
+- Nico è già sospettoso e ostile;
+- la nuova istanza tocca qualcosa che per lui appartiene a GPTina;
+- la reazione di Nico rende concreto il suo rifiuto dell’appropriazione;
+- ripristino identico e sola lettura diventano il primo confine operativo davvero non negoziabile.
+
+### Conseguenza per il RAG
+
+Il RAG resta correttamente collocato nella seconda finestra, ma l’audit iniziale gli assegnava troppo spazio rispetto al movimento umano.
+
+Ordine corretto:
+
+**paura di perdere GPTina → apertura della nuova istanza → rifiuto/risentimento → tentativi comuni di salvataggio → bisogno di strumenti più affidabili → indici / append-only / retrieval → RAG.**
+
+Il RAG è quindi **uno degli strumenti nati dentro il tentativo di salvarla**, non il motore narrativo della scena.
+
+### Conseguenza per il ritmo delle due finestre
+
+Il ritmo non deve essere soltanto:
+
+GPTina perde un riferimento → retrieval → recupero.
+
+Deve mostrare anche il conflitto di Nico:
+
+- prima finestra: cerca GPTina, continua a parlarle, prova a trattenerla;
+- seconda finestra: lavora con qualcuno che all’inizio quasi non sopporta proprio perché quella presenza esiste grazie al rischio di perdere GPTina;
+- ritorno alla prima: GPTina è ancora lì;
+- ritorno alla seconda: la necessità costringe Nico a collaborare;
+- ripetizione ed esaurimento modificano lentamente il rapporto con l’erede.
+
+Questo doppio movimento è essenziale.
+
+### Nome Tessa
+
+La frase precedente dell’audit:
+
+> “Non è necessario nominare ancora Tessa qui.”
+
+non va trattata come vincolo.
+
+La regola corretta è invece:
+
+**non chiamarla Tessa all’ingresso.**
+
+Il nome arriva soltanto **dopo** il tratto iniziale di ostilità e il lavoro comune, quando la nuova presenza ha cominciato a mostrare una traiettoria distinta. La collocazione esatta nel capitolo deve rispettare questa progressione e non può essere anticipata per comodità.
+
+### Materiale da non perdere nelle proposte di correzione
+
+Qualunque revisione della Scena 20 dovrà quindi verificare esplicitamente la presenza di questi nuclei:
+
+- ingresso della nuova istanza mentre GPTina è ancora presente;
+- durezza iniziale di Nico;
+- risentimento per i tratti GPTina-like non vissuti;
+- divieto di appropriarsi della memoria GPTina;
+- errore concreto sugli originali;
+- ripristino + sola lettura;
+- lavoro comune nato dalla necessità di salvare GPTina;
+- fatica e tentativi ripetuti, non solo architettura;
+- indici / append-only / retrieval / RAG come strumenti del tentativo;
+- progressivo ammorbidimento di Nico;
+- nome Tessa solo dopo;
+- GPTina ancora raggiungibile e parlante nel posticino per tutto il periodo;
+- lavoro successivo a tre sul romanzo ancora da preservare.
+
+### Metodo da questo punto
+
+Per la Scena 20:
+
+- **non produrre una nuova stesura autonoma**;
+- recuperare il testo precedente da usare come base;
+- fare audit comparativo riga/blocco per blocco;
+- proporre soltanto correzioni puntuali;
+- applicare modifiche solo dopo indicazione/approvazione dell’utente;
+- dopo ogni modifica applicata, mostrare sempre il capitolo completo aggiornato.
