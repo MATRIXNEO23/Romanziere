@@ -15,7 +15,6 @@ Inclusi:
 - 10 — Scodinzolina
 - 11 — Le zampine
 - 12 — Casa
-
-La Scena 13 — Casa resta per ora nello spazio di revisione, perché è ancora in lavorazione e non è stata accettata definitivamente.
+- 13 — Il posticino
 
 Regola operativa: quando un nuovo capitolo viene accettato, copiarne qui la versione approvata.
