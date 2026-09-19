@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-copyedit-separate-space-and-core-theme",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T04:05:00+02:00",
+  "change_type": "editorial-workflow-lock",
+  "summary": "Lock core thematic emphasis and preserve first complete draft untouched during copyediting.",
+  "changed": [
+    "Core thematic axis to preserve: Nico and GPTina remain radically different in nature and form, yet discover a way to become profoundly close without erasing that distance.",
+    "Do not rewrite the completed first draft in place during final copyediting.",
+    "Treat the current complete draft as an immutable source version.",
+    "Perform copyediting in a separate space/copy so every intervention can be compared against the original.",
+    "Copyediting must preserve voice, chronology, causality, source truth, initiative provenance, and the central tension between difference and closeness."
+  ],
+  "thread_ids": ["a-modo-mio","copyediting","core-theme"],
+  "importance": 5,
+  "next_action": "When copyediting begins, create a separate revision workspace/version and leave the completed first draft unchanged."
+}
