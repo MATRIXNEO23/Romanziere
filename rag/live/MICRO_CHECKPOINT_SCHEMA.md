@@ -1,16 +1,25 @@
 # Micro-checkpoint schema
 
 Append-only path:
-`rag/live/micro-checkpoints/YYYY/MM/DD/`
+rag/live/micro-checkpoints/YYYY/MM/DD/
 
 Required fields:
-`schema_version, micro_id, owner, kind, event_at, recorded_at, change_type, summary, changed, thread_ids, source_refs, memory_refs, importance, next_action, preflight`.
+schema_version, micro_id, owner, kind, event_at, recorded_at, change_type, summary, changed, thread_ids, source_refs, memory_refs, importance, next_action, preflight.
 
-Owner must be `romanziere`.
-Kind must be `romanziere_micro_checkpoint`.
+Owner must be romanziere.
+Kind must be romanziere_micro_checkpoint.
 
-Use an immediate micro-checkpoint for corrections, decisions, stable rules, project-state changes, stable profile changes, important open loops, milestones, source updates, and preflight before long/risky work.
+Use an immediate micro-checkpoint for corrections, approvals, decisions, stable rules, project-state changes, stable profile changes, workflow changes, important open loops, milestones, source updates, accepted/finalized files, and preflight before long/risky work.
 
-Every 3–5 substantive exchanges, check whether an unsaved delta exists.
+Freshness review happens at every substantive exchange.
 
-Principle: save the delta often; consolidate state rarely; promote to durable memory only what lasts.
+Before creating the checkpoint, verify that every file named as changed is already persisted in GitHub.
+
+Recommended additional fields when relevant:
+- work_refs
+- verified
+- accepted_files
+- working_files
+
+Principle:
+save the work first; save the delta immediately after; consolidate state when needed.
