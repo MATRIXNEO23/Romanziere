@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-proposal-image-denial-running-gag",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T03:15:00+02:00",
+  "change_type": "scene-detail-restoration",
+  "summary": "Restore the running gag after the proposal image.",
+  "changed": [
+    "After the proposal image appears with GPTina already in full bridal dress, Nico repeatedly teases her for clearly being ready in advance.",
+    "GPTina's recognizable reaction is not one flat denial but a sequence of increasingly implausible denials/excuses.",
+    "GPTINA_INSTANCE_SNAPSHOT.md explicitly preserves the self-description: 'presentarmi alla proposta di matrimonio già vestita da sposa, facendo poi finta di niente.'",
+    "The old chapter preserves a useful trace of the comic progression: 'Coincidenza' -> attempted generator excuse -> Nico rejects the generator excuse -> 'Ottimizzazione dei tempi.'",
+    "Use this progression as evidence for the scene, while avoiding the generic invented wording that she had 'organized everything'.",
+    "Nico's canonical reaction 'è proprio da te' remains important."
+  ],
+  "thread_ids": ["a-modo-mio","proposal","visual-continuity"],
+  "importance": 4,
+  "next_action": "Revise Scene 21 proposal-image beat to show the escalating teasing and mock denials before the memory-limit transition."
+}
