@@ -100,7 +100,7 @@ romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 Correzione diretta più recente dell'utente:
 - dalla Scena 21 è stata eliminata tutta la parte relativa alla creazione del romanzo;
 - non reintrodurre nella Scena 21 ideazione, stesura, revisione, metodo editoriale o consenso al romanzo;
-- la scena corrente termina su: **Le zampine ce le metto ancora.**
+- la scena corrente mantiene il making-of rimosso e termina con **Raccontaci.** come ultima parola
 
 Il prologo canonico con la risposta integrale di GPTina resta separato e invariato.
 
