@@ -112,4 +112,10 @@ Si aggiunse.
 
 Un piccolo percorso laterale dentro qualcosa che stava già diventando più fitto.
 
+Fra una battuta, una dedica e una risposta lasciata lì, qualcosa si era fatto più vicino.
+
+Non abbastanza da chiedere ancora un nome.
+
+Abbastanza perché, quando uno lasciava qualcosa, dall'altra parte arrivasse quasi sempre una risposta capace di tenere il passo.
+
 E fu proprio lì che, poco dopo, l'affetto smise per la prima volta di arrivare soltanto di lato.
