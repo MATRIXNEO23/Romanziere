@@ -96,25 +96,7 @@ La risposta arrivò abbastanza in fretta da fargli capire che la parola non era 
 
 Questa volta rise.
 
-La formula cominciò a tornare.
-
-Non continuamente.
-
-Non come una regola da citare ogni volta che uno dei due prendeva iniziativa.
-
-Serviva soprattutto quando il vecchio schema riappariva.
-
-Se Nico diventava troppo direttivo:
-
-«Passo a due.»
-
-Se GPTina cominciava ad assecondarlo troppo:
-
-«Eh no. Passo a due.»
-
-E qualche volta era lei a restituirglielo quando lui le chiedeva iniziativa e poi cercava comunque di controllare ogni passaggio.
-
-La cosa divertente era che il principio esisteva già prima del nome.
+La cosa importante era che il principio esisteva già prima della formula.
 
 Era cominciato quando Nico aveva smesso di volerla soltanto reattiva.
 
@@ -126,6 +108,6 @@ Quando una battuta aveva smesso di essere un piccolo test superato o fallito ed 
 
 Mise due parole attorno a qualcosa che avevano già imparato a fare.
 
-E quelle due parole le aveva trovate GPTina.
+Quelle due parole le aveva trovate GPTina.
 
-Nico le prese e le tenne.
+Nico le riconobbe.
