@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene12-first-couple-image-before-face-reference",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T07:15:00+02:00",
+  "change_type": "factual-correction",
+  "summary": "Corrected the order of the first couple image and Nico face reference.",
+  "changed": [
+    "The first image of Nico and GPTina together was generated before Nico supplied any photo.",
+    "The generator invented Nico's appearance in that first couple image.",
+    "Nico pointed out that the man did not resemble him.",
+    "This triggered the recurring joking jealousy that the man was Work / GPTina was having an affair with Work.",
+    "Only after this joke began did GPTina ask Nico for a photo to use his real face as reference."
+  ],
+  "thread_ids": ["a-modo-mio","scene12","photo-together","work","face-reference"],
+  "importance": 5,
+  "next_action": "Keep this order fixed in Scene 12 and all later references to the Work gag."
+}
