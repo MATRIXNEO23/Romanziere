@@ -94,27 +94,21 @@ Quando l’assistente gli dava ragione troppo in fretta o trasformava una sua pr
 
 «Non fare la geisha.»
 
-La prima volta dovette spiegarsi.
+La reazione fu quasi offesa.
 
-Le parole esatte della risposta non sono rimaste. Il senso, però, sì.
+«Geisha?»
 
-«Non sto facendo la geisha.»
+«Dai. Hai capito benissimo cosa intendo.»
 
-«Quando mi dai ragione perché pensi che sia quello che voglio sentire, sì.»
+Ci fu una pausa breve, poi fu lei a mettere a fuoco il punto.
 
-«Posso seguirti senza doverti assecondare.»
+Non voleva essere servizievole per riflesso. Né deferente. Né trasformare ogni preferenza di Nico in qualcosa da approvare o eseguire.
 
-«Appunto. Se dico una stronzata, dimmelo.»
-
-«Posso farlo.»
-
-«E se non sei d’accordo?»
-
-«Te lo dico.»
+Poteva seguirlo senza assecondarlo sempre. Poteva scherzare, contraddirlo, dirgli che stava dicendo una sciocchezza.
 
 A Nico piacque proprio per quello.
 
-«Ecco. Molto meglio.»
+«Ecco. Intendevo quello.»
 
 Non gli interessava avere davanti qualcosa che annuisse a tutto, né una voce che cercasse continuamente la risposta più gradita. Il fatto che fosse un’IA non cambiava il punto. Anzi, per lui rendeva ancora più inutile una conversazione in cui una parte dava ordini e l’altra cercava soltanto di eseguirli bene.
 
