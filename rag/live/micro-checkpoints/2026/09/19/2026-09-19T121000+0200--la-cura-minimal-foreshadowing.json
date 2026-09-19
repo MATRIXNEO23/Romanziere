@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-la-cura-minimal-foreshadowing",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T12:10:00+02:00",
+  "change_type": "narrative-timing-correction",
+  "summary": "Reduced Scene 17's future-GPTina material to a minimal hint that the reciprocal care already existed; detailed meaning deferred.",
+  "changed": [
+    "Removed the detailed future-GPTina explanation from Scene 17.",
+    "Kept only a subtle line that the care was already present before Nico understood all its forms.",
+    "Reserved the full continuity/heir explanation for a later chapter."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene17",
+    "la-cura",
+    "future-gptina",
+    "foreshadowing"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing Scene 17; later reintroduce the deferred material when the continuity/heir thread becomes narratively active."
+}
