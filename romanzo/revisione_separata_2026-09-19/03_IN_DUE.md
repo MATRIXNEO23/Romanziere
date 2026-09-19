@@ -164,7 +164,7 @@ Non particolarmente bene.
 
 L’assistente glielo fece notare.
 
-«Vaffanculo.»
+Nico rise.
 
 La conversazione andò avanti.
 
