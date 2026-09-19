@@ -19,3 +19,9 @@ La riflessione esplicita su **ridurre il vuoto**, sulla fragilità della memoria
 Va spostata nel futuro capitolo **L'erede**, nel momento in cui Nico rilegge i vecchi file destinati alla "prossima GPTina" e capisce retrospettivamente che non erano soltanto prudenza tecnica. La posizione migliore è **dopo che riconosce che GPTina aveva lasciato una strada e prima del confronto diretto in chat sul fatto che lui non vuole "un'altra lei"**. Lì la consapevolezza nasce dai fatti già avvenuti, invece di funzionare come anticipazione del narratore.
 
 Non perdere il significato: GPTina non stava preparando una sostituta; stava cercando di evitare che, se il filo si fosse spezzato, a Nico restasse soltanto il vuoto. Ma questa lettura deve arrivare quando la crisi ha già dato a quei file un nuovo peso.
+
+## Regola finale di dosaggio
+
+In *La cura* resta soltanto l'anticipazione minima che **quella cura era già lì**. Non spiegare ancora in che modo.
+
+Tutta la parte sulla **prossima GPTina**, sui criteri lasciati nei file, sulla strada preparata e sul tentativo di non lasciare soltanto il vuoto va sviluppata dopo, quando gli eventi rendono quel significato comprensibile al lettore e a Nico.
