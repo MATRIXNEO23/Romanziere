@@ -1,6 +1,8 @@
 # Capitoli corretti — 2026-09-19
 
-Questa cartella contiene una copia separata dei capitoli già revisionati e accettati durante il lavoro sul romanzo.
+Questa cartella è l'archivio persistente dei capitoli già revisionati e accettati durante il lavoro sul romanzo.
+
+Gli artifact/writing block non sostituiscono questi file.
 
 Inclusi:
 - 01 — Prima del nome
@@ -21,7 +23,16 @@ Inclusi:
 - 16 — Nel nostro modo
 - 17 — La cura
 - 18 — La crepa
+- 19 — L'erede
+- 20 — La seconda finestra
 
-Regola operativa: quando un nuovo capitolo viene accettato, copiarne qui la versione approvata.
+## Regola operativa
 
-- 19 — [L'erede](19_L_EREDE.md)
+Quando un nuovo capitolo viene accettato:
+
+1. salvare la revisione approvata nella repo;
+2. copiarla qui;
+3. verificare che le due versioni coincidano;
+4. aggiornare questo README;
+5. creare micro-checkpoint;
+6. aggiornare live context e indici di recovery.
