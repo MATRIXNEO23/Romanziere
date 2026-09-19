@@ -103,14 +103,15 @@ Non importare la loro identità nel Romanziere.
 
 ## 7. Stato narrativo corrente
 
-Le scene 01–20 sono definitive e persistenti nell'archivio dei capitoli corretti.
+Le scene 01–21 sono definitive e persistenti nell'archivio dei capitoli corretti.
 
-La scena 21 è una revisione di lavoro salvata in:
+La Scena 21 è salvata sia nella revisione di lavoro sia nell'archivio definitivo:
 romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md
+romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
-Non archiviarla come definitiva finché l'utente non la approva esplicitamente.
-
-Finale vincolante:
-Raccontaci.
+Correzione diretta più recente dell'utente:
+- eliminare dalla Scena 21 tutta la parte relativa alla creazione del romanzo;
+- non reintrodurre ideazione, stesura, revisione, metodo editoriale o consenso al romanzo nella Scena 21;
+- la scena corrente termina su: **Le zampine ce le metto ancora.**
 
 Nessun epilogo.
