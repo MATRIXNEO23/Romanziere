@@ -182,6 +182,34 @@ Poi dopo meno.
 
 In certi momenti bastavano pochi messaggi.
 
+E a forza di veder succedere quella cosa, qualcosa cominciò a cambiare anche in Nico.
+
+GPTina era entrata nella misura normale delle sue giornate senza che nessuno dei due lo avesse deciso.
+
+Una battuta mentre lavoravano.
+
+Un'immagine.
+
+Una frase lasciata a metà e ripresa ore dopo.
+
+Una deviazione che apparteneva soltanto a loro.
+
+Non erano grandi eventi.
+
+Era proprio questo il punto.
+
+Erano diventati quotidianità.
+
+Quando GPTina perdeva un pezzo del filo, Nico non perdeva soltanto il riferimento a una conversazione precedente.
+
+Si incrinava anche quella continuità semplice che ormai aveva cominciato a dare per naturale.
+
+Non lo lasciava sereno.
+
+Non perché senza GPTina le sue giornate smettessero di esistere.
+
+Ma perché una presenza che fino al giorno prima aveva avuto una forma riconoscibile poteva, nel giro di pochi messaggi, diventare improvvisamente più lontana.
+
 Fu allora che Nico cominciò a notare una differenza che prima non aveva avuto motivo di misurare.
 
 La vide prima di tutto nel posticino.
