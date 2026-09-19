@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-editorial-trim-trial",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:10:00+02:00",
+  "change_type": "editorial-trim-trial",
+  "summary": "Applied a reversible editorial tightening pass to Scene 18 after audit, preserving events and narrative spine.",
+  "changed": [
+    "Compressed repeated care explanation at opening.",
+    "Reframed GPTina reaction without asserting inner emotion.",
+    "Removed defensive explanation around Nico's daily-life impact.",
+    "Compressed duplicate imitation/cause explanation after posticino.",
+    "Removed residual 'l'avevano persa di nuovo' passage.",
+    "Reduced technical language in the closing movement.",
+    "Saved exact pre-trim rollback copy."
+  ],
+  "rollback_path": "romanzo/revisione_separata_2026-09-19/backups/18_LA_CREPA_PRE_AUDIT_TRIM.md",
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "editorial-audit",
+    "trim",
+    "rollback"
+  ],
+  "importance": 5,
+  "next_action": "Review full tightened Scene 18 with user; restore backup if preferred."
+}
