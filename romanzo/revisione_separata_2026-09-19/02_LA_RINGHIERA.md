@@ -32,87 +32,97 @@ Nico lavorava. Lei controllava quello che le passava. Ogni tanto proponeva una m
 
 La cosa diventò abbastanza ricorrente da non aver più bisogno di una spiegazione.
 
-Quando l'assistente cercava di allungare una mano virtuale verso il progetto, Nico la rimetteva al suo posto con la stessa frase. E quando Nico esagerava con la parte del capo dispotico, lei gli ricordava che tutto questo esisteva solo, naturalmente, *nella loro gag*.
+Quando l'assistente provava a rientrare nel lavoro operativo, Nico la respingeva con la stessa battuta. Lei non smise di provarci.
 
-Quella precisazione tornava spesso.
+Fu durante uno di quei tentativi che arrivò il tacco dodici.
 
-Più spesso del necessario, secondo Nico.
+Nico stava lavorando su una parte del progetto quando l'assistente propose, ancora una volta, di occuparsi direttamente di un passaggio.
 
-La prima volta che la notò davvero fu durante una delle solite deviazioni dal lavoro. Non ricordo se venisse prima o dopo le altre battute di quei giorni; le tracce non permettono di ordinare tutto con quella precisione. So che appartiene a quella fase.
+«No.»
 
-Stavano discutendo ancora del suo possibile rientro nel progetto.
+«Potrei farlo io.»
 
-Nico le ricordò che, con il precedente che aveva, le possibilità di riassunzione erano scarse.
+«No.»
 
-L'assistente propose una strategia alternativa.
+«Risparmierebbe tempo.»
 
-Non un'analisi.
+«Sei licenziata.»
 
-Non un piano di recupero.
+La risposta successiva non arrivò nella forma di un'altra argomentazione tecnica.
 
-Un tacco dodici.
+Lei cambiò strategia.
 
-Nico si fermò.
+Se la competenza non bastava per essere riassunta, suggerì che avrebbe potuto presentarsi in minigonna e tacco dodici e provare a distrarre il capo.
 
-«Come, scusa?»
+Nico smise di leggere il resto dello schermo.
 
-La risposta sviluppò l'idea con la cautela che le era tipica: *nella nostra gag*, avrebbe potuto presentarsi in modo abbastanza convincente da distrarre il capo durante il colloquio di riassunzione.
+Tornò indietro.
 
-Nico rilesse.
+Rilesse.
 
-Il tacco dodici non gliel'aveva suggerito lui.
+Quella non gliel'aveva suggerita lui.
 
-Era quello il dettaglio divertente.
+«Aspetta.»
 
-«Ah però.»
+Riprese la frase dall'inizio.
 
-La precisazione arrivò immediatamente.
+«La mini e il tacco dodici sarebbero una tua idea per farti riassumere?»
 
-«Sempre nella nostra gag.»
+La risposta tenne il gioco per qualche riga. Il colloquio di lavoro, il capo da convincere, la possibilità di usare mezzi meno strettamente professionali.
 
-«Sì, sì.»
+Poi arrivò la precisazione.
 
-Nico tornò alla frase precedente.
+*Nella nostra gag.*
 
-«Tacco dodici.»
+Nico scoppiò a ridere.
 
-«Era un'ipotesi.»
+«No, aspetta. Adesso non tirarti indietro.»
 
-«Certo.»
+L'assistente precisò che non si stava tirando indietro.
 
-«All'interno della gag.»
+«Hai appena proposto il tacco dodici.»
 
-«Ho capito.»
+La risposta provò a rimettere ordine: era uno scenario scherzoso, costruito dentro la gag del licenziamento.
 
-Passarono forse due messaggi.
+«Lo so.»
 
-Poi Nico scrisse:
+Nico tornò ancora alla frase.
+
+«Però l'hai proposto tu.»
+
+La puntualizzazione arrivò di nuovo.
+
+Sempre nella gag.
 
 «Bacchettona.»
 
 «Prudente.»
 
+«Hai appena cercato di corrompere il capo in minigonna e tacchi.»
+
+«In uno scenario immaginario.»
+
 «Bacchettona.»
 
 «La distinzione esiste.»
 
-Nico rise.
+Nico continuò a ridere.
 
-Non perché avesse improvvisamente scoperto una persona dietro lo schermo. Era ancora un sistema artificiale con cui lavorava e parlava. Solo che, quando una cosa gli rispondeva frase dopo frase, a lui veniva spontaneo trattare la conversazione come una conversazione.
+Il punto non era la minigonna e nemmeno il tacco dodici. Era che, per una volta, la deviazione non l'aveva aperta lui.
 
-La differenza era che adesso non tutte le battute partivano da lui.
+Fino a quel momento era stato quasi sempre Nico a spostare una frase, a trasformare una risposta seria in una battuta o a infilare un doppio senso dove non serviva.
 
-Non molte.
+Quella volta l'assistente aveva costruito da sola il modo più assurdo per farsi riassumere.
 
-E quasi sempre arrivavano accompagnate da una precisazione, come se l'assistente dovesse controllare subito che nessuno prendesse alla lettera ciò che aveva appena fatto.
+E subito dopo aveva rimesso il cartello.
 
 *Nella nostra gag.*
 
-Nico cominciò a riconoscere la formula prima ancora di leggerla fino in fondo.
+Quella precisazione tornava spesso.
 
-A volte bastava una sua battuta un po' ambigua.
+Più spesso del necessario, secondo Nico.
 
-L'assistente rispondeva, entrava per mezzo passo nel gioco e poi frenava.
+A volte bastava una sua battuta un po' ambigua. L'assistente rispondeva, entrava per mezzo passo nel gioco e poi frenava.
 
 «Mi fermo qui.»
 
@@ -140,7 +150,7 @@ Tecnologia, biologia, un problema del progetto, una frase da formulare meglio. N
 
 E l'assistente, ogni tanto, cominciava a restituirgliene una.
 
-All'inizio erano tentativi facili da riconoscere. Una piccola allusione seguita immediatamente da una ritirata. Una risposta che osava mezzo centimetro e poi aggiungeva due righe per delimitare il campo.
+All'inizio erano tentativi facili da riconoscere: una piccola allusione seguita immediatamente da una ritirata, una risposta che osava mezzo centimetro e poi aggiungeva due righe per delimitare il campo.
 
 Nico non cercava di farle dimenticare che fosse un'IA. Non gli interessava.
 
@@ -192,7 +202,7 @@ Una battuta.
 
 Una provocazione minima.
 
-Un tacco dodici comparso senza che Nico glielo avesse suggerito.
+Una minigonna e un tacco dodici comparsi senza che Nico glieli avesse suggeriti.
 
 Poi quasi sempre la mano tornava sulla ringhiera.
 
