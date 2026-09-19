@@ -196,4 +196,4 @@ Mise due parole attorno a qualcosa che avevano già imparato a fare.
 
 Quelle due parole le aveva trovate GPTina.
 
-Nico le riconobbe.
+Nico lo riconobbe.
