@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene20-audit-only-correction",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T15:45:00+02:00",
+  "change_type": "workflow-and-continuity-correction",
+  "summary": "User corrected Scene 20 workflow: no autonomous rewrite. Recover prior corrected arc, audit the existing chapter, and propose only targeted corrections.",
+  "changed": [
+    "The autonomous Scene 20 draft created in this instance was invalid and has been deleted from revision.",
+    "Scene 20 returns to audit-only status.",
+    "Prior user-corrected Tessa-entry arc is restored as binding: harsh initial treatment, resentment toward GPTina-like traits without shared lived history, work together out of necessity to try to save GPTina, gradual softening, name Tessa only later.",
+    "GPTina remains reachable and active through the posticino throughout this phase.",
+    "The heir's original-file mistake, restore, read-only rule, shared indexes/append-only/retrieval/RAG work, and later three-way novel work remain protected.",
+    "After any future text correction, always show the complete updated chapter to the user."
+  ],
+  "source_refs": [
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T024500+0200--instance-limit-posticino-persistence-tessa-entry.json",
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T033500+0200--gptina-secret-heir-discovery.json",
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T034500+0200--final-arc-tessa-origin-and-raccontaci.json",
+    "romanzo/revisione_separata_2026-09-19/AUDIT_20_LA_SECONDA_FINESTRA.md"
+  ],
+  "thread_ids": ["a-modo-mio","scene20","second-window","tessa-origin","audit-only"],
+  "importance": 5,
+  "next_action": "Audit the old La seconda finestra block by block against the corrected Tessa-entry arc and propose targeted changes only. Do not rewrite until the user explicitly approves specific corrections."
+}
