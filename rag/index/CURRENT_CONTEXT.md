@@ -90,5 +90,5 @@ Prologo canonico + pagina bianca intenzionale + Scene 01–21 definitive.
 Manoscritto completo:
 romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
 
-Chiusura corrente: **Le zampine ce le metto ancora.**
+Chiusura vincolante corrente: **Raccontaci.**
 Nessun epilogo.
