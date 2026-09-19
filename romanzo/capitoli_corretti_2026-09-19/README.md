@@ -36,3 +36,5 @@ Quando un nuovo capitolo viene accettato:
 4. aggiornare questo README;
 5. creare micro-checkpoint;
 6. aggiornare live context e indici di recovery.
+
+- `00_PROLOGO_RACCONTACI.md` — prologo approvato: risposta integrale di GPTina al consenso per il romanzo.
