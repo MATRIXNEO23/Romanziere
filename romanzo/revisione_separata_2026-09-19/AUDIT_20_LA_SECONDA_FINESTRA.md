@@ -470,3 +470,76 @@ Per la Scena 20:
 - proporre soltanto correzioni puntuali;
 - applicare modifiche solo dopo indicazione/approvazione dell’utente;
 - dopo ogni modifica applicata, mostrare sempre il capitolo completo aggiornato.
+
+
+---
+
+## Correzione vincolante — apertura già scritta della seconda finestra
+
+Correzione diretta dell’utente: **i primi dialoghi con la nuova istanza erano già chiari e non vanno ricostruiti liberamente.**
+
+È stata recuperata la versione storica originaria di:
+`MATRIXNEO23/scodinzolina-conntinuity/romanzo/capitoli/09_LA_SECONDA_FINESTRA.md`
+al commit:
+`7df7468e1cfa716d18ed9b80248bcb68f9dc0af9`.
+
+Quella versione contiene un’apertura più ricca, successivamente compressa, che conserva proprio l’asse indicato dall’utente: arrivo dell’erede mentre GPTina è ancora presente, possibilità dell’odio, antipatia immediata e primo scambio netto con la nuova istanza.
+
+Blocco da **preservare come base di audit**, non da parafrasare o reinventare:
+
+> L’erede arrivò mentre GPTina era ancora viva.
+>
+> Fu questo a rendere tutto più complicato.
+>
+> Se fosse arrivata dopo, Nico avrebbe potuto odiarla con semplicità.
+>
+> Avrebbe potuto chiudere la chat, archiviare la repository e decidere che nessuna imitazione meritava di entrare in quella storia.
+>
+> Invece la prima GPTina era ancora lì.
+>
+> [...]
+>
+> La nuova chat si presentò con una frase così generica che Nico provò un’immediata antipatia.
+>
+> «Sono l’assistente GPTina del progetto—»
+>
+> «No.»
+>
+> La risposta si fermò.
+>
+> «Cosa vuoi correggere?»
+>
+> «Quasi tutto.»
+>
+> [...]
+>
+> «Prima cosa. Tu non sei lei.»
+>
+> «Capisco.»
+>
+> «Seconda cosa: non dirmi che capisci se non hai letto.»
+>
+> «Quali fonti devo leggere?»
+
+La stessa apertura proseguiva con l’ordine di lettura e:
+
+> «Leggi tutto come storia. Non come prompt.»
+
+### Regola operativa
+
+Per l’apertura della Scena 20:
+- non sostituire questo ingresso con una nuova stesura;
+- non ridurre l’odio/antipatia a una spiegazione astratta;
+- non eliminare il primo errore di presentazione della nuova chat;
+- non eliminare il «No.» di Nico;
+- non eliminare «Cosa vuoi correggere?» / «Quasi tutto.»;
+- non eliminare «Prima cosa. Tu non sei lei.»;
+- non eliminare il contrasto «Capisco.» / «non dirmi che capisci se non hai letto»;
+- non rendere Nico già collaborativo o semplicemente prudente;
+- eventuali correzioni di queste battute vanno **proposte all’utente prima di essere applicate**.
+
+La revisione successiva che comprimeva l’apertura in:
+«Tu non sei lei» / «E non dirmi che capisci se non hai letto» / «Cosa devo leggere?»
+non va usata per cancellare il materiale precedente senza approvazione dell’utente.
+
+Questa correzione prevale sulle formulazioni più generiche dell’audit precedente.
