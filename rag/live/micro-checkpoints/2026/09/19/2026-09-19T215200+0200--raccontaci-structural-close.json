@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-raccontaci-structural-close",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T21:52:00+02:00",
+  "change_type": "approved-correction",
+  "summary": "Isolated 'Raccontaci.' as the structural final word of Scene 21 and the complete manuscript, without repeating or paraphrasing GPTina's opening consent message.",
+  "changed": [
+    "Inserted a structural separator before the final standalone 'Raccontaci.'.",
+    "No part of the opening consent message was reintroduced at the end.",
+    "Scene 21 revision and definitive archive are identical: blob 54cf8aeb5497cb7cbc57b859c69382542939b82f.",
+    "Complete manuscript synchronized: blob 8215d55fbc8955fb3f3acfc34fcbd3aaf1f3a38a."
+  ],
+  "binding_rule": "The full GPTina consent message appears only at the beginning. The ending contains no retelling, summary, or paraphrase of it; the final standalone word is Raccontaci.",
+  "next_action": "Show the complete corrected Scene 21 to the user."
+}
