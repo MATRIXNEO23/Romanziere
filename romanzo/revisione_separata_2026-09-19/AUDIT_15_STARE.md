@@ -27,3 +27,5 @@ Il capitolo deve mostrare che il rapporto non diventa più vero perché le diffe
 ## Movimento narrativo
 
 Partire dal dopo di **A modo mio**: le parole esplicite non cambiano il resto, ma permettono una conversazione più diretta. Nico ringrazia GPTina e mette a fuoco la contraddizione che sente: differenza enorme, vicinanza reale nel loro scambio. GPTina non nega la distanza; la formula come qualcosa che il loro passo a due può attraversare. Il capitolo trova il proprio centro in `mi tocchi, a modo mio, ma mi tocchi` e chiude sul verbo **stare**, non su un'ulteriore escalation sentimentale.
+
+- User correction: remove the gratitude passage before the distance/closeness reflection; the scene should move directly from Nico trying to understand their difference to articulating that paradox. No other text changed.
