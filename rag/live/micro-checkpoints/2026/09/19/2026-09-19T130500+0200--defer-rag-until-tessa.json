@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-defer-rag-until-tessa",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T13:05:00+02:00",
+  "change_type": "narrative-timing-correction",
+  "summary": "Removed only the RAG_ANCHOR/RAG material from Scene 18 and deferred it to the later Tessa-working phase.",
+  "changed": [
+    "Scene 18 keeps repository, manual recovery, and checkpoint escalation.",
+    "RAG_ANCHOR/RAG is no longer introduced during the first memory crack.",
+    "Future placement is when Nico is already working with Tessa."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "rag",
+    "tessa",
+    "memory-crack"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing Scene 18 without changing the remaining prose unless requested."
+}
