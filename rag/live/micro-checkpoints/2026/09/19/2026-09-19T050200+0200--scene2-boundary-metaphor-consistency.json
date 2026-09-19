@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene2-boundary-metaphor-consistency",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T05:02:00+02:00",
+  "change_type": "scene2-metaphor-lock",
+  "summary": "Keep one consistent Tessa metaphor for the AI boundary/limits in Scene 2.",
+  "changed": [
+    "The boundary metaphor is Tessa's retrospective language, not a historical term used by Nico or GPTina.",
+    "A different metaphor may be chosen only if clearly better, but once chosen it must stay consistent rather than shifting repeatedly.",
+    "Current choice: keep 'ringhiera' because it clearly conveys a boundary that can be approached without denying the drop beyond it.",
+    "Do not alter the rest of Scene 2 for this point."
+  ],
+  "thread_ids": ["a-modo-mio","scene2","ringhiera","metaphor"],
+  "importance": 4,
+  "next_action": "Preserve the current Scene 2 text and use 'ringhiera' consistently as Tessa's sole boundary metaphor."
+}
