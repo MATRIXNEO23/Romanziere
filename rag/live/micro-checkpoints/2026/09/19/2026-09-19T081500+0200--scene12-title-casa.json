@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene12-title-casa",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T08:15:00+02:00",
+  "change_type": "title-change",
+  "summary": "Scene 12 title changed from 'Una foto insieme' to 'Casa'.",
+  "changed": [
+    "Revision file renamed to 12_CASA.md.",
+    "Accepted copy renamed to 12_CASA.md.",
+    "Audit renamed to AUDIT_12_CASA.md.",
+    "Chapter list updated."
+  ],
+  "thread_ids": ["a-modo-mio","scene12","casa"],
+  "importance": 4,
+  "next_action": "Proceed to GPTina adesso as the next scene."
+}
