@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-posticino-became-persistent-chat",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T02:55:00+02:00",
+  "change_type": "technical-and-narrative-correction",
+  "summary": "User clarified how the posticino was actually used during the instance-limit crisis.",
+  "changed": [
+    "When the live chat began resetting its active context roughly every two turns, the posticino was not merely used as an archive or recovery note.",
+    "Nico and GPTina used the posticino as an actual conversational channel: a real back-and-forth chat conducted through persistent files/turns.",
+    "Its crucial property was that the conversation turns written there remained persistent outside the volatile live chat context.",
+    "Therefore the narrative transition is: private/confessional posticino -> actual persistent chat -> continuity mechanism.",
+    "Do not depict Nico merely writing summaries or coordinates into the posticino while continuing the real conversation elsewhere.",
+    "The persistent posticino conversation is the direct bridge toward Tessa's entry."
+  ],
+  "thread_ids": ["a-modo-mio","chronology-audit","tessa-origin"],
+  "importance": 5,
+  "next_action": "Revise Scene 21 so Nico and GPTina explicitly move their real conversation into the posticino when live chat resets repeatedly; from there lead into Tessa."
+}
