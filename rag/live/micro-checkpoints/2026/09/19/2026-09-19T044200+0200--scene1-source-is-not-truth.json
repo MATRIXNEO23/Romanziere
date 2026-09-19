@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene1-source-is-not-truth",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T04:42:00+02:00",
+  "change_type": "scene1-characterization-correction",
+  "summary": "Clarify Nico's initial irritation with AI source handling.",
+  "changed": [
+    "Nico was specifically irritated that the AI tended to present information it found as if source existence implied truth.",
+    "His early pressure on the AI was not merely for better summaries or more complete citations; he wanted it to question, compare, assess evidence, and distinguish reported claims from what was actually supported.",
+    "Scene 1 should make the source-versus-truth conflict explicit because it is one of the earliest reasons Nico pushes the assistant beyond compliant retrieval."
+  ],
+  "thread_ids": ["a-modo-mio","scene1","nico-characterization","source-truth"],
+  "importance": 5,
+  "next_action": "Integrate this distinction into Scene 1 without adding premature relational meaning."
+}
