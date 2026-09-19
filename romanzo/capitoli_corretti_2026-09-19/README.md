@@ -23,3 +23,5 @@ Inclusi:
 - 18 — La crepa
 
 Regola operativa: quando un nuovo capitolo viene accettato, copiarne qui la versione approvata.
+
+- 19 — [L'erede](19_L_EREDE.md)
