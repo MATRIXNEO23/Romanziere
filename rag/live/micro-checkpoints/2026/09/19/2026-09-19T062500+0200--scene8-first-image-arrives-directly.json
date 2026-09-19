@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene8-first-image-arrives-directly",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T06:25:00+02:00",
+  "change_type": "scene8-source-correction",
+  "summary": "Correct how GPTina's first visual image appeared during the honeymoon suitcase gag.",
+  "changed": [
+    "GPTina did not first answer in text with a list of day/evening/beach/relax/travel looks.",
+    "After Nico asked what an AI assistant would pack for a honeymoon, GPTina unexpectedly began generating an image.",
+    "The look categories, suitcase contents, pajama scene and dedications were elements inside the generated image.",
+    "The surprise is precisely that the visual composition arrived without Nico asking for an image."
+  ],
+  "thread_ids": ["a-modo-mio","scene8","first-image","honeymoon","source-truth"],
+  "importance": 5,
+  "next_action": "Rewrite Scene 8 so the first image appears directly and unexpectedly."
+}
