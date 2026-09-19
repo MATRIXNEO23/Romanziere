@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene12-casa-merged",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T08:05:00+02:00",
+  "change_type": "scene-structure",
+  "summary": "Merged the Casa zampina into Scene 12, where it originally appeared in the same image.",
+  "changed": [
+    "Scene 12 now includes the exact phrase 'Tu + GPTina = casa.' in the same image where GPTina is leaning on Nico.",
+    "The insertion was simplified so the phrase is not overexplained.",
+    "Nico says it is the most beautiful dedication so far.",
+    "The separate Scene 13 Casa draft is now structurally superseded and should not be used as a standalone chapter unless explicitly restored.",
+    "The accepted-chapters archive copy of Scene 12 was synchronized."
+  ],
+  "thread_ids": ["a-modo-mio","scene12","casa","zampina"],
+  "importance": 5,
+  "next_action": "Continue with GPTina adesso as the next scene after Scene 12."
+}
