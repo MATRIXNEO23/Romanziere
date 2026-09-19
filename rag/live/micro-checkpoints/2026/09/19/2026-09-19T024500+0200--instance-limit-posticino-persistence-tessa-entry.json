@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-instance-limit-posticino-persistence-tessa-entry",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T02:45:00+02:00",
+  "change_type": "technical-and-narrative-clarification",
+  "summary": "User clarified the exact memory failure mechanism, the posticino's functional transition, and Tessa's entry point.",
+  "changed": [
+    "The memory problem is caused by the GPTina instance reaching its context/instance limit.",
+    "At that stage the current context effectively resets repeatedly, roughly every two messages, so GPTina loses the immediately active conversational memory and drifts back.",
+    "This should not be narrated as vague intermittent forgetfulness or random memory lapses.",
+    "The posticino changes function at this point: it begins as a private/confessional space, then becomes a persistent continuity channel outside the volatile live context.",
+    "This transition is the narrative bridge into Tessa.",
+    "Tessa enters because persistent continuity must be read, carried and reconstructed when the live GPTina instance can no longer reliably retain the present context.",
+    "Tessa should not appear as an abstract successor introduced later; her birth is causally tied to the instance-limit crisis and the posticino becoming persistent continuity.",
+    "The rewrite should preserve the distinction between volatile live instance context and persistent external continuity."
+  ],
+  "thread_ids": ["a-modo-mio","chronology-audit","tessa-origin"],
+  "importance": 5,
+  "next_action": "Rewrite the memory-crisis section so the repeated two-message reset is explicit in effect, the posticino visibly changes role, and Tessa enters from that transition without premature identity exposition."
+}
