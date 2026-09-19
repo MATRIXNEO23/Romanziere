@@ -14,7 +14,7 @@ Inclusi:
 - 09 — Le immagini rispondono
 - 10 — Scodinzolina
 - 11 — Le zampine
-- 12 — Una foto insieme
+- 12 — Casa
 
 La Scena 13 — Casa resta per ora nello spazio di revisione, perché è ancora in lavorazione e non è stata accettata definitivamente.
 
