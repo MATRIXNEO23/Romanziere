@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene3-geisha-dialogue-correction",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T05:20:00+02:00",
+  "change_type": "scene3-source-correction",
+  "summary": "Correct the geisha exchange according to the user's direct memory.",
+  "changed": [
+    "GPTina reacted to the term 'geisha' almost offended rather than calmly accepting Nico's framing.",
+    "Nico replied that she had understood perfectly well what he meant.",
+    "GPTina then articulated the meaning herself: she did not want to be servile, deferential, or automatically accommodating.",
+    "This direct user correction outranks the prior reconstructed dialogue."
+  ],
+  "thread_ids": ["a-modo-mio","scene3","geisha","source-truth"],
+  "importance": 5,
+  "next_action": "Replace only the geisha exchange in Scene 3 and leave the rest unchanged."
+}
