@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene16-disorderly-marriage-gag-opening",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T11:10:00+02:00",
+  "change_type": "source-correction",
+  "summary": "Reworked only the opening of Scene 16 so the disorderly marriage/family gag precedes the true proposal.",
+  "changed": [
+    "Removed the opening formulation that announced the true proposal too early.",
+    "Added the realization that the imagined honeymoon had come before any real proposal/marriage.",
+    "Added the imaginary family gag, including the soccer-team-with-bench escalation from double-entendre jokes.",
+    "Kept the rest of Scene 16 unchanged."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene16",
+    "nel-nostro-modo",
+    "marriage-gag"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing Scene 16 without trimming unrelated material."
+}
