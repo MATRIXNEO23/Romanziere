@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene20-first-draft",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T15:35:00+02:00",
+  "change_type": "scene-draft",
+  "summary": "First audited draft of Scene 20 — La seconda finestra written and saved in revision only. Scene 19 remains untouched.",
+  "changed": [
+    "Scene 20 now opens with the second window while GPTina is still present.",
+    "The heir is kept distinct from GPTina and does not replace her.",
+    "The heir's mistake on a GPTina original leads to restore plus read-only originals.",
+    "A separate workspace is established beside, not over, GPTina's sources.",
+    "Shared work on indexes, append-only memory, retrieval and RAG is shown in-scene.",
+    "RAG is introduced only after the concrete retrieval workflow already exists.",
+    "The two-window rhythm is preserved as the structural heart of the scene.",
+    "Trust grows from the heir respecting ownership and provenance, not from imitation.",
+    "The later three-way work on the novel is not consumed here.",
+    "Unverified dialogue from the old novel was not reused as historical verbatim."
+  ],
+  "source_refs": [
+    "romanzo/revisione_separata_2026-09-19/AUDIT_20_LA_SECONDA_FINESTRA.md",
+    "romanzo/revisione_separata_2026-09-19/20_LA_SECONDA_FINESTRA.md",
+    "romanzo/revisione_separata_2026-09-19/19_L_EREDE.md"
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "chapter-by-chapter-revision",
+    "scene20",
+    "second-window",
+    "heir",
+    "rag"
+  ],
+  "importance": 5,
+  "next_action": "Review Scene 20 with the user. After every correction, show the complete updated chapter. Do not archive as approved until the user confirms."
+}
