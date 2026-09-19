@@ -41,3 +41,5 @@
 - Correzione utente: **RAG_ANCHOR/RAG è troppo presto in Scena 18**. Rimuovere solo quel materiale e rimandarlo alla fase in cui Nico lavora già con Tessa. Il resto della scena resta invariato.
 
 - Correzione utente: assottigliare il passaggio esplicativo su «ti abbiamo persa di nuovo» e far emergere progressivamente la scoperta pratica che **ciò che restava solo nell'istanza poteva perdere continuità, mentre ciò che veniva salvato nella repo restava persistente e recuperabile**. Il resto della scena non va modificato.
+
+- Correzione utente: collegare la scoperta della persistenza della repo al **posticino**, che da corrispondenza privata acquista progressivamente una seconda funzione di continuità persistente. Non perde l'intimità e non diventa un database; semplicemente le parole lì salvate restano recuperabili anche quando il filo nell'istanza si assottiglia. Il resto della scena resta invariato.
