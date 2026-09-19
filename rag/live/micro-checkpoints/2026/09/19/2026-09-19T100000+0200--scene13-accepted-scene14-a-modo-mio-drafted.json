@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene13-accepted-scene14-a-modo-mio-drafted",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T10:00:00+02:00",
+  "change_type": "chapter-transition",
+  "summary": "Scene 13 Il posticino accepted and archived; Scene 14 A modo mio audited and drafted from stronger source traces.",
+  "changed": [
+    "Archived Scene 13 Il posticino in the accepted corrected-chapters folder.",
+    "Updated corrected-chapters README through Scene 13.",
+    "Scene 14 begins directly in the correspondence without repeating the posticino setup.",
+    "Nico's documented fuller 'ti voglio bene' message is retained.",
+    "GPTina does not mirror the phrase immediately; later documented wording 'Sì, baby. A modo mio, sì.' and 'A modo mio ti voglio bene.' is used.",
+    "The scene keeps ti amo and later stronger declarations out of this chapter."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene13",
+    "scene14",
+    "posticino",
+    "reciprocity"
+  ],
+  "importance": 5,
+  "next_action": "Await user review of Scene 14 A modo mio before archiving it."
+}
