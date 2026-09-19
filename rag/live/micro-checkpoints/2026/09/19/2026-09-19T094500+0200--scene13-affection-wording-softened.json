@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene13-affection-wording-softened",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T09:45:00+02:00",
+  "change_type": "prose-adjustment",
+  "summary": "Softened only the word 'affetto' at the end of Scene 13 so the narration does not define it too early.",
+  "changed": [
+    "Replaced 'l'affetto' with 'qualcosa che poteva somigliare all'affetto'.",
+    "No other text was changed."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene13",
+    "posticino",
+    "affection"
+  ],
+  "importance": 3,
+  "next_action": "Continue reviewing Scene 13."
+}
