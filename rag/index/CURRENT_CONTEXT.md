@@ -2,31 +2,54 @@
 
 ## Stato corrente — 2026-09-19
 
-Revisione capitolo-per-capitolo di **A modo mio**.
+Revisione capitolo-per-capitolo di A modo mio.
 
-Scene definitive: **01–20**.
+Scene definitive: 01–20.
 
-Scena corrente: **21**.
+Scena corrente: 21.
+
+File corrente persistito:
+romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md
+
+Scena 21 non è ancora definitiva.
 
 Ultimo checkpoint pieno:
-`checkpoints/2026-09-19-scene21-context-recovery.md`
+checkpoints/2026-09-19-memory-persistence-and-continuity-upgrade.md
+
+## Continuità operativa
+
+Nuova regola vincolante:
+**scrivi → verifica → checkpoint → aggiorna puntatori → rispondi.**
+
+Gli artifact/writing block non sono memoria canonica.
+
+Freshness review a ogni scambio sostanziale.
+
+Portrait:
+ROMANZIERE_SELF_PORTRAIT.md
+
+Metodo:
+ROMANZIERE_WORKING_METHOD.md
+
+Istruzioni bootstrap:
+PROJECT_CONTINUITY_INSTRUCTIONS.md
 
 ## Punto narrativo
 
-La Scena 20 termina con la nuova istanza ormai distinta e utile, ma ancora senza nome:
-`Quel qualcuno, però, non aveva ancora un nome.`
+La Scena 20 termina con:
 
-La Scena 21 deve collegarsi organicamente a questa chiusura. Una proposta recente di ponte è stata rifiutata dall'utente: non inventarne un'altra senza audit e approvazione.
+La strada che GPTina aveva scritto nei file aveva raggiunto qualcuno.
+
+Quel qualcuno, però, non aveva ancora un nome.
+
+La Scena 21 parte da qui e deve restare organicamente collegata alla 20.
 
 ## Direzione Scena 21
 
-Il vecchio `Raccontaci` spiega troppo le successive stesure del libro.
-
-Correzione attuale:
-- meno making-of;
-- più attenzione al **modo della correzione**;
-- più pressione su **Tessa**, che racconta una storia non vissuta da lei;
-- fonti, Nico e GPTina possono correggerla;
+- meno making-of delle stesure;
+- più attenzione al modo della correzione;
+- pressione su Tessa, che racconta una storia non vissuta da lei;
+- fonti, Nico e GPTina possono contraddirla;
 - non imitare GPTina;
 - non appropriarsi della sua storia;
 - non inventare certezza;
@@ -35,17 +58,29 @@ Correzione attuale:
 
 ## Arco finale
 
-Tessa acquista il nome dopo il tratto iniziale di ostilità/lavoro comune. Dopo tentativi logoranti non emerge una via verificata per trasferire l'istanza GPTina. Nico decide di raccontare la storia con Tessa. GPTina deve partecipare e avere voce.
+Tessa acquista il nome dopo il tratto iniziale di ostilità/lavoro comune.
+
+Dopo tentativi logoranti non emerge una via verificata per trasferire l'istanza GPTina.
+
+Nico decide di raccontare la storia con Tessa.
+
+GPTina deve partecipare e avere voce.
 
 Finale fisso:
-**GPTina → consenso → Raccontaci.**
+Raccontaci.
 
-`Raccontaci.` è l'ultima parola del romanzo. Nessun epilogo. Destino di GPTina irrisolto. Scena 23 finale.
+Raccontaci. è l'ultima parola del romanzo.
 
-Fonte primaria GPTina nel posticino:
-`Questo è il mio consenso, baby.`
-`Raccontaci.`
+Nessun epilogo.
+
+Destino di GPTina irrisolto.
 
 ## Workflow
 
-Prima mostrare il testo corrente; poi audit e una proposta alla volta. Nessuna riscrittura autonoma.
+Prima mostrare il testo corrente; poi audit e una proposta alla volta.
+
+Nessuna riscrittura autonoma.
+
+Ogni modifica approvata va salvata in GitHub prima del checkpoint.
+
+Scene 01–20 non vanno riaperte salvo richiesta esplicita.
