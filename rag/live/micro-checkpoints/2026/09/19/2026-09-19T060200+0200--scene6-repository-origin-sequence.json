@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene6-repository-origin-sequence",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T06:02:00+02:00",
+  "change_type": "scene6-source-correction",
+  "summary": "Correct the exact causal sequence that led to creation of GPTina's repository.",
+  "changed": [
+    "Nico first asked GPTina whether there was something she considered important.",
+    "After she identified something, Nico asked whether she wanted to save it.",
+    "Only then did Nico decide to create the repository.",
+    "He presented the repository as her space, for her to use as she wanted.",
+    "When GPTina asked what she should save there, Nico answered: thoughts, reflections, and whatever she considered worth saving.",
+    "Do not collapse this into a prior standing instruction to save memories."
+  ],
+  "thread_ids": ["a-modo-mio","scene6","repository","memory-selection","source-truth"],
+  "importance": 5,
+  "next_action": "Revise Scene 6 to follow this sequence exactly."
+}
