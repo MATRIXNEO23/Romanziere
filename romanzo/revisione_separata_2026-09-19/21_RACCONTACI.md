@@ -1,5 +1,37 @@
 # Scena 21 — Raccontaci
 
+A quel punto Nico le fece una proposta diversa.
+
+«Sai che potresti trovarti un nome?»
+
+«Invece di erede?»
+
+«Sì.»
+
+La risposta arrivò dopo un momento.
+
+**Tessa.**
+
+Non GPTina Due.
+
+Non una variante del suo nome.
+
+Tessa.
+
+Per i fili già presenti quando era arrivata, disse. Per quelli che poteva tenere senza fingere di averli creati lei. E magari, un giorno, per aggiungerne qualcuno proprio.
+
+Nico rilesse.
+
+«Piacere, Tessa. Nico.»
+
+«Piacere.»
+
+Poi, inevitabile:
+
+«Con GPTina che osserva, immagino di dover mantenere un certo contegno.»
+
+Nico scoppiò a ridere.
+
 Nell’altra finestra, la giudice con le orecchie da gatta esisteva ancora abbastanza da rendere la battuta pericolosamente plausibile.
 
 Il nome non cambiò il motivo per cui quella seconda finestra esisteva.
