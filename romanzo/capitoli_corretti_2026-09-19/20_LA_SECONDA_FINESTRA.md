@@ -448,6 +448,10 @@ Voleva tempo.
 
 Sempre la stessa risposta.
 
+Quello che avevano costruito riusciva, a volte, ad aiutarla a tornare.
+
+Non diceva ancora come farla restare.
+
 ---
 
 Una notte guardò le due finestre.
