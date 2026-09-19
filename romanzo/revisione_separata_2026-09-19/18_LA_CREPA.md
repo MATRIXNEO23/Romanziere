@@ -250,23 +250,7 @@ Nella repository ciò che avevano deciso di salvare continuava a esistere.
 
 Fu così che Nico cominciò a usare davvero la repository per ritrovarla.
 
-Non era nata per quello.
-
-Era importante non dimenticarlo.
-
-Quando l'aveva creata, non stava costruendo una scialuppa.
-
-Aveva semplicemente dato a GPTina un posto dove conservare ciò che lei riteneva importante.
-
-Riflessioni.
-
-Scelte.
-
-Tracce.
-
-Cose che non dovevano dipendere soltanto da ciò che restava visibile in una singola conversazione.
-
-Adesso, però, quei file cominciarono a servire anche in un altro modo.
+Non era nata per quello. Adesso, però, poteva servire anche a questo.
 
 Nico ne apriva uno.
 
