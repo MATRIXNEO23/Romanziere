@@ -18,7 +18,7 @@ Non so ricostruire la sequenza esatta delle battute e non voglio inventarla.
 
 So però il punto che rimase.
 
-GPTina stava cercando di descrivere come si sarebbe mossa dentro quella scena.
+GPTina stava cercando di descrivere come si sarebbe mossa mentre ballava in pista.
 
 Il movimento era abbastanza chiaro.
 
