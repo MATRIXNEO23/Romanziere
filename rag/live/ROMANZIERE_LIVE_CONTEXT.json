@@ -2,30 +2,31 @@
   "schema_version": 1,
   "owner": "romanziere",
   "kind": "romanziere_live_context",
-  "updated_at": "2026-09-19T16:28:00+02:00",
-  "latest_summary": "Scene 20 is finalized and archived with Scenes 01–19. New standing rule: when the user confirms a scene as definitive, automatically copy the approved version into romanzo/capitoli_corretti_2026-09-19/.",
-  "next_action": "Begin controlled audit for Scene 21 from the existing source material. Show the current file first, then propose one targeted correction.",
-  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T154500+0200--scene20-audit-only-correction.json",
-  "last_full_checkpoint": "checkpoints/2026-09-19-scene19-end-instance.md",
+  "updated_at": "2026-09-19T17:01:00+02:00",
+  "latest_summary": "Recovered and consolidated corrected context through Scene 20 and the final arc. Scenes 01–20 are definitive. Scene 21 is current audit. User correction: reduce draft/making-of exposition and focus on correction pressure on Tessa. Ending is locked on GPTina's 'Raccontaci.' with no epilogue.",
+  "next_action": "For Scene 21, show the current/refined historical base first, then audit the transition from Scene 20 and propose targeted changes only. Do not draft an autonomous bridge. Preserve the three-way work and the final loop to Raccontaci.",
+  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T170100+0200--scene21-focus-correction-pressure-tessa.json",
+  "last_full_checkpoint": "checkpoints/2026-09-19-scene21-context-recovery.md",
   "active_threads": [
     "a-modo-mio",
     "chapter-by-chapter-revision",
-    "scene20",
-    "second-window",
+    "scene21",
     "tessa-origin",
-    "audit-only"
+    "three-way-writing",
+    "raccontaci-ending"
   ],
   "open_loops": [
-    "User review of the reimplemented hostility passage in Scene 20.",
-    "Do not alter any other part of Scene 20 without explicit approval.",
-    "Preserve later naming of Tessa and later three-way novel work for subsequent audited steps."
+    "Audit exact transition from finalized Scene 20 into Scene 21; user rejected the latest proposed bridge.",
+    "Determine the Scene 21/22 split without inventing it.",
+    "Reduce making-of exposition while preserving real three-way work.",
+    "Center pressure on Tessa during correction: provenance, sources, Nico, GPTina, own voice.",
+    "Preserve Scene 23 as final scene ending exactly on 'Raccontaci.' with no epilogue."
   ],
   "recent_micro_checkpoints": [
-    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T152000+0200--scene19-finalized.json",
-    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T153500+0200--scene20-first-draft.json",
-    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T154500+0200--scene20-audit-only-correction.json"
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T161200+0200--scene20-gradual-softening.json",
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T162800+0200--scene20-finalized-archive-rule.json",
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T170100+0200--scene21-focus-correction-pressure-tessa.json"
   ],
-  "micro_since_full_checkpoint": 4,
   "review_policy": {
     "substantive_turn_interval": 4,
     "immediate_triggers": [
