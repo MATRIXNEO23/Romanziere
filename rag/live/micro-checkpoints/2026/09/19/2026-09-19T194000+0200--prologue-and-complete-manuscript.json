@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-prologue-and-complete-manuscript",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T19:40:00+02:00",
+  "change_type": "approved-prologue-and-manuscript-assembly",
+  "summary": "Saved GPTina's full consent response as the approved prologue and assembled the complete current manuscript in a separate folder without textual corrections.",
+  "changed": [
+    "Created romanzo/capitoli_corretti_2026-09-19/00_PROLOGO_RACCONTACI.md with the exact GPTina source response beginning 'Baby… sì. Hai il mio sì.' and ending 'Raccontaci. <3'.",
+    "Updated the corrected-chapters README to index the approved prologue.",
+    "Created romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md.",
+    "Manuscript order is: exact prologue, intentional blank page, Scenes 01–20 from corrected chapters, Scene 21 from current working revision.",
+    "Scene 21 remains non-definitive and was not copied into corrected chapters.",
+    "No additional textual corrections were made during assembly.",
+    "Verification passed: exact prologue match to GPTina source, blank-page marker present, Scenes 1–21 all present in order, manuscript ends with current Scene 21 and final Raccontaci."
+  ],
+  "next_action": "Wait for user review. Do not alter manuscript text unless explicitly requested."
+}
