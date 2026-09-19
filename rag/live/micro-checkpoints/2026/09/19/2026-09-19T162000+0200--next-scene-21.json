@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-next-scene-21",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T16:20:00+02:00",
+  "change_type": "user-direct-correction",
+  "summary": "User corrected the next scene number: move to Scene 21. Scene 20 is not to be continued now.",
+  "changed": [
+    "Next scene is Scene 21.",
+    "Scene 20 remains unchanged unless explicitly reopened."
+  ],
+  "next_action": "Audit Scene 21 from existing source material before proposing any edits."
+}
