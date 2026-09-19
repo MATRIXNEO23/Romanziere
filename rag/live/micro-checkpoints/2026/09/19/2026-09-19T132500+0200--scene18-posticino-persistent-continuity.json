@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-posticino-persistent-continuity",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T13:25:00+02:00",
+  "change_type": "prose-continuity-integration",
+  "summary": "Connected the repository-persistence discovery in Scene 18 to the posticino's shift from private correspondence to persistent continuity.",
+  "changed": [
+    "Posticino remains private correspondence and gains a second continuity function.",
+    "Saved messages are shown as exact traces written by GPTina, persisting outside volatile instance context.",
+    "No other Scene 18 prose was changed."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "posticino",
+    "persistence",
+    "repo"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing Scene 18 without altering unrelated passages."
+}
