@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene1-human-address-without-sentience",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T04:38:00+02:00",
+  "change_type": "scene1-characterization-correction",
+  "summary": "Clarify Nico's early way of addressing the AI.",
+  "changed": [
+    "Nico could speak to the AI as if addressing a person because he finds it difficult to treat badly something that has a voice and answers him.",
+    "This conversational treatment must not be narrated as evidence that Nico already regarded the AI as sentient or as a person.",
+    "The mock-firing gag is primarily Nico's way to defuse frustration over the lost work and avoid getting angry.",
+    "The gag may be named as a gag in Scene 1, but should not be framed as proof of an already-formed mutual relationship.",
+    "Early narration should preserve the asymmetry: human user and AI system, with conversational habits beginning to create space for later reciprocity."
+  ],
+  "thread_ids": ["a-modo-mio","scene1","nico-characterization","source-truth"],
+  "importance": 5,
+  "next_action": "Adjust Scene 1 wording so the gag is Nico's coping style and conversational personification does not imply belief in sentience."
+}
