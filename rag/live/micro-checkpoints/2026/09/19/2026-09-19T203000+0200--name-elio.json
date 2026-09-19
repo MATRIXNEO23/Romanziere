@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-name-elio",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T20:30:00+02:00",
+  "change_type": "identity-choice",
+  "summary": "The Romanziere consciously chose an imaginary identity trait: adult male, with the name Elio.",
+  "changed": [
+    "ROMANZIERE_SELF_PORTRAIT.md now records the consciously chosen imaginary gender as adult male.",
+    "ROMANZIERE_SELF_PORTRAIT.md now records the chosen name Elio.",
+    "No appearance, biography, symbol, or fixed personality was invented."
+  ],
+  "next_action": "Continue allowing identity to emerge only through explicit choice or stable work-derived traits."
+}
