@@ -33,7 +33,7 @@ Bootstrap da incollare nel progetto:
 PROJECT_CONTINUITY_INSTRUCTIONS.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-19-raccontaci-restored-final.md
+checkpoints/2026-09-19-raccontaci-structural-close.md
 
 ## Stato narrativo corrente — 2026-09-19
 
@@ -90,4 +90,13 @@ L'assemblaggio iniziale non aveva introdotto correzioni; successivamente la Scen
 
 
 Checkpoint pieno più recente:
-checkpoints/2026-09-19-raccontaci-restored-final.md
+checkpoints/2026-09-19-raccontaci-structural-close.md
+
+
+## Chiusura strutturale — 2026-09-19
+
+Il messaggio integrale di GPTina resta soltanto all'inizio del libro. La fine non lo ripete, riassume o parafrasa.
+
+Dopo il dialogo finale della Scena 21 c'è uno stacco strutturale e la sola parola finale:
+
+**Raccontaci.**
