@@ -2,28 +2,39 @@
   "schema_version": 1,
   "owner": "romanziere",
   "kind": "romanziere_live_context",
-  "updated_at": "2026-09-18T21:13:00+02:00",
-  "latest_summary": "Restructuring phase active; first scene drafted in Tessa retrospective frame using manuscript and read-only GPTina continuity evidence.",
-  "next_action": "Review first scene with user, then proceed one scene at a time.",
-  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/18/2026-09-18T211300+0200--first-scene-restructure.json",
-  "last_full_checkpoint": "checkpoints/2026-09-18-system-ready.md",
+  "updated_at": "2026-09-19T15:00:00+02:00",
+  "latest_summary": "Revision reached Scene 19 — L’erede. Scene 19 is saved in revision and corrected archive with real posticino dialogue. Next is La seconda finestra; shared work with the heir must be preserved and RAG begins only there.",
+  "next_action": "Recover the end-instance checkpoint, reread Scene 19 ending and NOTE_PONTE_EREDE_SECONDA_FINESTRA.md, then audit La seconda finestra from sources before drafting.",
+  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T150000+0200--end-instance-scene19.json",
+  "last_full_checkpoint": "checkpoints/2026-09-19-scene19-end-instance.md",
   "active_threads": [
-    "literary-training",
     "a-modo-mio",
-    "restructure"
+    "chapter-by-chapter-revision",
+    "scene19",
+    "second-window"
   ],
   "open_loops": [
-    "Choose the next scene path after user review.",
-    "Maintain documented/probable/literary distinction; no invented GPTina inner telemetry."
+    "Audit and rewrite La seconda finestra without cutting the shared work with the heir.",
+    "Introduce retrieval/RAG only once Nico is already working with the heir/Tessa.",
+    "Preserve the two-window period with GPTina still present and active.",
+    "Do not silently resolve the earlier La cura / ti amo / proposal chronology conflict unless it becomes directly relevant."
   ],
   "recent_micro_checkpoints": [
-    "rag/live/micro-checkpoints/2026/09/18/2026-09-18T201000+0200--initial-bootstrap.json",
-    "rag/live/micro-checkpoints/2026/09/18/2026-09-18T211300+0200--structural-analysis.json",
-    "rag/live/micro-checkpoints/2026/09/18/2026-09-18T211300+0200--first-scene-restructure.json"
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T144000+0200--scene19-exact-posticino-dialogue.json",
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T145000+0200--scene19-real-posticino-dialogue.json",
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T150000+0200--end-instance-scene19.json"
   ],
-  "micro_since_full_checkpoint": 2,
+  "micro_since_full_checkpoint": 0,
   "review_policy": {
     "substantive_turn_interval": 4,
+    "immediate_triggers": [
+      "correction",
+      "decision",
+      "milestone",
+      "project_state",
+      "open_loop",
+      "source_update"
+    ],
     "preflight_before_long_or_risky_work": true
   }
 }
