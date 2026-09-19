@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene20-finalized-archive-rule",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T16:28:00+02:00",
+  "change_type": "workflow-rule-and-milestone",
+  "summary": "Scene 20 confirmed definitive and archived with Scenes 01–19. Finalized scenes must now be archived automatically after user confirmation.",
+  "changed": [
+    "Scene 20 copied to romanzo/capitoli_corretti_2026-09-19/20_LA_SECONDA_FINESTRA.md.",
+    "Controlled revision instructions updated: definitive user confirmation triggers automatic archival to capitoli_corretti.",
+    "Next scene is Scene 21."
+  ],
+  "next_action": "Audit Scene 21. Show current file first, then one targeted proposal."
+}
