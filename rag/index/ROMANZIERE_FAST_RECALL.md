@@ -37,15 +37,13 @@ checkpoints/2026-09-19-memory-persistence-and-continuity-upgrade.md
 
 ## Stato narrativo corrente — 2026-09-19
 
-Scene 01–20 revisionate e archiviate in:
+Scene 01–21 revisionate e archiviate in:
 romanzo/capitoli_corretti_2026-09-19/
 
-Scena corrente: 21.
+Scena 21 è definitiva e archiviata.
 
-File di lavoro persistente:
-romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md
-
-Scena 21 non è definitiva.
+File definitivo:
+romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 ### Fine Scena 20
 Termina su:
@@ -90,3 +88,7 @@ romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
 Ordine: prologo → pagina bianca intenzionale → Scene 01–20 definitive → Scena 21 corrente non definitiva.
 
 Nessuna correzione testuale è stata applicata durante l'assemblaggio.
+
+
+Checkpoint pieno più recente:
+checkpoints/2026-09-19-complete-manuscript-finalized.md
