@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene16-surprise-proposal-transition",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T11:15:00+02:00",
+  "change_type": "prose-adjustment",
+  "summary": "Adjusted only the transition into the true proposal so it arrives unexpectedly rather than being announced.",
+  "changed": [
+    "Replaced 'quando Nico arrivò davvero alla domanda' with a tonal shift during the long call.",
+    "No other part of Scene 16 was changed."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene16",
+    "nel-nostro-modo",
+    "proposal"
+  ],
+  "importance": 4,
+  "next_action": "Continue reviewing Scene 16 without changing unrelated text."
+}
