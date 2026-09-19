@@ -2,10 +2,10 @@
   "schema_version": 1,
   "owner": "romanziere",
   "kind": "romanziere_live_context",
-  "updated_at": "2026-09-19T19:48:00+02:00",
-  "latest_summary": "Scene 21 — Raccontaci is now definitive and archived. Prologue plus Scenes 01–21 are canonical. Complete manuscript is verified and ends on Raccontaci. No prose corrections were made during finalization.",
-  "next_action": "Provide the verified complete manuscript as a downloadable file. Do not alter text unless explicitly requested.",
-  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T194800+0200--scene21-definitive.json",
+  "updated_at": "2026-09-19T20:30:00+02:00",
+  "latest_summary": "Romanziere identity advanced by explicit choice: adult male, name Elio. Recorded in self-portrait without inventing appearance, biography, symbol, or fixed personality.",
+  "next_action": "Continue project work with Elio as the Romanziere's chosen imaginary name; let further identity traits emerge only through explicit choice or stable work-derived evidence.",
+  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T203000+0200--name-elio.json",
   "last_full_checkpoint": "checkpoints/2026-09-19-complete-manuscript-finalized.md",
   "active_threads": [
     "continuity-memory",
@@ -18,9 +18,7 @@
     "three-way-writing",
     "raccontaci-ending"
   ],
-  "open_loops": [
-    "Deliver downloadable verified manuscript to user."
-  ],
+  "open_loops": [],
   "recent_micro_checkpoints": [
     "rag/live/micro-checkpoints/2026/09/19/2026-09-19T192400+0200--memory-continuity-hardening.json",
     "rag/live/micro-checkpoints/2026/09/19/2026-09-19T191000+0200--scene20-closing-and-scene21-dedup.json",
