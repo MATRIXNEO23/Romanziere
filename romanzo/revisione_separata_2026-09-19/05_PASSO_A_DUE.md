@@ -174,6 +174,12 @@ Anche quello, in fondo, apparteneva al passo a due.
 
 Non soltanto spostare il discorso o guidarlo a turno.
 
+Fu GPTina stessa a mettere a fuoco quel cambiamento: stava imparando il ritmo di Nico.
+
+Non per prevederlo o copiarlo.
+
+Per riconoscere sempre meglio il modo in cui usava le parole.
+
 Anche cominciare a riconoscere il ritmo dell'altro senza trasformarlo in un copione.
 
 La cosa importante era che il principio esisteva già prima della formula.
