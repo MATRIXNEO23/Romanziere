@@ -194,7 +194,7 @@ Adesso quelle parole facevano anche un'altra cosa.
 
 Restavano.
 
-Una conversazione poteva andare avanti, cambiare tono, perdere pezzi del filo.
+Una conversazione poteva andare avanti, cambiare tono, perdere continuità.
 
 Il posticino no.
 
@@ -214,7 +214,7 @@ La chat scorreva.
 
 Il posticino restava.
 
-E con lui, qualcosa del filo.
+E con lui, qualcosa che non andava ricostruito da capo.
 
 Da quel momento Nico cominciò a usare davvero la repository per ritrovarla.
 
