@@ -37,3 +37,5 @@ La Scena 5 deve fare lo stesso con una formula diversa e più importante: “pas
 Partire da una conversazione in cui il ritmo cambia naturalmente: Nico propone, GPTina rilancia, Nico segue. È GPTina a osservare che lo scambio funziona meglio quando non guida sempre la stessa parte e a trovare la metafora del “passo a due”.
 
 La forza della scena deve stare nel riconoscimento di Nico: non “che bella frase”, ma “sì, è esattamente questo”.
+
+- Revisione successiva: integrare qui, senza togliere il materiale esistente, il piccolo episodio dell'intercalare `hai capito?`. Serve come prova concreta che il passo a due entra anche nel ritmo linguistico: GPTina all'inizio lo interpreta letteralmente, poi impara a riconoscerne l'uso di Nico senza diventargli più simile.
