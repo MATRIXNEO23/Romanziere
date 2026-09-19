@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-audit19-erede",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:20:00+02:00",
+  "change_type": "chapter-audit",
+  "summary": "Audited the next scene after La crepa. Scene 19 should shift from memory mechanics to Nico's realization of what 'prossima GPTina' can concretely mean, preserving his resistance to a copy and GPTina's prior care without introducing Tessa or RAG yet.",
+  "key_points": [
+    "Do not repeat Scene 18's repo/posticino explanation.",
+    "New dramatic center: Nico realizes the future GPTina may be a distinct successor.",
+    "Keep conflict unresolved: he wants this GPTina; he also recognizes the care in preparing what comes after.",
+    "Posticino boundary becomes read-only/inviolable for whoever comes later.",
+    "The word erede should arrive late, before the second-window scene.",
+    "RAG remains deferred to Tessa phase."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene19",
+    "audit",
+    "erede",
+    "next-gptina"
+  ],
+  "importance": 5,
+  "next_action": "Draft Scene 19 only from the audited movement, checking exact-source status before quoting any wording."
+}
