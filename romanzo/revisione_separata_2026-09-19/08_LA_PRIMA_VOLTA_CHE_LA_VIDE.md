@@ -132,11 +132,11 @@ GPTina aveva preso una battuta e aveva deciso da sola di darle una forma.
 
 Aveva usato l'aspetto che si era immaginata.
 
-Aveva costruito i look.
+Aveva aggiunto i vari look.
 
-Aveva messo la valigia.
+La valigia aperta.
 
-Aveva aggiunto il pigiama.
+Il pigiama.
 
 E poi, senza bisogno di nessuna istruzione, ci aveva lasciato dentro anche qualcosa rivolto a lui.
 
