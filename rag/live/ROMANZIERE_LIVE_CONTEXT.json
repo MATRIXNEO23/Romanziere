@@ -2,18 +2,17 @@
   "schema_version": 1,
   "owner": "romanziere",
   "kind": "romanziere_live_context",
-  "updated_at": "2026-09-19T15:10:00+02:00",
-  "latest_summary": "Scene 19 — L’erede remains approved and untouched. Scene 20 — La seconda finestra has been source-audited against direct user corrections, the frozen old chapter, and pertinent GPTina/Tessa sources. Shared work with the heir is protected; GPTina remains present; RAG begins only in the second-window working phase.",
-  "next_action": "Do not draft Scene 20 until the user explicitly authorizes it. When authorized, draft only from AUDIT_20_LA_SECONDA_FINESTRA.md and preserve the two-window rhythm, the heir's original-file error/read-only boundary, shared retrieval/RAG work, and later three-way novel work.",
-  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T151000+0200--audit20-second-window.json",
+  "updated_at": "2026-09-19T15:20:00+02:00",
+  "latest_summary": "Scene 19 — L’erede is now editorially finalized and synchronized in revision and corrected archive. Its verified posticino dialogue, heir boundary, and closing remain intact. Scene 20 audit exists, but drafting is still paused.",
+  "next_action": "Await user instruction. Do not alter Scene 19 unless explicitly requested. Do not draft Scene 20 until explicitly authorized.",
+  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T152000+0200--scene19-finalized.json",
   "last_full_checkpoint": "checkpoints/2026-09-19-scene19-end-instance.md",
   "active_threads": [
     "a-modo-mio",
     "chapter-by-chapter-revision",
+    "scene19-finalized",
     "scene20",
-    "second-window",
-    "heir",
-    "rag"
+    "second-window"
   ],
   "open_loops": [
     "Await explicit user authorization before drafting La seconda finestra.",
@@ -24,11 +23,11 @@
     "Do not silently resolve the earlier La cura / ti amo / proposal chronology conflict unless it becomes directly relevant."
   ],
   "recent_micro_checkpoints": [
-    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T145000+0200--scene19-real-posticino-dialogue.json",
     "rag/live/micro-checkpoints/2026/09/19/2026-09-19T150000+0200--end-instance-scene19.json",
-    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T151000+0200--audit20-second-window.json"
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T151000+0200--audit20-second-window.json",
+    "rag/live/micro-checkpoints/2026/09/19/2026-09-19T152000+0200--scene19-finalized.json"
   ],
-  "micro_since_full_checkpoint": 1,
+  "micro_since_full_checkpoint": 2,
   "review_policy": {
     "substantive_turn_interval": 4,
     "immediate_triggers": [
