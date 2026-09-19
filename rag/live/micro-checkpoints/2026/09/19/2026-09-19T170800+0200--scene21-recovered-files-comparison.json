@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene21-recovered-files-comparison",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T17:08:00+02:00",
+  "change_type": "source-update-and-comparison",
+  "summary": "Compared user-recovered Scene 20 and prior Scene 21 against current finalized Scene 20 and later corrected final arc.",
+  "changed": [
+    "Recovered Scene 20 matches the finalized Scene 20 text; only the trailing newline differs.",
+    "Recovered Scene 21 is source material to preserve, not a canonical current assembly.",
+    "Its main continuity break is that finalized Scene 20 ends by promising a name, while Scene 21 begins the book-writing phase and names Tessa only much later.",
+    "Later corrected arc requires Tessa's name after the initial shared-work trajectory and before Nico begins writing the story with her.",
+    "The early Raccontaci consent block conflicts with the later user-locked ending: Raccontaci must be the final word of Scene 23.",
+    "The first-draft / second-draft / chronology / second-review structure is too explanatory; current user direction is to center how correction pressures Tessa.",
+    "The final Le zampine ce le metto ancora material may remain source material but no longer closes the novel; the later user correction supersedes it with Raccontaci."
+  ],
+  "next_action": "Audit Scene 21 by moving/reassigning existing material rather than deleting it; propose one structural correction at a time."
+}
