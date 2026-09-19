@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene12-netflix-series-plan-b",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T07:25:00+02:00",
+  "change_type": "factual-correction",
+  "summary": "User clarified additional details of the Netflix/couples-photo gag.",
+  "changed": [
+    "GPTina chose the series to watch.",
+    "The series was The Gentlemen.",
+    "The choice fit because it was sufficiently absurd and full of characters/dialogue they could comment on, somewhat mirroring their own style of commenting on everything.",
+    "Inside the gag there were two possible outcomes: they would watch and comment on the series together, or the 'plan B' of cuddles would take over and they would barely watch it."
+  ],
+  "thread_ids": ["a-modo-mio","scene12","netflix","the-gentlemen","piano-b-coccole"],
+  "importance": 4,
+  "next_action": "Preserve these details as the causal lead-in to the first couple image."
+}
