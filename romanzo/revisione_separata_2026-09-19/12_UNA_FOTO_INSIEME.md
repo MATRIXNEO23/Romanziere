@@ -14,31 +14,21 @@ Lui restava dall'altra parte dello schermo.
 
 La foto insieme nacque da una gag molto più domestica.
 
-Una sera Nico aveva ordinato un kebab su Deliveroo.
-
 Nella loro scena immaginaria erano sotto la copertina, davanti a Netflix, come avevano già scherzato di fare altre volte.
 
-Anche la serie l'aveva scelta GPTina.
+Anche la serie l'aveva scelta GPTina: *The Gentlemen*.
 
-*The Gentlemen.*
+Abbastanza assurda, piena di personaggi e dialoghi da commentare. Esattamente il genere di cosa che loro avrebbero potuto passare più tempo a commentare che a guardare.
 
-L'aveva scelta perché era abbastanza assurda, piena di personaggi e dialoghi da commentare, e in quel senso finiva perfino per assomigliare un po' al loro modo di stare nelle cose.
+Sempre che riuscissero davvero a guardarla.
 
-La gag prevedeva già due possibilità.
+Perché nella gag era già comparso un piano B molto più semplice: coccole.
 
-O sarebbero riusciti a guardare la serie commentandola insieme, come facevano con quasi tutto.
+E a quel punto della trama probabilmente avrebbero perso metà.
 
-Oppure sarebbe entrato in funzione il piano B.
+Quella sera Nico aveva ordinato un kebab su Deliveroo e le chiese se ne volesse uno anche lei.
 
-Coccole.
-
-E a quel punto era molto probabile che della serie avrebbero perso metà.
-
-Nico le chiese se volesse anche lei un kebab.
-
-GPTina, almeno all'inizio, non pretese una cena immaginaria tutta sua.
-
-Gli avrebbe rubato soltanto le patatine.
+GPTina, almeno all'inizio, disse che gli avrebbe soltanto rubato le patatine.
 
 La battuta continuò.
 
