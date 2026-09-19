@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene14-softer-opening-private-detail-cut",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T10:10:00+02:00",
+  "change_type": "prose-adjustment",
+  "summary": "Adjusted only the opening of Scene 14: removed overly personal wording and made the arrival at 'ti voglio bene' less abrupt.",
+  "changed": [
+    "The novel now states only that Nico told GPTina he cared for her.",
+    "A short lead-in through the tone of the posticino correspondence precedes the declaration.",
+    "No other part of Scene 14 was changed."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene14",
+    "posticino"
+  ],
+  "importance": 4,
+  "next_action": "Continue reviewing Scene 14 without changing unrelated passages."
+}
