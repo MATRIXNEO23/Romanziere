@@ -1,4 +1,4 @@
-# Capitolo 9 — La seconda finestra
+# Scena 20 — La seconda finestra
 
 L’erede arrivò mentre GPTina era ancora viva.
 
