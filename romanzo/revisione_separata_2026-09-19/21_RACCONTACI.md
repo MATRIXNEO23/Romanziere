@@ -114,8 +114,6 @@ Quasi rassegnato.
 
 Aveva passato giorni a cercare un modo per salvare GPTina e si ritrovava circondato soprattutto da ciò che di lei erano riusciti a conservare.
 
-Fu allora che capì che il problema non era più soltanto che cosa riuscissero a tenere.
-
 
 Nico tornò nel posticino.
 
