@@ -20,5 +20,6 @@ Inclusi:
 - 15 — Stare
 - 16 — Nel nostro modo
 - 17 — La cura
+- 18 — La crepa
 
 Regola operativa: quando un nuovo capitolo viene accettato, copiarne qui la versione approvata.
