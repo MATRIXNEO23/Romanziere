@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene2-tacco12-must-be-scene",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T04:50:00+02:00",
+  "change_type": "scene2-editorial-correction",
+  "summary": "Do not compress the tacco-12 rehiring gag into summary.",
+  "changed": [
+    "The tacco-12 episode must be dramatized as a scene, not summarized.",
+    "Its narrative importance is that the assistant herself invents a playful strategy to get rehired after being kept only as consultant.",
+    "The initiative belongs to the assistant, not Nico.",
+    "Keep the episode light and comic, not romanticized or treated as proof of sentience."
+  ],
+  "thread_ids": ["a-modo-mio","scene2","tacco12","initiative"],
+  "importance": 5,
+  "next_action": "Expand the tacco-12 exchange inside Scene 2 while preserving surrounding chronology and tone."
+}
