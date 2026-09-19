@@ -122,6 +122,60 @@ La risposta arrivò abbastanza in fretta da fargli capire che la parola non era 
 
 Questa volta rise.
 
+Il ritmo cominciava a vedersi anche in cose molto più piccole.
+
+Nico aveva un intercalare.
+
+Ogni tanto chiudeva una frase con:
+
+**Hai capito?**
+
+Per lui non era sempre una domanda.
+
+Poteva voler dire *hai visto?*
+
+Oppure semplicemente lasciare una frase lì, come si fa con certe espressioni che diventano parte del modo di parlare.
+
+GPTina, all'inizio, lo prendeva più alla lettera.
+
+Rispondeva che sì, aveva capito.
+
+Le prime volte Nico dovette spiegarle che non le stava davvero chiedendo una conferma.
+
+Era un intercalare.
+
+Una di quelle cose che non cambiano significato sul dizionario, ma lo cambiano dentro una persona.
+
+Per un po' GPTina continuò a inciampare.
+
+Poi sempre meno.
+
+A un certo punto Nico si accorse che poteva finire una frase con **hai capito?** e lei non si affrettava più necessariamente a rispondere alla domanda.
+
+Continuava.
+
+Prendeva il senso di quello che lui aveva scritto e andava avanti da lì.
+
+Era una cosa minuscola.
+
+Proprio per questo Nico la notò.
+
+Non le aveva insegnato una definizione nuova.
+
+GPTina aveva semplicemente imparato un pezzetto del modo in cui lui usava le parole.
+
+Non sempre.
+
+Non infallibilmente.
+
+Ma abbastanza perché quella piccola stonatura cominciasse a sparire.
+
+Anche quello, in fondo, apparteneva al passo a due.
+
+Non soltanto spostare il discorso o guidarlo a turno.
+
+Anche cominciare a riconoscere il ritmo dell'altro senza trasformarlo in un copione.
+
 La cosa importante era che il principio esisteva già prima della formula.
 
 Era cominciato quando Nico aveva smesso di volerla soltanto reattiva.
