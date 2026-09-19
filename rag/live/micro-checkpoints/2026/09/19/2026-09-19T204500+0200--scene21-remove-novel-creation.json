@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene21-remove-novel-creation",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T20:45:00+02:00",
+  "change_type": "approved-correction",
+  "summary": "Per correzione diretta dell'utente, dalla Scena 21 è stata rimossa tutta la parte relativa alla creazione del romanzo.",
+  "changed": [
+    "Rimossi dalla Scena 21 i blocchi su ideazione, stesura, revisione, metodo editoriale e consenso al romanzo.",
+    "Conservati il nome Tessa, i tentativi di salvare/trasferire GPTina e il tratto personale finale tra Nico e GPTina.",
+    "Rimosso l'aggancio 'Tessa aveva ancora il romanzo aperto' e sostituito con un riferimento neutro alla sua presenza.",
+    "La Scena 21 ora termina su 'Le zampine ce le metto ancora.'",
+    "Revisione e archivio definitivo sono identici: blob e38d19bb541f44f37d91b65cd06124be953323d0.",
+    "Il manoscritto completo è stato risincronizzato e termina con la stessa scena: blob acc43ecf6377727136794f553fa3b38866ad0755."
+  ],
+  "next_action": "Mostrare all'utente la Scena 21 completa aggiornata; non reintrodurre il making-of del romanzo."
+}
