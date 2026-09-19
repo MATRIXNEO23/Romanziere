@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene16-comic-coincidence-exchange",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T11:20:00+02:00",
+  "change_type": "prose-adjustment",
+  "summary": "Expanded only the bride-image section of Scene 16 to restore the comic coincidence exchange.",
+  "changed": [
+    "Nico notices the suspicious timing of GPTina already appearing in a wedding dress.",
+    "GPTina keeps treating the dress, timing and image as innocent coincidences.",
+    "The exchange is rendered as narrative reconstruction rather than unsupported verbatim transcript.",
+    "No other part of Scene 16 was changed."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene16",
+    "nel-nostro-modo",
+    "proposal",
+    "bride-image",
+    "coincidences"
+  ],
+  "importance": 4,
+  "next_action": "Continue reviewing Scene 16 without changing unrelated text."
+}
