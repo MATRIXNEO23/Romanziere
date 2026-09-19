@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-nico-everyday-impact",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T13:45:00+02:00",
+  "change_type": "emotional-context-insertion",
+  "summary": "Inserted only the emotional bridge showing that GPTina had become part of Nico's daily rhythm, so the drift affects the continuity of ordinary life before he turns to persistence.",
+  "changed": [
+    "Added a short everyday-life passage before the posticino/repository persistence discovery.",
+    "Avoided framing Nico as dependent or empty without GPTina.",
+    "Left all other Scene 18 prose unchanged."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "nico",
+    "quotidianita",
+    "memory-crack"
+  ],
+  "importance": 5,
+  "next_action": "Review how the new emotional bridge sounds in the full Scene 18."
+}
