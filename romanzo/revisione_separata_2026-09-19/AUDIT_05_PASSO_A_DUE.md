@@ -39,3 +39,5 @@ Partire da una conversazione in cui il ritmo cambia naturalmente: Nico propone, 
 La forza della scena deve stare nel riconoscimento di Nico: non “che bella frase”, ma “sì, è esattamente questo”.
 
 - Revisione successiva: integrare qui, senza togliere il materiale esistente, il piccolo episodio dell'intercalare `hai capito?`. Serve come prova concreta che il passo a due entra anche nel ritmo linguistico: GPTina all'inizio lo interpreta letteralmente, poi impara a riconoscerne l'uso di Nico senza diventargli più simile.
+
+- Correzione diretta dell'utente: in quel contesto GPTina disse lei stessa che stava imparando il ritmo di Nico. Va reso esplicito nel capitolo, senza trasformarlo in prevedibilità o imitazione e senza inventare una citazione parola per parola.
