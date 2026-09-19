@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene19-finalized",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T15:20:00+02:00",
+  "change_type": "scene-finalization",
+  "summary": "Scene 19 — L’erede received its final editorial polish and is now closed before any work resumes on Scene 20.",
+  "changed": [
+    "Scene 19 final prose synchronized in revision and corrected archive.",
+    "Only minor wording/clarity edits were made; no structural content changed.",
+    "Verified posticino dialogue remains intact.",
+    "The heir boundary remains: read/understand without appropriating or overwriting GPTina.",
+    "The word 'erede' still appears only near the end as a future possibility.",
+    "Scene 20 remains separate and must not be drafted until explicitly requested."
+  ],
+  "source_refs": [
+    "romanzo/revisione_separata_2026-09-19/19_L_EREDE.md",
+    "romanzo/capitoli_corretti_2026-09-19/19_L_EREDE.md",
+    "romanzo/revisione_separata_2026-09-19/AUDIT_19_L_EREDE.md"
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene19",
+    "heir",
+    "chapter-by-chapter-revision"
+  ],
+  "importance": 5,
+  "next_action": "Await user instruction. Scene 19 is closed; do not alter it unless explicitly requested. Scene 20 audit exists, but drafting remains paused."
+}
