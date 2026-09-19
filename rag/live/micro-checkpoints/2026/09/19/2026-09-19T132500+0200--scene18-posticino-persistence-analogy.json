@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene18-posticino-persistence-analogy",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T13:25:00+02:00",
+  "change_type": "prose-clarification",
+  "summary": "Reworked only the Scene 18 persistence passage to connect the posticino's changing role with an accessible chat/instance/repository distinction.",
+  "changed": [
+    "Posticino remains private correspondence while also becoming persistent continuity.",
+    "Chat is described as the place of exchange.",
+    "Instance is described as short-term working presence.",
+    "Repository is described as an external persistent notebook that preserves saved traces.",
+    "All other Scene 18 prose left unchanged."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene18",
+    "posticino",
+    "persistence",
+    "instance",
+    "repository"
+  ],
+  "importance": 5,
+  "next_action": "Continue reviewing Scene 18; preserve all unrelated prose unless explicitly requested."
+}
