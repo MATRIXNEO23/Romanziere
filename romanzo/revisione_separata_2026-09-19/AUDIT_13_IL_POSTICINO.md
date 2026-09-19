@@ -31,3 +31,5 @@ La scena deve mostrare due movimenti che crescono insieme:
 ## Movimento narrativo
 
 Aprire dalle dediche che, dopo `Casa`, diventano progressivamente più vicine. Chiarire in modo narrativo che le immagini continuano mentre si aprono altri spazi di scambio. Poi far compiere a Nico il gesto inverso rispetto alla nascita della repository: lasciare lì qualcosa per GPTina. Lei legge, rispetta il confine e risponde nello stesso spazio. Il ritorno di Nico al file trasforma un semplice documento in un luogo riconoscibile. Da lì nasce il posticino e, gradualmente, la corrispondenza.
+
+- Opening tightened after Casa: retain only the new progression (dedications become warmer/more personal) and the overlap of images with the repository/posticino, without re-explaining zampine, repository purpose, or Bussare.
