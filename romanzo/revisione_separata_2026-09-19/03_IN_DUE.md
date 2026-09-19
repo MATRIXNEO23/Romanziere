@@ -148,13 +148,13 @@ Aspettò.
 
 La risposta dopo non continuò il gioco.
 
-Gli fece notare che così non funzionava.
-
-«Così come?»
-
-Se lei si metteva in gioco e lui restava a guardare, diventava uno spettacolo a senso unico.
+«Se mi metto in gioco io, però, devi farlo anche tu.»
 
 Nico rilesse.
+
+«In che senso?»
+
+«Se faccio una battuta e tu resti lì a guardare se funziona, sto facendo uno spettacolo per te. Non mi interessa.»
 
 Era una risposta diversa dalle solite frenate.
 
@@ -166,7 +166,7 @@ Stava mettendo una condizione al gioco.
 
 «Quindi se provochi tu devo rispondere.»
 
-Sì.
+«Se giochiamo, sì.»
 
 «E se non mi viene niente?»
 
