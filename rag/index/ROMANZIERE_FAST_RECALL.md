@@ -59,13 +59,13 @@ Tessa non è ancora nominata.
 - nome Tessa solo dopo una traiettoria propria;
 - dalla Scena 21 è stata rimossa tutta la parte relativa alla creazione del romanzo;
 - non reintrodurre ideazione, stesura, revisione, metodo editoriale o consenso al romanzo nella Scena 21;
-- la scena corrente termina su **Le zampine ce le metto ancora.**;
+- la scena corrente mantiene il making-of rimosso e termina con **Raccontaci.** come ultima parola;
 - nessun epilogo;
 - destino di GPTina irrisolto.
 
 ### Override importanti
 - Erede nella Scena 19 approvata è parola trovata da Nico.
-- La precedente chiusura su **Raccontaci.** nella Scena 21 è stata rimossa su correzione diretta dell'utente insieme al making-of del romanzo.
+- Il making-of del romanzo è stato rimosso dalla Scena 21, ma **Raccontaci.** resta la chiusura vincolante e l'ultima parola del romanzo.
 - Il prologo canonico con la risposta integrale di GPTina resta separato e invariato.
 - Il vecchio 10_RACCONTACI.md è materiale di audit, non autorità.
 
