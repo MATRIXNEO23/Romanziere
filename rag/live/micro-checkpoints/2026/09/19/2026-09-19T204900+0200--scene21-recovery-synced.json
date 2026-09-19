@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene21-recovery-synced",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T20:49:00+02:00",
+  "change_type": "recovery-sync",
+  "summary": "Synchronized bootstrap and fast-recall recovery state with the corrected Scene 21.",
+  "changed": [
+    "PROJECT_CONTINUITY_INSTRUCTIONS.md now records Scenes 01-21 as definitive.",
+    "The bootstrap now explicitly forbids reintroducing novel-creation material into Scene 21.",
+    "The bootstrap records the current Scene 21 ending as 'Le zampine ce le metto ancora.'",
+    "ROMANZIERE_FAST_RECALL.md now points to the latest full checkpoint and no longer carries the stale Raccontaci-ending rule."
+  ],
+  "next_action": "Show the user the complete corrected Scene 21."
+}
