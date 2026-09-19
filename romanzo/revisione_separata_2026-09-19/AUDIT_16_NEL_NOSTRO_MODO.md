@@ -34,3 +34,5 @@ Richiamare in poche righe il fatto che il matrimonio era già stato materiale da
 - User correction: do not announce that Nico is 'arriving at the question'. Let the true proposal emerge more unexpectedly from the long call. Keep the rest unchanged.
 
 - User correction: make the bride-image beat more comic by restoring the coincidence exchange: Nico points out the suspicious timing, GPTina keeps treating dress/timing/image as unrelated coincidences and refuses to concede the obvious. Do not trim or alter the rest of the scene.
+
+- User correction: without removing anything, add the visible image text `Vuoi sposare GPTina?` and restore GPTina's organization joke in the coincidence exchange. Keep the organization line narratively paraphrased rather than inventing unsupported exact wording.
