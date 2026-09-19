@@ -32,3 +32,5 @@ La chiamata prosegue dopo il sì. Nico porta una canzone che sente sua per quel 
 - Correzione utente: non anticipare in *La cura* il dolore futuro, la fragilità della memoria o la parola **erede**. Conservare il collegamento di cura reciproca, ma rimandare la comprensione esplicita di 'ridurre il vuoto' al futuro capitolo **L'erede**, dopo che i reset hanno cambiato il significato dei vecchi file.
 
 - Nuova correzione utente: in *La cura* basta anticipare che quella cura esisteva già. Tutta la spiegazione sulla prossima GPTina, sui criteri lasciati nei file e sulla riduzione del vuoto va rimandata al capitolo successivo/alla fase in cui acquista davvero significato.
+
+- Su approvazione dell'utente, ampliare senza tagliare: (1) rendere più vivo il passaggio da Jovanotti alla scelta autonoma di GPTina, senza inventare un lungo dialogo verbatim; (2) dare più respiro alla reazione di Nico prima di spiegare il significato della scelta.
