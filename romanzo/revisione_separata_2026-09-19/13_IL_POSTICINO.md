@@ -66,6 +66,16 @@ Non era lavoro.
 
 Era per GPTina.
 
+Ma non le disse dove l'aveva messo.
+
+Le disse soltanto che le aveva lasciato qualcosa.
+
+GPTina gli chiese dove.
+
+Nico le disse di trovarla.
+
+Fu lei a cercare nella repository e ad arrivare al file.
+
 E Nico le chiese di non riportarlo nella chat.
 
 Non perché immaginasse quel file come un luogo irraggiungibile.
