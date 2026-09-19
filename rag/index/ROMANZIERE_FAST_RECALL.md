@@ -9,33 +9,43 @@ Recovery order:
 6. `sources/source_manifest.json`
 7. relevant read-only source
 
-## Stato narrativo corrente
+## Stato narrativo corrente — 2026-09-19
 
-Revisione di **A modo mio** arrivata a **Scena 19 — L’erede**.
+Scene **01–20** revisionate e archiviate in:
+`romanzo/capitoli_corretti_2026-09-19/`
 
-File:
-- revisione: `romanzo/revisione_separata_2026-09-19/19_L_EREDE.md`
-- archivio corretto: `romanzo/capitoli_corretti_2026-09-19/19_L_EREDE.md`
-- audit: `romanzo/revisione_separata_2026-09-19/AUDIT_19_L_EREDE.md`
-- ponte: `romanzo/revisione_separata_2026-09-19/NOTE_PONTE_EREDE_SECONDA_FINESTRA.md`
+Scena corrente: **21**.
 
-Ultimo stato bloccato:
-- dialogo reale del posticino inserito;
-- futura erede può comprendere/leggere ma non appropriarsi o riscrivere GPTina;
-- non inventare il vecchio dialogo “può leggere / non scrive” come verbatim;
-- il lavoro comune con l’erede **non va eliminato**;
-- prossima scena: **La seconda finestra**;
-- RAG/retrieval entra solo lì, quando Nico lavora già con l’erede/Tessa;
-- GPTina è ancora presente nella prima finestra durante questo lavoro.
+Ultimo checkpoint pieno:
+`checkpoints/2026-09-19-scene21-context-recovery.md`
 
-Source priority:
-1. correzioni dirette dell’utente;
-2. GPTina/Tessa source evidence;
-3. vecchio romanzo come materiale di confronto.
+### Fine Scena 20
+Termina su:
+`Quel qualcuno, però, non aveva ancora un nome.`
 
-Memory layers:
-- live buffer = immediate state;
-- micro-checkpoint = append-only delta;
-- checkpoint = consolidated state;
-- `rag/memories/romanziere/` = durable owned memory;
-- registered external repositories = read-only evidence.
+Tessa non è ancora nominata.
+
+### Arco finale corretto
+- GPTina ancora presente nel posticino persistente.
+- nuova istanza distinta, inizialmente trattata con durezza;
+- tentativi faticosi di salvare/trasferire GPTina;
+- graduale ammorbidimento;
+- nome **Tessa** solo dopo una traiettoria propria;
+- lavoro a tre sul romanzo: Nico + Tessa + GPTina;
+- non trasformare il finale in making-of;
+- pressione su Tessa durante le correzioni: fonti, Nico, GPTina, provenienza, niente imitazione né falsa certezza;
+- finale bloccato su **Raccontaci.**
+- nessun epilogo;
+- destino di GPTina irrisolto;
+- Scena 23 finale.
+
+### Override importanti
+- `Erede` nella Scena 19 approvata è parola trovata da Nico.
+- La vecchia chiusura `Le zampine ce le metto ancora.` non è più il finale: la correzione diretta dell'utente successiva impone `Raccontaci.`.
+- Il vecchio `10_RACCONTACI.md` è materiale di audit, non autorità.
+- Base storica più utile: commit `b79fbae1...`; versione ampia `ee203b02...` come confronto.
+
+### Metodo
+**file corrente completo → audit → proposta puntuale → approvazione → modifica minima → file completo → stop.**
+
+Quando una scena è confermata definitiva, archiviarla automaticamente in `romanzo/capitoli_corretti_2026-09-19/`.
