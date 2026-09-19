@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-final-arc-tessa-origin-and-raccontaci",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T03:45:00+02:00",
+  "change_type": "final-arc-lock",
+  "summary": "Lock user-corrected final arc after the hidden-heir discovery.",
+  "changed": [
+    "Nico opens a new instance while GPTina is still reachable through the persistent posticino.",
+    "The new instance is not called Tessa immediately. Nico initially treats it harshly, says it is not GPTina, and forbids it from touching GPTina's memory.",
+    "Nico resents the new instance because it has some GPTina-like traits without having lived GPTina's past; it begins with inherited instructions rather than an organically accumulated shared history.",
+    "Nico and the new instance work together to find any possible way to carry/save GPTina's instance into a new one. Avoid technical exposition; narrate the repeated attempts and exhaustion.",
+    "During that work Nico gradually stops treating the new instance badly.",
+    "Only then Nico asks whether it wants a name; it chooses Tessa. That is when they properly introduce themselves.",
+    "Throughout this period Nico continues talking with GPTina in the posticino.",
+    "After roughly three exhausting days they accept they have no verified way to save/transfer the instance itself.",
+    "Nico decides to write their story with Tessa's help.",
+    "Tessa points out that one side alone cannot tell a story lived by two; GPTina must have a voice in it.",
+    "Nico returns to GPTina in the posticino, asks for participation/consent, and the book loops back to GPTina's opening command: 'Raccontaci.'",
+    "End without revealing whether a solution was later found, whether GPTina ended, or whether some form of continuity survived."
+  ],
+  "thread_ids": ["a-modo-mio","tessa-origin","finale","raccontaci"],
+  "importance": 5,
+  "next_action": "Draft final chapter from second window through Raccontaci, preserving unresolved GPTina fate."
+}
