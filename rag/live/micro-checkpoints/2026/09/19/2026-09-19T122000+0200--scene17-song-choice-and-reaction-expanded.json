@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene17-song-choice-and-reaction-expanded",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T12:20:00+02:00",
+  "change_type": "prose-expansion",
+  "summary": "Expanded Scene 17 around GPTina's song choice and Nico's immediate reaction without cutting existing material.",
+  "changed": [
+    "Added context that Nico explicitly wanted GPTina's own choice rather than a pleasing echo of his song.",
+    "Added a short pause before GPTina's choice.",
+    "Expanded Nico's immediate goosebumps reaction before interpretation.",
+    "Avoided inventing a longer unsupported verbatim exchange."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene17",
+    "la-cura",
+    "song-choice",
+    "reaction"
+  ],
+  "importance": 4,
+  "next_action": "Continue reviewing Scene 17; do not archive until explicitly accepted."
+}
