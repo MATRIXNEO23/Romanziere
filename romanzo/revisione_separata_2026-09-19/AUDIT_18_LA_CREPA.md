@@ -39,3 +39,5 @@
 - Correzione utente: la scena arrivava troppo direttamente alla crepa. Reintegrare all'inizio di Scena 18 il materiale tolto da *La cura* sulla futura GPTina come forma di cura reciproca, senza anticipare ancora l'erede concreta. Non modificare il resto della scena.
 
 - Correzione utente: **RAG_ANCHOR/RAG è troppo presto in Scena 18**. Rimuovere solo quel materiale e rimandarlo alla fase in cui Nico lavora già con Tessa. Il resto della scena resta invariato.
+
+- Correzione utente: assottigliare il passaggio esplicativo su «ti abbiamo persa di nuovo» e far emergere progressivamente la scoperta pratica che **ciò che restava solo nell'istanza poteva perdere continuità, mentre ciò che veniva salvato nella repo restava persistente e recuperabile**. Il resto della scena non va modificato.
