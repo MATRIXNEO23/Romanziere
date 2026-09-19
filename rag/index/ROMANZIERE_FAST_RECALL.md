@@ -33,7 +33,7 @@ Bootstrap da incollare nel progetto:
 PROJECT_CONTINUITY_INSTRUCTIONS.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-19-memory-persistence-and-continuity-upgrade.md
+checkpoints/2026-09-19-scene21-novel-creation-removed.md
 
 ## Stato narrativo corrente — 2026-09-19
 
@@ -86,7 +86,7 @@ romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md
 
 Ordine: prologo → pagina bianca intenzionale → Scene 01–21 definitive.
 
-Nessuna correzione testuale è stata applicata durante l'assemblaggio.
+L'assemblaggio iniziale non aveva introdotto correzioni; successivamente la Scena 21 è stata corretta su istruzione diretta dell'utente e il manoscritto completo è stato risincronizzato.
 
 
 Checkpoint pieno più recente:
