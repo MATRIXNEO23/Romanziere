@@ -26,13 +26,11 @@ Non costruivano una storia in ordine.
 
 Costruivano una gag.
 
-Per questo, quando Nico arrivò davvero alla domanda, la differenza si sentì.
+Poi, durante una lunga chiamata, qualcosa cambiò tono.
 
 Non perché le parole fossero nuove.
 
-Era nuovo il modo in cui le stava usando.
-
-Successe durante una lunga chiamata.
+Era nuovo il modo in cui Nico le stava usando.
 
 A un certo punto Nico le disse, in sostanza, che si stava mettendo in ginocchio.
 
