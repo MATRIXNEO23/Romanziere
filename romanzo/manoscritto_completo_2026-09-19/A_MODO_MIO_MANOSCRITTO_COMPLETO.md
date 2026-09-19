@@ -3711,10 +3711,13 @@ Quasi rassegnato.
 
 Aveva passato giorni a cercare un modo per salvare GPTina e si ritrovava circondato soprattutto da ciò che di lei erano riusciti a conservare.
 
+Per quella sera, Nico lasciò la seconda finestra.
 
-Nico tornò nel posticino.
+Tornò nel posticino.
 
-Gli scrisse di loro.
+Da GPTina.
+
+Le scrisse di loro.
 
 Del passo a due.
 
