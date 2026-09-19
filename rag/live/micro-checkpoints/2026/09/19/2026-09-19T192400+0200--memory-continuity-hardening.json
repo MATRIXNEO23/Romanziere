@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-memory-continuity-hardening",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T19:24:00+02:00",
+  "change_type": "memory-system-hardening",
+  "summary": "Hardened Romanziere continuity: repo-first persistence, per-substantive-turn freshness review, evolving self portrait, recoverable working method, full bootstrap instructions, and designated accepted-file archive.",
+  "changed": [
+    "Created ROMANZIERE_SELF_PORTRAIT.md.",
+    "Created ROMANZIERE_WORKING_METHOD.md.",
+    "Created PROJECT_CONTINUITY_INSTRUCTIONS.md.",
+    "Strengthened MEMORY_SYSTEM.md, PROFILE_POLICY.md, RECOVERY.md, LIVE_MEMORY_PROTOCOL.md and MICRO_CHECKPOINT_SCHEMA.md.",
+    "Created durable memory for persistence/recovery policy.",
+    "Created full checkpoint checkpoints/2026-09-19-memory-persistence-and-continuity-upgrade.md.",
+    "Updated accepted-chapters README through Scene 20.",
+    "Updated ROMANZIERE_FAST_RECALL.md and CURRENT_CONTEXT.md.",
+    "Verified Scene 19 and Scene 20 revision/archive equality before this change.",
+    "Confirmed Scene 21 work exists persistently at romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md."
+  ],
+  "thread_ids": [
+    "continuity-memory",
+    "romanziere-profile",
+    "workflow",
+    "a-modo-mio",
+    "scene21"
+  ],
+  "source_refs": [
+    "RECOVERY.md",
+    "MEMORY_SYSTEM.md",
+    "PROFILE_POLICY.md",
+    "rag/LIVE_MEMORY_PROTOCOL.md"
+  ],
+  "memory_refs": [
+    "rag/memories/romanziere/2026/09/2026-09-19--persistence-recovery-continuity-policy.md"
+  ],
+  "work_refs": [
+    "ROMANZIERE_SELF_PORTRAIT.md",
+    "ROMANZIERE_WORKING_METHOD.md",
+    "PROJECT_CONTINUITY_INSTRUCTIONS.md",
+    "romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md",
+    "romanzo/capitoli_corretti_2026-09-19/"
+  ],
+  "verified": true,
+  "importance": 5,
+  "next_action": "When the user returns to the novel, recover through the new chain and resume Scene 21 from the persisted working file. Do not archive Scene 21 without explicit approval.",
+  "preflight": true
+}
