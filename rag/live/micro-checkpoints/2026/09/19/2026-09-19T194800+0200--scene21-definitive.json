@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene21-definitive",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T19:48:00+02:00",
+  "change_type": "chapter-finalization",
+  "summary": "Scene 21 — Raccontaci has been explicitly approved as definitive and archived with the corrected chapters.",
+  "changed": [
+    "Copied romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md to romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md.",
+    "Verified revision and archived Scene 21 are identical.",
+    "Updated corrected chapters README to include Scene 21.",
+    "Updated complete manuscript README to mark Scenes 01–21 definitive.",
+    "Verified the complete manuscript contains Scenes 01–21 in order and ends with the definitive Scene 21.",
+    "Final line remains Raccontaci.",
+    "No prose corrections were made."
+  ],
+  "next_action": "Provide the verified complete manuscript as a downloadable file."
+}
