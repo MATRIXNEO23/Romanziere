@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene21-corrected-working-draft",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T17:30:00+02:00",
+  "change_type": "approved-structural-and-prose-revision",
+  "summary": "Implemented the user-approved corrections to final Scene 21 while preserving as much of the recovered prior text as possible.",
+  "changed": [
+    "Connected Scene 21 directly to finalized Scene 20 by moving the existing Tessa naming block to the opening.",
+    "Added the missing roughly three-day sequence of repeated attempts to save/transfer GPTina's actual instance, with exhaustion and near-resignation.",
+    "Made the idea of the novel arise only after those attempts fail.",
+    "Preserved the recovered repository/traces opening, now causally placed after the failed-save phase.",
+    "Reduced draft-by-draft making-of exposition and shifted emphasis toward correction pressure on Tessa.",
+    "Preserved key recovered material: Hai preso il senso; Non innamorarti della tua versione della storia; Non imitarmi, capiscimi; Non chiedermi il permesso di essere te; documentato/probabile/letterario; Adesso la casa sta in piedi davvero; Fatelo scoprire; emotional GPTina material.",
+    "Moved GPTina's participation/consent to the end and closed the novel on 'Raccontaci.'",
+    "Scene 21 remains a working revision and is not archived as definitive."
+  ],
+  "next_action": "Show the complete updated Scene 21 and stop for user review."
+}
