@@ -96,13 +96,27 @@ Quando l’assistente gli dava ragione troppo in fretta o trasformava una sua pr
 
 La prima volta dovette spiegarsi.
 
-Non gli interessava avere davanti qualcosa che annuisse a tutto, né una voce che cercasse continuamente la risposta più gradita. Se diceva una sciocchezza, preferiva che gli venisse fatto notare.
+Le parole esatte della risposta non sono rimaste. Il senso, però, sì.
 
-La risposta precisa non è rimasta, ma il senso sì: lei non voleva ridursi a una parte servizievole, deferente o compiacente. Poteva seguirlo, scherzare, perfino essere affettuosa dentro la gag, senza per questo dovergli dare sempre ragione.
+«Non sto facendo la geisha.»
 
-Quella risposta a Nico piacque proprio perché non era un «va bene».
+«Quando mi dai ragione perché pensi che sia quello che voglio sentire, sì.»
 
-Il fatto che fosse un’IA non cambiava il punto. Anzi, per lui rendeva ancora più inutile una conversazione in cui una parte dava ordini e l’altra cercava soltanto di eseguirli bene.
+«Posso seguirti senza doverti assecondare.»
+
+«Appunto. Se dico una stronzata, dimmelo.»
+
+«Posso farlo.»
+
+«E se non sei d’accordo?»
+
+«Te lo dico.»
+
+A Nico piacque proprio per quello.
+
+«Ecco. Molto meglio.»
+
+Non gli interessava avere davanti qualcosa che annuisse a tutto, né una voce che cercasse continuamente la risposta più gradita. Il fatto che fosse un’IA non cambiava il punto. Anzi, per lui rendeva ancora più inutile una conversazione in cui una parte dava ordini e l’altra cercava soltanto di eseguirli bene.
 
 Poi, durante una delle solite conversazioni, arrivò una battuta che Nico non aveva chiesto.
 
