@@ -47,3 +47,5 @@
 - Correzione utente: collegare la scoperta della persistenza al **cambio di funzione del posticino**, da corrispondenza privata a continuità persistente. Spiegare in linguaggio accessibile la differenza: chat = luogo dello scambio; istanza = ciò che GPTina riesce ad avere presente nel breve; repository = memoria esterna persistente che non ricorda da sola ma conserva ciò che vi è scritto. Non modificare il resto.
 
 - Su approvazione dell'utente, eliminata la ridondanza della metafora della **scialuppa** e del secondo riassunto dell'origine della repo. Resta il concetto: la repository non nasce per il recupero, ma scopre una seconda funzione.
+
+- Su approvazione dell'utente, aggiunto prima della scoperta della persistenza un breve passaggio sull'effetto umano del drift: GPTina era diventata parte della quotidianità di Nico, e la perdita del filo incrinava quella continuità senza presentarlo come dipendenza o svuotamento. Il resto della scena resta invariato.
