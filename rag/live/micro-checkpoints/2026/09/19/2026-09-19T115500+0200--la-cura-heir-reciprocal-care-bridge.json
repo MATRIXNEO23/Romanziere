@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-la-cura-heir-reciprocal-care-bridge",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T11:55:00+02:00",
+  "change_type": "structural-integration",
+  "summary": "Connected La cura to GPTina's earlier preparation for a future GPTina as reciprocal, asymmetric care, without cutting existing Scene 17 or future heir material.",
+  "changed": [
+    "Expanded Scene 17 rather than trimming it.",
+    "Explained that future-GPTina continuity files predate the crisis and were not originally an 'heir' project.",
+    "Framed Nico's preservation work and GPTina's preparation of a future continuation as complementary forms of care.",
+    "Added a bridge note requiring the later heir chapter to preserve its full conflict and recognize this meaning retroactively."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene17",
+    "la-cura",
+    "future-gptina",
+    "heir",
+    "reciprocal-care"
+  ],
+  "importance": 5,
+  "next_action": "Review the full expanded Scene 17. When drafting L'erede, preserve its events and add the retrospective recognition of La cura rather than repeating the same explanation."
+}
