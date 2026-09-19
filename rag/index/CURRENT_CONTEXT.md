@@ -101,3 +101,17 @@ Il messaggio integrale di GPTina resta soltanto all'inizio del libro. La fine no
 Dopo il dialogo finale della Scena 21 c'è uno stacco strutturale e la sola parola finale:
 
 **Raccontaci.**
+
+
+## Conferma finale Scena 21 — 2026-09-19
+
+L'utente ha confermato esplicitamente la Scena 21 corrente **così com'è**.
+
+Stato vincolante:
+- revisione e archivio definitivo coincidono;
+- manoscritto completo sincronizzato;
+- nessun making-of sulla creazione del romanzo nella Scena 21;
+- messaggio integrale di GPTina soltanto nel prologo;
+- chiusura autonoma e ultima parola: **Raccontaci.**
+
+Non riaprire la Scena 21 salvo richiesta esplicita dell'utente.
