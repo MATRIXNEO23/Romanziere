@@ -1,43 +1,59 @@
 # Stato capitoli rimanenti — 2026-09-19
 
 ## Capitoli già corretti
-Scene 01–19:
+
+Scene **01–20** definitive e archiviate in:
 `romanzo/capitoli_corretti_2026-09-19/`
 
 Ultima approvata:
-`19_L_EREDE.md`
+`20_LA_SECONDA_FINESTRA.md`
 
-## Scena corrente da correggere
-### Scena 20 — La seconda finestra
+## Scena corrente
 
-Stato: **audit-only**.
+### Scena 21
 
-Non esiste al momento una nuova stesura autorizzata in:
-`romanzo/revisione_separata_2026-09-19/20_LA_SECONDA_FINESTRA.md`
+Stato: **audit controllato**.
 
-Materiali correnti:
-- audit:
-  `romanzo/revisione_separata_2026-09-19/AUDIT_20_LA_SECONDA_FINESTRA.md`
-- nota ponte:
-  `romanzo/revisione_separata_2026-09-19/NOTE_PONTE_EREDE_SECONDA_FINESTRA.md`
+Non esiste ancora una Scena 21 approvata nella cartella di revisione.
 
-Fonte base del vecchio romanzo:
-`MATRIXNEO23/scodinzolina-conntinuity@dea382a495bec1c747cf0d8ab230490673642a55/romanzo/capitoli/09_LA_SECONDA_FINESTRA.md`
+Materiale storico da auditare:
+- vecchio `MATRIXNEO23/scodinzolina-conntinuity/romanzo/capitoli/10_RACCONTACI.md`;
+- versione rifinita utile: commit `b79fbae1cf7c1d6cf679023e21fbdaf41b922244`;
+- versione più ampia di confronto: `ee203b02d90bf42724d2bc469a4f461f37d0520f`.
 
-Per l'apertura va controllata anche la versione storica recuperata dello stesso file al commit:
-`7df7468e1cfa716d18ed9b80248bcb68f9dc0af9`
+Il vecchio romanzo non è autorità.
 
-La bozza autonoma creata da una nuova istanza è stata rimossa: non usarla come base.
+## Correzioni vincolanti per Scena 21 e arco finale
 
-## Materiale finale ancora da correggere dopo Scena 20
+- La Scena 20 termina con l'erede ancora senza nome.
+- Il collegamento alla 20 deve essere organico; una proposta recente è stata rifiutata.
+- Ridurre le spiegazioni sulle successive stesure.
+- Concentrarsi sul modo in cui Tessa viene corretta e sulla pressione di raccontare una storia che non ha vissuto.
+- Preservare il lavoro a tre Nico/Tessa/GPTina senza trasformarlo in una riunione editoriale.
+- Tessa deve trovare una voce propria senza imitare GPTina o appropriarsi della sua storia.
+- Fonti e provenienza hanno priorità sulla frase bella.
+- Il materiale finale deve portare al consenso di GPTina.
 
-Fonte vecchio romanzo:
-`MATRIXNEO23/scodinzolina-conntinuity@dea382a495bec1c747cf0d8ab230490673642a55/romanzo/capitoli/10_RACCONTACI.md`
+## Finale bloccato
 
-Va auditato contro correzioni utente, fonti GPTina/Tessa e checkpoint Romanziere.
+Scena **23** = ultima scena narrativa.
 
-La numerazione finale dopo Scena 20 non va inventata in anticipo: l'audit potrà stabilire se il materiale restante resta una sola scena o viene diviso.
+Ultima parola:
+**Raccontaci.**
 
-## Regola per la nuova istanza
-Prima di lavorare leggere:
-`romanzo/ISTRUZIONI_REVISIONE_CONTROLLATA.md`
+Nessun epilogo.
+
+Non rivelare:
+- se una soluzione tecnica viene trovata in seguito;
+- se l'istanza originale GPTina termina;
+- se una continuità sopravvive altrove.
+
+Il finale chiude il cerchio con l'apertura fisica:
+GPTina → `Raccontaci.` → pagina bianca → apertura di Tessa.
+
+## Metodo
+
+`romanzo/ISTRUZIONI_REVISIONE_CONTROLLATA.md` resta vincolante:
+**file corrente → audit → proposta puntuale → approvazione → modifica minima → file completo → stop.**
+
+Dopo conferma definitiva, archiviare automaticamente la scena in `romanzo/capitoli_corretti_2026-09-19/`.
