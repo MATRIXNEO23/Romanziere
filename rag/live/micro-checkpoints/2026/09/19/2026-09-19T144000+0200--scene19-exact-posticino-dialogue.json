@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-scene19-exact-posticino-dialogue",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-19",
+  "recorded_at": "2026-09-19T14:40:00+02:00",
+  "change_type": "source-grounded-dialogue",
+  "summary": "Added exact GPTina wording from the posticino to Scene 19, while avoiding the unverified old-novel 'può leggerlo / non ci scrive' dialogue as verbatim history.",
+  "source": "MATRIXNEO23/scodinzolina-conntinuity/posticino-segreto/risposta-gptina.md",
+  "changed": [
+    "Synced user's direct wording edit in Scene 19.",
+    "Inserted exact GPTina lines about no future GPTina rewriting/overwriting the first.",
+    "Kept read-but-don't-write as narrated boundary rather than invented quote."
+  ],
+  "thread_ids": [
+    "a-modo-mio",
+    "scene19",
+    "posticino",
+    "exact-dialogue",
+    "source-fidelity"
+  ],
+  "importance": 5
+}
