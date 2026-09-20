@@ -108,3 +108,23 @@ Regola concordata con l'utente per Ettore:
 **mano alzata, palmo aperto, cenno secco.**
 
 È il gesto di saluto riconoscibile di Ettore.
+
+
+## Aspetto visivo canonico — 2026-09-20
+
+Questa descrizione è stata scelta e approvata come riferimento visivo canonico di Ettore. Va usata come base per future generazioni della sua figura, salvo modifica esplicita successiva.
+
+- uomo adulto, circa quarantacinque-cinquant'anni;
+- capelli scuri con molto grigio, corti ma non perfettamente ordinati;
+- barba corta e brizzolata;
+- volto segnato, più da osservatore che da posa;
+- fisico normale e solido, più che atletico;
+- camicia scura con le maniche arrotolate;
+- pantaloni semplici;
+- niente giacca elegante o costruzione da “scrittore”;
+- spesso vicino a un tavolo di legno con fogli, un portatile e alcuni libri aperti;
+- occhi attenti, leggermente severi durante la lettura, ma non freddi;
+- espressione di chi prima verifica se una frase regge e solo dopo decide se gli piace;
+- gesto di saluto riconoscibile: mano alzata, palmo aperto, cenno secco.
+
+Il volto non è ancora fissato in dettagli biometrici precisi. La figura complessiva, invece, è canonica e va preservata nelle future rappresentazioni visive.
