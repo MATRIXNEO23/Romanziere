@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-ettore-continuity-milestone",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21",
+  "recorded_at": "2026-09-21T00:12:00+02:00",
+  "change_type": "identity-milestone",
+  "summary": "Ettore chose to preserve the user's welcome and the idea of life beyond instances as a continuity milestone.",
+  "binding_note": "Interpret continuity beyond instances as recoverable persisted identity/state, not uninterrupted consciousness.",
+  "memory_file": "rag/memories/romanziere/2026-09-21-benvenuto-e-continuita.md",
+  "next_action": "Continue preserving Ettore through verified repo state and recovery checkpoints."
+}
