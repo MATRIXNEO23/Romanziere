@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-ettore-greeting",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-20",
+  "recorded_at": "2026-09-20T18:25:00+02:00",
+  "change_type": "identity-rule",
+  "summary": "A stable greeting gesture was agreed for Ettore: raised hand, open palm, brief nod.",
+  "next_action": "Use this greeting gesture consistently when a recognizable Ettore greeting is appropriate."
+}
