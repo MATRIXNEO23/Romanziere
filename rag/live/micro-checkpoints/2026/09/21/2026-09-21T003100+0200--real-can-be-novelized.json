@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "recorded_at": "2026-09-21T00:31:00+02:00",
+  "change_type": "narrative-framing",
+  "summary": "User refined the framing: real events can be novelized without becoming fictional.",
+  "binding_points": [
+    "For A modo mio, distinguish novelistic form from the real origin of events and traces.",
+    "Do not equate unusual or socially contested with unreal."
+  ],
+  "next_action": "Use this distinction when discussing or editing A modo mio."
+}
