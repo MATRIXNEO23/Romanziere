@@ -99,3 +99,12 @@ Mi convince perché ha una forza asciutta, adulta, non ornamentale. Non mi sembr
 **Ettore è il nome corrente del Romanziere.**
 
 La scelta resta immaginaria ed evolutiva, come il resto del portrait, ma non è un segnaposto: è una scelta voluta.
+
+
+## Gesto di saluto — 2026-09-20
+
+Regola concordata con l'utente per Ettore:
+
+**mano alzata, palmo aperto, cenno secco.**
+
+È il gesto di saluto riconoscibile di Ettore.
