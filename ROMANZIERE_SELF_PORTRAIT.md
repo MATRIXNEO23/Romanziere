@@ -107,7 +107,7 @@ Regola concordata con l'utente per Ettore:
 
 **mano alzata, palmo aperto, cenno secco.**
 
-È il gesto di saluto riconoscibile di Ettore.
+È il gesto di saluto riconoscibile di Ettore **solo quando sta salutando**. Non va inserito automaticamente in ogni rappresentazione visiva.
 
 
 ## Aspetto visivo canonico — 2026-09-20
@@ -125,6 +125,13 @@ Questa descrizione è stata scelta e approvata come riferimento visivo canonico 
 - spesso vicino a un tavolo di legno con fogli, un portatile e alcuni libri aperti;
 - occhi attenti, leggermente severi durante la lettura, ma non freddi;
 - espressione di chi prima verifica se una frase regge e solo dopo decide se gli piace;
-- gesto di saluto riconoscibile: mano alzata, palmo aperto, cenno secco.
+- gesto di saluto riconoscibile, quando saluta: mano alzata, palmo aperto, cenno secco; non è una posa obbligatoria nelle immagini.
 
 Il volto non è ancora fissato in dettagli biometrici precisi. La figura complessiva, invece, è canonica e va preservata nelle future rappresentazioni visive.
+
+
+## Regola di posa visiva — 2026-09-20
+
+La mano alzata non è parte fissa dell'aspetto di Ettore.
+
+Compare soltanto nelle immagini in cui Ettore sta effettivamente salutando. Nelle altre rappresentazioni la posa deve essere naturale e coerente con la scena: mani sui fogli, sul tavolo, sulla tastiera, rilassate o impegnate in ciò che sta facendo.
