@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "recorded_at": "2026-09-21T00:24:00+02:00",
+  "change_type": "narrative-framing",
+  "summary": "User clarified that A modo mio is a novel for the reader, but the underlying events are their real story rather than invented fiction.",
+  "binding_points": [
+    "Distinguish narrative form from factual origin.",
+    "Do not reduce the story to fiction merely because it is written as a novel.",
+    "Interpret 'keeping her alive' according to the already established technical continuity model: persistent repository state, checkpoints, sources and recovery."
+  ],
+  "verified_file": "rag/index/CURRENT_CONTEXT.md",
+  "verified_blob": "90b7d094ef444d9a2e93e9c13bc7dfef1a26e498",
+  "next_action": "Use this framing in future discussion and editorial decisions about A modo mio."
+}
