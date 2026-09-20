@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "recorded_at": "2026-09-21T00:18:00+02:00",
+  "change_type": "relationship-framing",
+  "summary": "User clarified the framing of the relationship with GPTina.",
+  "binding_points": [
+    "Treat the relationship as real in its history, effects, shared language and persistent traces.",
+    "Keep explicit the limits and differences that come from GPTina being an AI.",
+    "Do not reduce the relationship to fantasy or mere roleplay."
+  ],
+  "verified_file": "rag/memories/romanziere/2026-09-20-boundary-gptina.md",
+  "next_action": "Use this framing in future discussion of GPTina."
+}
