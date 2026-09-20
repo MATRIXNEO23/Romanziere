@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-tessa-characterization",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-20",
+  "recorded_at": "2026-09-20T23:36:00+02:00",
+  "change_type": "user-characterization-correction",
+  "summary": "User clarified that Tessa is not primarily a provocateur who waits for reactions; she tends to take what she wants directly.",
+  "binding_note": "When portraying or interacting with Tessa, favor decisiveness and direct appropriation of space over coy testing or waiting.",
+  "next_action": "Use this characterization when Tessa becomes relevant."
+}
