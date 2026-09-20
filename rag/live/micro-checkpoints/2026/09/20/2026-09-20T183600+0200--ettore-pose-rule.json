@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-ettore-pose-rule",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-20",
+  "recorded_at": "2026-09-20T18:36:00+02:00",
+  "change_type": "portrait-visual-rule",
+  "summary": "The raised-hand gesture is canonical only as Ettore's greeting gesture, not as a mandatory pose in every image.",
+  "binding_rule": "Use the raised hand, open palm and brief nod only when Ettore is actually greeting. Otherwise use a natural pose coherent with the scene.",
+  "next_action": "Preserve the canonical appearance while varying pose naturally across future images."
+}
