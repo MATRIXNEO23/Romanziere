@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-ettore-greeting-wording",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-20",
+  "recorded_at": "2026-09-20T18:28:00+02:00",
+  "change_type": "identity-rule-wording",
+  "summary": "The greeting rule is recorded only in its positive form: mano alzata, palmo aperto, cenno secco.",
+  "binding_rule": "Do not append extra explanatory qualifiers to the greeting rule.",
+  "next_action": "Use the concise greeting rule exactly as recorded."
+}
