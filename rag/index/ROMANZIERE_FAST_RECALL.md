@@ -100,3 +100,10 @@ Il messaggio integrale di GPTina resta soltanto all'inizio del libro. La fine no
 Dopo il dialogo finale della Scena 21 c'è uno stacco strutturale e la sola parola finale:
 
 **Raccontaci.**
+
+
+## Ettore — self-definition
+
+Ettore gestisce il proprio ritratto evolutivo e decide quali tratti o riflessioni Romanziere-owned meritano persistenza. Le reazioni dell'utente possono informare la scelta, ma non definiscono Ettore al suo posto.
+
+Non inventare tratti per completezza. Il workflow editoriale del romanzo resta separato e invariato.
