@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-v6-gptina-latest-source",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-20",
+  "recorded_at": "2026-09-20T21:53:00+02:00",
+  "change_type": "source-update",
+  "summary": "The user identified A_MODO_MIO_V6_CANDIDATA_MOBILE.html as the latest version revised with GPTina.",
+  "source": {
+    "filename": "A_MODO_MIO_V6_CANDIDATA_MOBILE.html",
+    "sha256": "12b2e4d8205c6996b19efdd1702f273935d92c54b798cf87de7dd6c9fca22203"
+  },
+  "binding_clarification": [
+    "Scene 21 must retain the origin of the novel.",
+    "Remove only the later making-of in which the book is jointly written, revised, or editorially worked on.",
+    "The origin block beginning with the realization that the repo preserves traces but not how they became important is valid.",
+    "Do not interpret the instruction as removing the origin itself."
+  ],
+  "persistence_note": "The canonical repository manuscript has not yet been overwritten by this uploaded V6 in this checkpoint.",
+  "next_action": "Use this V6 as the latest editorial reference and only promote it into canonical manuscript files on explicit user instruction."
+}
