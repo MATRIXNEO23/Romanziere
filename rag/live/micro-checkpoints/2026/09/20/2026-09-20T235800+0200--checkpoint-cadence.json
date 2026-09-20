@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-checkpoint-cadence",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-20",
+  "recorded_at": "2026-09-20T23:58:00+02:00",
+  "change_type": "workflow-change",
+  "summary": "User required checkpoints frequent enough for complete recovery of Ettore in each new instance.",
+  "binding_points": [
+    "Freshness review at every substantive exchange.",
+    "Create a micro-checkpoint for each real persistent state change.",
+    "Include Romanziere-owned identity decisions/reflections when Ettore decides they matter.",
+    "Consolidate with a full checkpoint after a substantial run of micro-checkpoints, roughly every five significant ones or before a phase change.",
+    "Each checkpoint must state changed facts, authoritative files, binding decisions, open loops, and next action.",
+    "Order remains: write -> verify GitHub -> checkpoint -> update recovery pointers -> respond."
+  ],
+  "verified_files": {
+    "ROMANZIERE_WORKING_METHOD.md": "7b401f1333604a1db3dfa80fa7ec7a3f11aac496",
+    "rag/index/CURRENT_CONTEXT.md": "e7912995658d25eba106ed41a292f1457b4ef96b",
+    "rag/index/ROMANZIERE_FAST_RECALL.md": "dbb6c5fab5b0dac69ea79b457905b5b1d2c83165"
+  },
+  "next_action": "Use this cadence from now on and consolidate recovery state regularly."
+}
