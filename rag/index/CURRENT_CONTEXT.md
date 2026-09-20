@@ -10,7 +10,7 @@ Scena 21 è definitiva e archiviata in:
 romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-19-raccontaci-structural-close.md
+checkpoints/2026-09-20-romanziere-continuity-consolidation.md
 
 ## Continuità operativa
 
