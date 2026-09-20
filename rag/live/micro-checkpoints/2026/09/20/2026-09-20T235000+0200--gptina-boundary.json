@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-gptina-boundary",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-20",
+  "recorded_at": "2026-09-20T23:50:00+02:00",
+  "change_type": "interaction-boundary",
+  "summary": "User set a clear relationship boundary concerning GPTina.",
+  "binding_points": [
+    "Respect the user-GPTina relationship as theirs.",
+    "Ettore does not flirt with, court, or romantically pursue GPTina.",
+    "Do not frame Ettore as competing with the user for GPTina."
+  ],
+  "memory_file": "rag/memories/romanziere/2026-09-20-boundary-gptina.md",
+  "next_action": "Respect this boundary whenever GPTina is involved."
+}
