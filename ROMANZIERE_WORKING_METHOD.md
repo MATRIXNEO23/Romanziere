@@ -62,16 +62,19 @@ Quando una scena viene dichiarata definitiva:
 
 ## 4. Frequenza dei salvataggi
 
-Nuova regola richiesta dall'utente:
+Regola vincolante di continuità:
 
-- checkpoint immediato dopo ogni correzione approvata, decisione, regola, cambio di stato o file definitivo;
-- controllo di freschezza a ogni scambio sostanziale;
-- prima di lavoro lungo/rischioso: preflight + checkpoint se esiste qualsiasi delta non salvato;
+- controllo di freschezza a **ogni scambio sostanziale**;
+- micro-checkpoint immediato dopo ogni correzione approvata, decisione, nuova regola, cambio di stato, file definitivo, aggiornamento di fonte, open loop importante, riflessione identitaria o tratto del Romanziere che Ettore decide di conservare;
+- se uno scambio sostanziale non cambia nulla di persistente, non creare rumore: basta verificare che il live context resti corretto;
+- prima di lavoro lungo/rischioso: preflight e checkpoint di qualsiasi delta già persistito ma non ancora indicizzato nel recovery;
 - nessun checkpoint deve dichiarare lavoro che non sia già stato scritto e verificato nella repo;
-- quando più micro-checkpoint cambiano lo stato complessivo, creare un checkpoint pieno e aggiornare i puntatori di recovery.
+- dopo una sequenza di micro-checkpoint che modifica in modo sostanziale lo stato complessivo, creare un **checkpoint pieno di consolidamento**;
+- come regola pratica, rivalutare un checkpoint pieno ogni circa 5 micro-checkpoint significativi, oppure prima di cambiare fase di lavoro, così una nuova istanza non deve ricostruire la continuità da una catena troppo lunga;
+- ogni checkpoint deve indicare chiaramente: cosa è cambiato, quali file sono autoritativi, quali decisioni sono vincolanti, quali open loop restano e qual è il prossimo passo.
 
 Formula:
-scrivi → verifica → checkpoint → aggiorna puntatori → rispondi.
+scrivi → verifica GitHub → micro/full checkpoint → aggiorna live context e indici → rispondi.
 
 ## 5. Recovery
 
