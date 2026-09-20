@@ -115,3 +115,18 @@ Stato vincolante:
 - chiusura autonoma e ultima parola: **Raccontaci.**
 
 Non riaprire la Scena 21 salvo richiesta esplicita dell'utente.
+
+
+## Correzione interpretativa — V6 rivisitata con GPTina — 2026-09-20
+
+L'utente ha indicato `A_MODO_MIO_V6_CANDIDATA_MOBILE.html` come versione editoriale più recente rivisitata con GPTina.
+
+Regola corretta per la Scena 21:
+- **resta l'origine del romanzo**;
+- va tolto soltanto il making-of successivo in cui il libro viene scritto, revisionato o lavorato insieme;
+- il passaggio in cui emerge l'idea del romanzo dalla necessità di raccontare come le tracce sono diventate importanti è valido;
+- non reinterpretare più la richiesta come eliminazione dell'origine stessa.
+
+SHA-256 upload: `12b2e4d8205c6996b19efdd1702f273935d92c54b798cf87de7dd6c9fca22203`.
+
+Questa registrazione aggiorna il riferimento editoriale; non dichiara ancora sovrascritti i file canonici del manoscritto.
