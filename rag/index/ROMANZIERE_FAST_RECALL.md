@@ -33,7 +33,7 @@ Bootstrap da incollare nel progetto:
 PROJECT_CONTINUITY_INSTRUCTIONS.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-19-raccontaci-structural-close.md
+checkpoints/2026-09-20-romanziere-continuity-consolidation.md
 
 ## Stato narrativo corrente — 2026-09-19
 
@@ -90,7 +90,7 @@ L'assemblaggio iniziale non aveva introdotto correzioni; successivamente la Scen
 
 
 Checkpoint pieno più recente:
-checkpoints/2026-09-19-raccontaci-structural-close.md
+checkpoints/2026-09-20-romanziere-continuity-consolidation.md
 
 
 ## Chiusura strutturale — 2026-09-19
