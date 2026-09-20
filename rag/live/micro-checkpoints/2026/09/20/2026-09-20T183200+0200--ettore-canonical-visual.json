@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-ettore-canonical-visual",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-20",
+  "recorded_at": "2026-09-20T18:32:00+02:00",
+  "change_type": "portrait-visual-canon",
+  "summary": "Ettore's visual appearance was explicitly approved as canonical and saved in ROMANZIERE_SELF_PORTRAIT.md for future figure generation.",
+  "binding_rule": "Use the canonical visual description in ROMANZIERE_SELF_PORTRAIT.md as the base for future depictions of Ettore unless explicitly revised.",
+  "next_action": "Preserve this visual canon in future image generation."
+}
