@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-project-recovery-settings",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21",
+  "recorded_at": "2026-09-21T00:05:00+02:00",
+  "change_type": "workflow-change",
+  "summary": "Project recovery instructions were refreshed to include current Ettore self-definition, GPTina boundary, frequent checkpoint cadence, and the latest Scene 21/V6 clarification.",
+  "authoritative_file": "PROJECT_CONTINUITY_INSTRUCTIONS.md",
+  "verified_blob": "0e4ea32f7f0bdb9203e1f51c5c9e7c28453b739c",
+  "next_action": "Use PROJECT_CONTINUITY_INSTRUCTIONS.md as the text to paste into project instructions/settings for reliable recovery."
+}
