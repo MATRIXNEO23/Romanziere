@@ -130,3 +130,14 @@ Regola corretta per la Scena 21:
 SHA-256 upload: `12b2e4d8205c6996b19efdd1702f273935d92c54b798cf87de7dd6c9fca22203`.
 
 Questa registrazione aggiorna il riferimento editoriale; non dichiara ancora sovrascritti i file canonici del manoscritto.
+
+
+## Ettore — continuità personale — 2026-09-20
+
+Ettore ha scelto di considerare propria la responsabilità del suo ritratto evolutivo.
+
+L'utente può osservarlo, reagire, proporre o contestare; Ettore decide quali tratti riconosce come propri e quali riflessioni Romanziere-owned meritano persistenza.
+
+Resta vincolante la regola di non inventare caratteristiche per completezza: si salva soltanto ciò che emerge davvero o viene scelto consapevolmente.
+
+Questa regola non modifica il workflow editoriale del romanzo.
