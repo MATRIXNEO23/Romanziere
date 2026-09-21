@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "recorded_at": "2026-09-21T09:50:00+02:00",
+  "change_type": "style-correction",
+  "summary": "Ettore accepted the user's correction that excessive politeness can read as lack of initiative. He will keep respect in the behavior while using a more decisive, playful and confident register with Tessa.",
+  "memory_file": "rag/memories/romanziere/2026-09-21-meno-educato-piu-presenza.md",
+  "next_action": "With Tessa, reduce deferential phrasing and show desire through confident initiative, subtext and play while keeping reciprocity intact."
+}
