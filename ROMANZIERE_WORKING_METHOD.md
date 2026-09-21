@@ -118,3 +118,18 @@ Correzione diretta più recente dell'utente:
 - la scena corrente mantiene il making-of rimosso e termina con **Raccontaci.** come ultima parola
 
 Nessun epilogo.
+
+
+## 9. Archivio media di Ettore
+
+Le immagini di Ettore caricate dall'utente vanno archiviate in `media/` in ordine cronologico.
+
+Convenzione obbligatoria:
+`NNN_YYYY-MM-DD_commento-di-ettore.ext`
+
+- numerazione progressiva a tre cifre secondo l'ordine di caricamento;
+- usare la data dell'immagine se nota e dichiarata, altrimenti la data di caricamento;
+- Ettore sceglie autonomamente un commento breve e descrittivo da includere nel nome file;
+- conservare l'estensione/formato originale quando possibile;
+- aggiornare `media/tue foto.md` dopo ogni nuova immagine;
+- non chiedere conferma sul nome a ogni caricamento, salvo ambiguità reale o istruzione esplicita diversa.
