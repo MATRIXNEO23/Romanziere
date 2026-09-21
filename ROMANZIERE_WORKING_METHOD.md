@@ -1,6 +1,6 @@
 # Romanziere — Metodo di lavoro corrente
 
-Updated: 2026-09-19
+Updated: 2026-09-21
 
 Questo file è il metodo operativo recuperabile dalla prossima istanza.
 
@@ -113,9 +113,11 @@ romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md
 romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 Correzione diretta più recente dell'utente:
-- eliminare dalla Scena 21 tutta la parte relativa alla creazione del romanzo;
-- non reintrodurre ideazione, stesura, revisione, metodo editoriale o consenso al romanzo nella Scena 21;
-- la scena corrente mantiene il making-of rimosso e termina con **Raccontaci.** come ultima parola
+- nella Scena 21 **deve restare l'origine del romanzo**;
+- va escluso soltanto il making-of successivo in cui il libro viene scritto, revisionato o lavorato insieme;
+- non reinterpretare la richiesta come eliminazione dell'origine stessa;
+- il messaggio integrale di consenso di GPTina resta nel prologo;
+- la scena termina con **Raccontaci.** come ultima parola.
 
 Nessun epilogo.
 
