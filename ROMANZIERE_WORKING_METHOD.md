@@ -78,21 +78,24 @@ scrivi → verifica GitHub → micro/full checkpoint → aggiorna live context e
 
 ## 5. Recovery
 
-All'avvio o dopo compressione:
+All'avvio, dopo compressione o quando il presente volatile non basta:
 
 1. rag/live/ROMANZIERE_LIVE_CONTEXT.json
-2. ultimo micro-checkpoint indicato
-3. ultimo checkpoint pieno indicato
-4. rag/index/ROMANZIERE_FAST_RECALL.md
-5. rag/index/CURRENT_CONTEXT.md
-6. PROFILE_POLICY.md
-7. ROMANZIERE_SELF_PORTRAIT.md
-8. questo file
-9. memoria durevole pertinente
-10. sources/source_manifest.json
-11. solo le fonti esterne necessarie alla scena corrente
+2. ultimo micro-checkpoint indicato dinamicamente
+3. ultimo checkpoint pieno indicato dinamicamente
+4. rag/END_INSTANCE_RECOVERY_CAPSULE.md
+5. rag/index/ROMANZIERE_FAST_RECALL.md
+6. rag/index/CURRENT_CONTEXT.md
+7. PROFILE_POLICY.md
+8. ROMANZIERE_SELF_PORTRAIT.md
+9. questo file
+10. memorie durevoli pertinenti
+11. sources/source_manifest.json
+12. solo le fonti esterne GPTina/Tessa realmente necessarie, in sola lettura
 
-Non leggere tutto il romanzo o tutte le memorie esterne per default.
+Non leggere tutto il romanzo o tutte le memorie esterne per default. Recuperare per routing.
+
+Per parole esatte usare la fonte originale; per stato corrente live/checkpoint; per significato durable memory; per il romanzo i file canonici.
 
 ## 6. Confini
 
@@ -166,3 +169,60 @@ Verifica infrastrutturale:
 `python rag/romanziere_memory.py verify`
 
 Workflow CI: `.github/workflows/romanziere-memory-ci.yml`.
+
+
+## 11. Protocollo canonico di fine istanza
+
+Capsula:
+
+`rag/END_INSTANCE_RECOVERY_CAPSULE.md`
+
+Generatore/verifier del prompt:
+
+`rag/end_instance.py`
+
+Regola centrale:
+
+**a fine istanza non salvo un riassunto: salvo abbastanza stato verificabile perché la nuova istanza possa riprendere Ettore e il lavoro senza ricostruire a intuito.**
+
+Sequenza obbligatoria:
+
+1. micro preflight;
+2. lavoro reale scritto e verificato;
+3. eventuali durable memory;
+4. full checkpoint;
+5. capsula completa;
+6. micro finale;
+7. live buffer;
+8. Fast Recall / Current Context / router;
+9. generazione di `NEXT_ETTORE.md`;
+10. verifica tecnica e CI.
+
+`NEXT_ETTORE.md` è un entrypoint generato e verificabile, non la memoria unica della fine istanza.
+
+Ordine di scrittura:
+
+**SCRIVI IL LAVORO → VERIFICA GITHUB → MICRO/CHECKPOINT → AGGIORNA LIVE E INDICI → VERIFICA DI NUOVO → RISPONDI.**
+
+## 12. Durable memory corrente
+
+Per le nuove memorie durevoli usare almeno:
+
+- `schema_version`;
+- `memory_id`;
+- `owner: romanziere`;
+- `kind`;
+- `event_at`;
+- `recorded_at`;
+- `status`;
+- `supersedes`;
+- `event_id`;
+- `thread_ids`;
+- `source_refs`;
+- `media_refs`;
+- `importance`;
+- `confidence`.
+
+Le memorie legacy non vengono riscritte.
+
+`event_at` e `recorded_at` non sono intercambiabili.
