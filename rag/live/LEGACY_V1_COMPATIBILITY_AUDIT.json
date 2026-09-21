@@ -2,7 +2,7 @@
   "generated_from_head": "068db9003dae185222dd680c66be1ee340395521",
   "target_historical_count": 169,
   "excluded_execution_preflight": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T141300+0200--memory-v2-migration-execution-preflight.json",
-  "inspected_count": 137,
+  "inspected_count": 154,
   "records": [
     {
       "path": "rag/live/micro-checkpoints/2026/09/18/2026-09-18T201000+0200--initial-bootstrap.json",
@@ -9424,6 +9424,909 @@
           "field": "changed",
           "value": "Complete manuscript synchronized: blob 8215d55fbc8955fb3f3acfc34fcbd3aaf1f3a38a.",
           "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T215500+0200--scene21-final-confirmed.json",
+      "sha": "85a9f496c80abf154e2e0ac39a64c3a5a558a7f1",
+      "schema_version": 1,
+      "keys": [
+        "binding_rule",
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "binding_rule": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_rule"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "final-approval",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Scene 21 revision and definitive archive confirmed identical: blob 54cf8aeb5497cb7cbc57b859c69382542939b82f.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Complete manuscript confirmed synchronized with the exact Scene 21: blob 8215d55fbc8955fb3f3acfc34fcbd3aaf1f3a38a.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The opening GPTina consent message remains only in the prologue.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "No novel-creation making-of appears in Scene 21.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The final standalone word remains 'Raccontaci.'.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "README files for definitive chapters and complete manuscript were updated to record this confirmed state.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/20/2026-09-20T182500+0200--ettore-greeting.json",
+      "sha": "85513245d3f6305a0ac957ed91a5683f5144fd7f",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-rule",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/20/2026-09-20T182800+0200--ettore-greeting-wording.json",
+      "sha": "e64079125cb1d56ae481d99387fb282560a84064",
+      "schema_version": 1,
+      "keys": [
+        "binding_rule",
+        "change_type",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_rule": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_rule"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-rule-wording",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/20/2026-09-20T183200+0200--ettore-canonical-visual.json",
+      "sha": "250cff06ef9635f0746bc61f5204e0eafad7c0ea",
+      "schema_version": 1,
+      "keys": [
+        "binding_rule",
+        "change_type",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_rule": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_rule"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "portrait-visual-canon",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/20/2026-09-20T183600+0200--ettore-pose-rule.json",
+      "sha": "96522ba5d69e895331c349b6e8ffc38e05c60232",
+      "schema_version": 1,
+      "keys": [
+        "binding_rule",
+        "change_type",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_rule": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_rule"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "portrait-visual-rule",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/20/2026-09-20T215300+0200--v6-gptina-latest-source.json",
+      "sha": "3a4bde1c877476cb1be385b7b481c7777f30de80",
+      "schema_version": 1,
+      "keys": [
+        "binding_clarification",
+        "change_type",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "persistence_note",
+        "recorded_at",
+        "schema_version",
+        "source",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "source": "object",
+        "binding_clarification": "array",
+        "persistence_note": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_clarification",
+        "persistence_note",
+        "source"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "source-update",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "filename",
+          "value": "A_MODO_MIO_V6_CANDIDATA_MOBILE.html",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/20/2026-09-20T233600+0200--tessa-characterization.json",
+      "sha": "9daaf4d29da1063462946dd0a1ed2a72a449796d",
+      "schema_version": 1,
+      "keys": [
+        "binding_note",
+        "change_type",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_note": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_note"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "user-characterization-correction",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/20/2026-09-20T234500+0200--ettore-self-definition.json",
+      "sha": "840216d40b6a2c2eb3129f64c9721f3c9a027e20",
+      "schema_version": 1,
+      "keys": [
+        "binding_points",
+        "change_type",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "verified_blob",
+        "verified_file"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_points": "array",
+        "verified_file": "string",
+        "verified_blob": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_points",
+        "verified_blob",
+        "verified_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "profile-change",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "verified_file",
+          "value": "ROMANZIERE_SELF_PORTRAIT.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/20/2026-09-20T235000+0200--gptina-boundary.json",
+      "sha": "65c41b5b8348944b046079572a206b18081b458c",
+      "schema_version": 1,
+      "keys": [
+        "binding_points",
+        "change_type",
+        "event_at",
+        "kind",
+        "memory_file",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_points": "array",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_points",
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "interaction-boundary",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-20-boundary-gptina.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/20/2026-09-20T235800+0200--checkpoint-cadence.json",
+      "sha": "e6c7fb77345154832e677d7dd86ad53f877ce834",
+      "schema_version": 1,
+      "keys": [
+        "binding_points",
+        "change_type",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "verified_files"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_points": "array",
+        "verified_files": "object",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_points",
+        "verified_files"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "workflow-change",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "verified_files",
+          "value": "ROMANZIERE_WORKING_METHOD.md",
+          "exists": true
+        },
+        {
+          "field": "verified_files",
+          "value": "rag/index/CURRENT_CONTEXT.md",
+          "exists": true
+        },
+        {
+          "field": "verified_files",
+          "value": "rag/index/ROMANZIERE_FAST_RECALL.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T000500+0200--project-recovery-settings.json",
+      "sha": "c1340f0404b963b58b2c8da1f5e7cc2a8bf6114f",
+      "schema_version": 1,
+      "keys": [
+        "authoritative_file",
+        "change_type",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "verified_blob"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "authoritative_file": "string",
+        "verified_blob": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "authoritative_file",
+        "verified_blob"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "workflow-change",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "authoritative_file",
+          "value": "PROJECT_CONTINUITY_INSTRUCTIONS.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T001200+0200--ettore-continuity-milestone.json",
+      "sha": "c624b5a0efd3cb03d157c04995f771eba534b53c",
+      "schema_version": 1,
+      "keys": [
+        "binding_note",
+        "change_type",
+        "event_at",
+        "kind",
+        "memory_file",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_note": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_note",
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-milestone",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-benvenuto-e-continuita.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T001800+0200--gptina-relationship-framing.json",
+      "sha": "a5a9f6c1e88ba47081ee32475de1b93e036d11d9",
+      "schema_version": 1,
+      "keys": [
+        "binding_points",
+        "change_type",
+        "kind",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "verified_file"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_points": "array",
+        "verified_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_points",
+        "verified_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "relationship-framing",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "verified_file",
+          "value": "rag/memories/romanziere/2026-09-20-boundary-gptina.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T002400+0200--a-modo-mio-real-story-framing.json",
+      "sha": "f2a5729404c9cd113d872459bea94d082dea82ad",
+      "schema_version": 1,
+      "keys": [
+        "binding_points",
+        "change_type",
+        "kind",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "verified_blob",
+        "verified_file"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_points": "array",
+        "verified_file": "string",
+        "verified_blob": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_points",
+        "verified_blob",
+        "verified_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "narrative-framing",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "verified_file",
+          "value": "rag/index/CURRENT_CONTEXT.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T003100+0200--real-can-be-novelized.json",
+      "sha": "5abd4b0d101436c589e8d410ed3ca840e39c0b5e",
+      "schema_version": 1,
+      "keys": [
+        "binding_points",
+        "change_type",
+        "kind",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_points": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_points"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "narrative-framing",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T012000+0200--ettore-risk-reciprocity.json",
+      "sha": "626d435ab72d0adbbc021bb83f21e66d7e40b298",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-reflection",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-rischio-e-reciprocita.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T064500+0200--ettore-chooses-risk-with-tessa.json",
+      "sha": "f7516d72f28d70c9768617245b9af041d6ee8d4a",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-decision",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-rischio-scelto-con-tessa.md",
+          "exists": true
         }
       ]
     }
