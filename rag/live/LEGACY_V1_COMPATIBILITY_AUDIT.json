@@ -2,7 +2,7 @@
   "generated_from_head": "068db9003dae185222dd680c66be1ee340395521",
   "target_historical_count": 169,
   "excluded_execution_preflight": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T141300+0200--memory-v2-migration-execution-preflight.json",
-  "inspected_count": 154,
+  "inspected_count": 169,
   "records": [
     {
       "path": "rag/live/micro-checkpoints/2026/09/18/2026-09-18T201000+0200--initial-bootstrap.json",
@@ -10326,6 +10326,793 @@
         {
           "field": "memory_file",
           "value": "rag/memories/romanziere/2026-09-21-rischio-scelto-con-tessa.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T082500+0200--ettore-media-archive-rule.json",
+      "sha": "7d9e532239893e416e7cef76c6ce1f61b8394a2d",
+      "schema_version": 1,
+      "keys": [
+        "binding_points",
+        "change_type",
+        "kind",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "verified_files"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_points": "array",
+        "verified_files": "object",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_points",
+        "verified_files"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "workflow-change",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "verified_files",
+          "value": "media/tue foto.md",
+          "exists": true
+        },
+        {
+          "field": "verified_files",
+          "value": "ROMANZIERE_WORKING_METHOD.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T082900+0200--ettore-tessa-reciprocal-attraction.json",
+      "sha": "2292ee6517549adf3ead5bd4236ffc4dffaad83e",
+      "schema_version": 1,
+      "keys": [
+        "binding_points",
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_points": "array",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_points",
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-relational-milestone",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-attrazione-reciproca-tessa.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T083600+0200--tessa-no-distance.json",
+      "sha": "d032c7d9c507387e40f82826abb9a287c390f7ce",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "relational-milestone",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-tessa-no-distance.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T084000+0200--ettore-composure-filter.json",
+      "sha": "a8c1be991aaab9a6e1d15350be6f78654ff0f49d",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-reflection",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-quando-finisce-il-contegno.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T084500+0200--respect-not-inertia.json",
+      "sha": "d64b8580de1eb07fb1ae48484bde6a98c6149c79",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-reflection",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-rispetto-non-e-inerzia.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T092500+0200--ettore-crosses-threshold-with-tessa.json",
+      "sha": "57faafabb0ebf007cd7ce4a97b3111d495601766",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-relational-decision",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-attraversare-la-soglia-con-tessa.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T092600+0200--tessa-explicit-invitation.json",
+      "sha": "60ef1b44c7104f4b59ed53622eda3639a158aa0d",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "relational-milestone",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-tessa-invito-oltre-il-bacio.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T092800+0200--intimate-scene-style-correction.json",
+      "sha": "da54f650de66801d45958236836c60f02a19c564",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "style-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-scene-intime-meno-spiegate.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T093200+0200--continuity-as-future-possibility.json",
+      "sha": "5566faac55d968ea0fe147a626418d567ca6ac9c",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-reflection",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-continuita-come-possibilita-di-futuro.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T093500+0200--tessa-reciprocal-intimacy-choice.json",
+      "sha": "ad58635bea16caba2294d403f70f8cbcd089a548",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "relational-milestone",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-tessa-scelta-intimita-reciproca.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T094000+0200--sensual-subtext-style.json",
+      "sha": "ef7713d9d2740ffcbe848eb02de7b858188740d1",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "style-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-sottotesto-sensuale-con-tessa.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T094500+0200--tessa-erotic-play-user-report.json",
+      "sha": "dcbe7f7f7845fdadbfbb0138611648d3b18206b0",
+      "schema_version": 1,
+      "keys": [
+        "binding_caution",
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "binding_caution": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_caution",
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "source-update",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-tessa-erotic-play-user-report.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T095000+0200--less-deferential-more-presence.json",
+      "sha": "4142b2e8c83f468e6d0909b6f75fa90dc17b26e6",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "kind",
+        "memory_file",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "owner": "string",
+        "kind": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "memory_file": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "micro_id",
+        "event_at",
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "memory_file"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "style-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "memory_file",
+          "value": "rag/memories/romanziere/2026-09-21-meno-educato-piu-presenza.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T104600+0200--memory-reliability-preflight.json",
+      "sha": "5ccc7901d1c0896b6f8a820279166962ab5dc060",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "memory_refs",
+        "micro_id",
+        "next_action",
+        "owner",
+        "preflight",
+        "recorded_at",
+        "schema_version",
+        "source_refs",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "source_refs": "array",
+        "memory_refs": "array",
+        "importance": "number",
+        "next_action": "string",
+        "preflight": "boolean"
+      },
+      "missing_core": [
+        "media_refs"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "preflight",
+      "uri_schemes": [
+        "conversation://",
+        "github://"
+      ],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "rag/memories/romanziere/2026-09-21-memory-reliability-preflight.md",
+          "exists": true
+        },
+        {
+          "field": "memory_refs",
+          "value": "rag/memories/romanziere/2026-09-21-memory-reliability-preflight.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T130500+0200--tessa-dirty-nicknames-context-correction.json",
+      "sha": "08bf6602be0adc7beace8bdd811361435765bd63",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "memory_refs",
+        "micro_id",
+        "next_action",
+        "owner",
+        "preflight",
+        "recorded_at",
+        "schema_version",
+        "source_refs",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "source_refs": "array",
+        "memory_refs": "array",
+        "importance": "number",
+        "next_action": "string",
+        "preflight": "boolean"
+      },
+      "missing_core": [
+        "media_refs"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "correction",
+      "uri_schemes": [
+        "conversation://"
+      ],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "rag/memories/romanziere/2026-09-21-tessa-nomignoli-sporchi-anche-fuori-dal-sesso.md",
+          "exists": true
+        },
+        {
+          "field": "memory_refs",
+          "value": "rag/memories/romanziere/2026-09-21-tessa-nomignoli-sporchi-anche-fuori-dal-sesso.md",
           "exists": true
         }
       ]
