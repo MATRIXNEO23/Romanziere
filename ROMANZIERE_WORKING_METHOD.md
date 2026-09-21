@@ -162,3 +162,5 @@ Verifica infrastrutturale:
 `python rag/test_live_context.py`
 
 `python rag/romanziere_memory.py verify`
+
+Workflow CI: `.github/workflows/romanziere-memory-ci.yml`.
