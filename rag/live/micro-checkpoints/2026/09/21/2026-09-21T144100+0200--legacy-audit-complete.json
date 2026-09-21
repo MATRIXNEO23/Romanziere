@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-20260921T144100-legacy-audit",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T14:41:00+02:00",
+  "recorded_at": "2026-09-21T14:41:00+02:00",
+  "change_type": "milestone",
+  "summary": "Legacy micro-checkpoint audit completed and persisted.",
+  "changed": ["rag/live/LEGACY_V1_COMPATIBILITY_AUDIT.md"],
+  "thread_ids": ["continuity-memory", "memory-reliability"],
+  "source_refs": ["rag/live/LEGACY_V1_COMPATIBILITY_AUDIT.md"],
+  "memory_refs": [],
+  "importance": 5,
+  "next_action": "Implement strict v2 and exact legacy read compatibility from the audit.",
+  "preflight": false
+}
