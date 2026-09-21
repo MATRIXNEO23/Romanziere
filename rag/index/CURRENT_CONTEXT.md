@@ -10,7 +10,7 @@ Scena 21 è definitiva e archiviata in:
 romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-21-ettore-end-instance-handoff.md
+checkpoints/2026-09-21-continuity-capsule-system-canonical.md
 
 ## Continuità operativa
 
