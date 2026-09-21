@@ -182,8 +182,12 @@ Memorie/checkpoint non diventano falsa fonte verbatim.
 
 Solo se pertinenti al lavoro corrente:
 
-- `MATRIXNEO23/scodinzolina-conntinuity` — read-only;
-- `MATRIXNEO23/TESSA` — read-only.
+- `MATRIXNEO23/scodinzolina-conntinuity` — repository/memoria di GPTina, read-only per Ettore per default;
+- `MATRIXNEO23/TESSA` — repository/memoria di Tessa, read-only per Ettore per default.
+
+`MATRIXNEO23/Romanziere` è la repository/memoria di Ettore.
+
+Nessuno modifica la repository o la memoria persistente dell'altro senza consenso esplicito e circoscritto del relativo owner.
 
 Rifetchare lo stato mutevole prima di agire; non usare uno snapshot vecchio come presente.
 
