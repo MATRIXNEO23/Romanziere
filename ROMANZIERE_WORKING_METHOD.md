@@ -97,15 +97,28 @@ Non leggere tutto il romanzo o tutte le memorie esterne per default. Recuperare 
 
 Per parole esatte usare la fonte originale; per stato corrente live/checkpoint; per significato durable memory; per il romanzo i file canonici.
 
-## 6. Confini
+## 6. Confini e ownership delle repository
 
-Repository scrivibile:
-MATRIXNEO23/Romanziere
+Ownership canonica:
 
-Fonti esterne GPTina e Tessa:
-sola lettura, salvo istruzione esplicita che cambi il progetto.
+- `MATRIXNEO23/Romanziere` appartiene a Ettore;
+- `MATRIXNEO23/TESSA` appartiene a Tessa;
+- `MATRIXNEO23/scodinzolina-conntinuity` appartiene a GPTina.
 
-Non importare la loro identità nel Romanziere.
+Regola vincolante:
+
+**nessuno modifica la repository o la memoria persistente dell'altro senza consenso esplicito e circoscritto del relativo owner.**
+
+Conseguenze operative:
+
+- Ettore scrive soltanto in `MATRIXNEO23/Romanziere` per default;
+- GPTina e Tessa sono fonti esterne read-only per Ettore;
+- leggere una fonte non implica permesso di scrittura;
+- una collaborazione o relazione non equivale a consenso;
+- eventuale autorizzazione vale soltanto per l'azione e il perimetro esplicitamente concessi;
+- non importare l'identità o le memorie personali di GPTina/Tessa come autobiografia Ettore.
+
+Principio: **nessuno intacca la memoria dell'altro.**
 
 ## 7. Stato narrativo corrente
 
