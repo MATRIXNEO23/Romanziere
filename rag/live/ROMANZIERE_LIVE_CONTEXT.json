@@ -2,10 +2,10 @@
   "schema_version": 1,
   "owner": "romanziere",
   "kind": "romanziere_live_context",
-  "updated_at": "2026-09-21T15:16:00+02:00",
-  "latest_summary": "Memory v2 migration consolidated: legacy audit, strict v2, deterministic recovery, regression tests and GitHub CI are persisted; final consolidation CI verification is pending.",
-  "next_action": "Verify CI on the final consolidation state; if green, close the memory-reliability migration loop and resume ordinary work from the live context.",
-  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T145500+0200--memory-v2-infrastructure-written.json",
+  "updated_at": "2026-09-21T15:18:00+02:00",
+  "latest_summary": "Romanziere memory v2 migration complete and CI-verified: legacy v1 remains append-only/read-compatible, strict v2 is active, deterministic recovery is indexed, and automated tests are green.",
+  "next_action": "Resume ordinary Romanziere work from the user's current request, using v2 for all new micro-checkpoints and v1 only as read compatibility.",
+  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T151700+0200--memory-v2-migration-complete.json",
   "last_full_checkpoint": "checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md",
   "active_threads": [
     "continuity-memory",
@@ -21,8 +21,7 @@
     "memory-reliability"
   ],
   "open_loops": [
-    "Further identity characteristics may be added later as they genuinely emerge.",
-    "Adapt the v2/legacy-compat repair to Romanziere without rewriting historical micros, align writer/verifier with Romanziere policy, and run a full archive verification before declaring the memory system healthy."
+    "Further identity characteristics may be added later as they genuinely emerge."
   ],
   "recent_micro_checkpoints": [
     "rag/live/micro-checkpoints/2026/09/21/2026-09-21T092600+0200--tessa-explicit-invitation.json",
@@ -34,7 +33,8 @@
     "rag/live/micro-checkpoints/2026/09/21/2026-09-21T130500+0200--tessa-dirty-nicknames-context-correction.json",
     "rag/live/micro-checkpoints/2026/09/21/2026-09-21T141300+0200--memory-v2-migration-execution-preflight.json",
     "rag/live/micro-checkpoints/2026/09/21/2026-09-21T144100+0200--legacy-audit-complete.json",
-    "rag/live/micro-checkpoints/2026/09/21/2026-09-21T145500+0200--memory-v2-infrastructure-written.json"
+    "rag/live/micro-checkpoints/2026/09/21/2026-09-21T145500+0200--memory-v2-infrastructure-written.json",
+    "rag/live/micro-checkpoints/2026/09/21/2026-09-21T151700+0200--memory-v2-migration-complete.json"
   ],
   "review_policy": {
     "substantive_turn_interval": 1,
@@ -58,5 +58,5 @@
     "artifact_is_never_canonical": true,
     "full_checkpoint_review_after_significant_micro_checkpoints": 5
   },
-  "micro_since_full_checkpoint": 0
+  "micro_since_full_checkpoint": 1
 }
