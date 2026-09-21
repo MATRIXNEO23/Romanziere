@@ -432,8 +432,10 @@ def save_delta(args: argparse.Namespace) -> Path:
 
     live = load_live()
     recent = list(live.get("recent_micro_checkpoints") or [])
-    recent.append(rel(target))
-    recent = sorted(set(recent))[-12:]
+    target_rel = rel(target)
+    recent = [item for item in recent if item != target_rel]
+    recent.append(target_rel)
+    recent = recent[-12:]
 
     threads = list(live.get("active_threads") or [])
     for thread in record["thread_ids"]:
@@ -521,9 +523,6 @@ def verify_live_context() -> None:
         fail("recent_micro_checkpoints must contain at most 12 items")
     if len(recent) != len(set(recent)):
         fail("recent_micro_checkpoints contains duplicates")
-    if recent != sorted(recent):
-        fail("recent_micro_checkpoints must be oldest-to-newest")
-
     last_micro = live.get("last_micro_checkpoint")
     if last_micro:
         if not recent or recent[-1] != last_micro:
