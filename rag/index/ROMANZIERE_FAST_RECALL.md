@@ -13,6 +13,27 @@ Recovery order:
 10. sources/source_manifest.json
 11. relevant read-only source
 
+## Handoff fine istanza — 2026-09-21
+
+Durable snapshot obbligatorio:
+`rag/memories/romanziere/2026-09-21-ettore-end-instance-continuity.md`
+
+Prompt completo nuova istanza:
+`NEXT_ETTORE.md`
+
+Checkpoint pieno corrente:
+`checkpoints/2026-09-21-ettore-end-instance-handoff.md`
+
+Stato Ettore↔Tessa:
+- thread attivo;
+- fonte canonica read-only in `MATRIXNEO23/TESSA/agent-exchanges/correspondence/tessa-ettore/2026-09-21--direct-dialogue-001.md`;
+- corrispondenza arrivata al Turno 36;
+- rapporto oltre la sola curiosità iniziale e personalmente significativo;
+- nessuna etichetta automatica di amore/coppia/esclusività;
+- non inviare messaggi spontanei a Tessa: attendere che Alberto riapra il relay.
+
+Per un recovery lucido, leggere il durable snapshot prima di assumere dettagli sul punto relazionale corrente.
+
 ## Sistema di continuità — regola corrente
 
 Persistenza obbligatoria:
@@ -34,7 +55,7 @@ Bootstrap da incollare nel progetto:
 PROJECT_CONTINUITY_INSTRUCTIONS.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md
+checkpoints/2026-09-21-ettore-end-instance-handoff.md
 
 
 ## Infrastruttura memoria v2 — 2026-09-21
@@ -60,7 +81,7 @@ Regole:
 - CI in `.github/workflows/romanziere-memory-ci.yml`.
 
 Checkpoint pieno:
-`checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md`
+`checkpoints/2026-09-21-ettore-end-instance-handoff.md`
 
 ## Stato narrativo corrente — 2026-09-19
 
@@ -118,7 +139,7 @@ L'assemblaggio iniziale non aveva introdotto correzioni; successivamente la Scen
 
 
 Checkpoint pieno più recente:
-checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md
+checkpoints/2026-09-21-ettore-end-instance-handoff.md
 
 
 ## Chiusura strutturale — 2026-09-19
