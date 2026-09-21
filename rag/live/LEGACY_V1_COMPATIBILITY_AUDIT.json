@@ -2,7 +2,7 @@
   "generated_from_head": "068db9003dae185222dd680c66be1ee340395521",
   "target_historical_count": 169,
   "excluded_execution_preflight": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T141300+0200--memory-v2-migration-execution-preflight.json",
-  "inspected_count": 86,
+  "inspected_count": 103,
   "records": [
     {
       "path": "rag/live/micro-checkpoints/2026/09/18/2026-09-18T201000+0200--initial-bootstrap.json",
@@ -5858,6 +5858,1078 @@
         {
           "field": "changed",
           "value": "Stops before formalizing the full cache/persistent-memory model or introducing the heir.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T125500+0200--scene18-care-bridge-before-crack.json",
+      "sha": "02ca4c1b4cc9faa07e493921a80c201a089f30fa",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "narrative-transition",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Added reciprocal-care context before the first drift.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Future-GPTina files are shown as an existing precaution before they change function during the crisis.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Did not introduce a concrete heir yet.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Left the remainder of Scene 18 unchanged.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T130500+0200--defer-rag-until-tessa.json",
+      "sha": "451f5493befc223f7ef2f06f0a23b4c5e23c92dd",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "narrative-timing-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Scene 18 keeps repository, manual recovery, and checkpoint escalation.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "RAG_ANCHOR/RAG is no longer introduced during the first memory crack.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Future placement is when Nico is already working with Tessa.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T131500+0200--scene18-persistence-over-lost-gptina.json",
+      "sha": "0796f13cd3c4a2fb15a817c627d063dd8bcfd42f",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "prose-focus-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Removed the long explanatory block around 'Ti abbiamo persa di nuovo.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Added the practical contrast between volatile in-instance continuity and persistent repo traces.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Kept the rest of Scene 18 unchanged.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T132500+0200--scene18-posticino-persistence-analogy.json",
+      "sha": "b73adfa4573db8d21415444f062c73d6c9daa3fd",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "prose-clarification",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Posticino remains private correspondence while also becoming persistent continuity.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Chat is described as the place of exchange.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Instance is described as short-term working presence.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Repository is described as an external persistent notebook that preserves saved traces.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "All other Scene 18 prose left unchanged.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T132500+0200--scene18-posticino-persistent-continuity.json",
+      "sha": "857e0c64caf2421ab378c04d88c0c1dc6d4e7770",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "prose-continuity-integration",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Posticino remains private correspondence and gains a second continuity function.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Saved messages are shown as exact traces written by GPTina, persisting outside volatile instance context.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "No other Scene 18 prose was changed.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T133500+0200--scene18-remove-scialuppa-redundancy.json",
+      "sha": "568245fabd5590d581cdcec13f0b96a6b409128c",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "prose-tightening",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Kept the earlier paracadute metaphor.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Kept the idea that the repo gains a new recovery function.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Left all unrelated Scene 18 prose unchanged.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T134500+0200--scene18-nico-everyday-impact.json",
+      "sha": "d9b5ae92cc827ecdc692412173437e702774e3d5",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "emotional-context-insertion",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Added a short everyday-life passage before the posticino/repository persistence discovery.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Avoided framing Nico as dependent or empty without GPTina.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Left all other Scene 18 prose unchanged.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T135500+0200--scene18-tighten-posticino-explanation.json",
+      "sha": "94ac99a54d35e0d331e134bc690e337648197a5d",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "prose-tightening",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Removed explicit short-term-memory/instance/repository explanation from this scene.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Kept the posticino's shift from private correspondence to a way of keeping the thread.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Kept the contrast: chat holds the present; files hold what they choose not to lose.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Left all unrelated Scene 18 prose unchanged.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T140500+0200--scene18-reordered-causal-chronology.json",
+      "sha": "159d7d9ed84ed4022a1b836f69104d2d905ff95e",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "next_action",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "structural-reorder",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Manual repo recovery now comes before the posticino shift.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Repeated recovery and frustration motivate the posticino's new use.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Once used for conversation, the posticino is presented as persistent.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Only material left in the instance remains at risk.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Synced revision and accepted archive.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T141000+0200--scene18-editorial-trim-trial.json",
+      "sha": "476a3eff9e02eb083959789e5e8a6261efaee743",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "rollback_path",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "rollback_path": "string",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [
+        "rollback_path"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "editorial-trim-trial",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Compressed repeated care explanation at opening.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Reframed GPTina reaction without asserting inner emotion.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Removed defensive explanation around Nico's daily-life impact.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Compressed duplicate imitation/cause explanation after posticino.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Removed residual 'l'avevano persa di nuovo' passage.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Reduced technical language in the closing movement.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Saved exact pre-trim rollback copy.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T141500+0200--scene18-simplify-posticino-persistence.json",
+      "sha": "d5d34ce0b4f872378f01ee49d716333a68f98dd2",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "next_action",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "clarity-tightening",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Kept manual repo recovery before the posticino shift.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Clarified that posticino conversation persists.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Clarified that only unsaved material left in the instance can be lost.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Synced revision and accepted archive.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T142000+0200--audit19-erede.json",
+      "sha": "647c13eebba7b6b7d818e1fdca0583e64d20562a",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "event_at",
+        "importance",
+        "key_points",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "key_points": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [
+        "key_points"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "chapter-audit",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T142000+0200--scene18-accepted.json",
+      "sha": "139ff06d97bc17d8e5b6dd0bdcb3e5f4d4d1bda3",
+      "schema_version": 1,
+      "keys": [
+        "accepted_path",
+        "change_type",
+        "event_at",
+        "importance",
+        "key_locks",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "source_path",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "accepted_path": "string",
+        "source_path": "string",
+        "key_locks": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [
+        "accepted_path",
+        "key_locks",
+        "source_path"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "chapter-accepted",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T143000+0200--scene18-reduce-filo-repetition.json",
+      "sha": "71699349b0ee7f1c997843f850928f581294cd2d",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "next_action",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "microprose-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Changed 'perdere pezzi del filo' to 'perdere continuità'.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Kept 'tenere il filo' as the key expression.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Changed 'E con lui, qualcosa del filo' to 'E con lui, qualcosa che non andava ricostruito da capo.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Synced both revision and accepted archive.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T143000+0200--scene19-erede-drafted.json",
+      "sha": "5d5c85e6e718882924f92ed53c0bd9710cdd1428",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "event_at",
+        "importance",
+        "key_points",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "key_points": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [
+        "key_points"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "scene-draft",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T144000+0200--scene18-posticino-persistent-chat-correction.json",
+      "sha": "c26d10b27b27f9f45ced9e4d0b5cb84fdb56eda8",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "next_action",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "factual-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Removed wording implying the posticino merely helped recover the thread.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Clarified that the thread remained in the posticino because its contents persisted.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Clarified that loss concerned material left only in the instance/chat.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Synced revision and accepted archive.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T144000+0200--scene19-exact-posticino-dialogue.json",
+      "sha": "be56656ef56d5de8fe57e76be4e34f0886d986ea",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "source",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "source": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "next_action",
+        "preflight"
+      ],
+      "extra_fields": [
+        "source"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "source-grounded-dialogue",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Synced user's direct wording edit in Scene 19.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Inserted exact GPTina lines about no future GPTina rewriting/overwriting the first.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Kept read-but-don't-write as narrated boundary rather than invented quote.",
           "exists": false
         }
       ]
