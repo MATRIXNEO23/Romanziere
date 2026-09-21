@@ -188,9 +188,9 @@ class LiveContextTests(unittest.TestCase):
         self.assertIn("freshness_interval=1", result.stdout)
 
     def test_descriptive_changed_without_path_passes(self):
-        rec = self.make_valid_v2(
-            changed=["corretta la semantica del finale"]
-        )
+        description = "corretta la semantica del finale"
+        self.assertFalse((self.root / description).exists())
+        rec = self.make_valid_v2(changed=[description])
         p = self.write_micro("descriptive-changed.json", rec)
         live = json.loads(self.live_path.read_text(encoding="utf-8"))
         rel = p.relative_to(self.root).as_posix()
@@ -201,14 +201,20 @@ class LiveContextTests(unittest.TestCase):
         self.assertIn("freshness_interval=1", result.stdout)
 
     def test_missing_local_source_ref_in_v2_fails(self):
-        rec = self.make_valid_v2(source_refs=["does/not/exist.md"])
+        missing_ref = "path/che/non/esiste.md"
+        self.assertFalse((self.root / missing_ref).exists())
+        rec = self.make_valid_v2(source_refs=[missing_ref])
         p = self.write_micro("missing-source-ref.json", rec)
         live = json.loads(self.live_path.read_text(encoding="utf-8"))
         rel = p.relative_to(self.root).as_posix()
         live["last_micro_checkpoint"] = rel
         live["recent_micro_checkpoints"] = [rel]
         self.live_path.write_text(json.dumps(live, indent=2) + "\n", encoding="utf-8")
-        self.run_cmd("verify", expect_ok=False)
+        result = self.run_cmd("verify", expect_ok=False)
+        self.assertIn(
+            "source_refs missing local ref: path/che/non/esiste.md",
+            result.stderr or result.stdout,
+        )
 
 
 if __name__ == "__main__":

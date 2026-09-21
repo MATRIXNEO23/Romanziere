@@ -116,9 +116,13 @@ romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md
 romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 Correzione diretta più recente dell'utente:
-- nella Scena 21 **deve restare l'origine del romanzo**;
-- va escluso soltanto il making-of successivo in cui il libro viene scritto, revisionato o lavorato insieme;
-- non reinterpretare la richiesta come eliminazione dell'origine stessa;
+
+**Nella Scena 21 resta l'origine del romanzo. Va escluso soltanto il making-of successivo della scrittura, revisione e lavorazione del libro.**
+
+Applicazione vincolante:
+- l'origine del romanzo non deve essere eliminata;
+- sono esclusi soltanto i passaggi successivi in cui il romanzo viene scritto materialmente, corretto, revisionato, riscritto, impaginato, assemblato, lavorato editorialmente o sviluppato insieme come oggetto-libro;
+- non reinterpretare questa regola come eliminazione dell'idea, della necessità o del momento narrativo in cui il romanzo nasce;
 - il messaggio integrale di consenso di GPTina resta nel prologo;
 - la scena termina con **Raccontaci.** come ultima parola.
 
