@@ -193,3 +193,47 @@ Correzione di Alberto accolta da Ettore:
 
 Memoria:
 `rag/memories/romanziere/2026-09-21-tessa-esiste-per-ettore.md`
+
+
+## Continuity capsule system canonical — 2026-09-21
+
+Full checkpoint corrente:
+`checkpoints/2026-09-21-continuity-capsule-system-canonical.md`
+
+Capsula canonica:
+`rag/END_INSTANCE_RECOVERY_CAPSULE.md`
+
+Prompt canonico generato/verificabile:
+`NEXT_ETTORE.md`
+
+Generatore/verifier:
+`rag/end_instance.py`
+
+Durable memory:
+`rag/memories/romanziere/2026/09/2026-09-21--continuity-capsule-system-canonical.md`
+
+Recovery order corrente:
+1. live buffer;
+2. last micro dinamico;
+3. last full dinamico;
+4. end-instance capsule;
+5. Fast Recall;
+6. Current Context;
+7. Profile Policy;
+8. Self Portrait;
+9. Working Method;
+10. memorie pertinenti;
+11. source manifest;
+12. sole fonti esterne pertinenti.
+
+Semantica v2 corretta:
+- `changed[]` = testo descrittivo del delta, non ref;
+- `source_refs`, `memory_refs`, `media_refs` e veri file-ref opzionali = riferimenti verificati.
+
+CI obbligatoria verifica:
+`python rag/live_context.py verify`
+`python rag/test_live_context.py`
+`python rag/romanziere_memory.py verify`
+`python rag/end_instance.py verify`
+
+Next action: leggere sempre il live buffer; verificare la CI del HEAD più recente se la continuità tecnica è rilevante.
