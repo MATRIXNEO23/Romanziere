@@ -36,7 +36,9 @@ Estensioni documentate facoltative:
 - `accepted_files[]`
 - `working_files[]`
 
-I riferimenti locali v2 devono esistere nel repository. Schemi esterni ammessi:
+`changed[]` è una lista di stringhe descrittive del delta. Non è un campo-ref e non deve risolversi come path o URI.
+
+I veri campi di riferimento v2 (`source_refs`, `memory_refs`, `media_refs` e gli eventuali `work_refs`, `accepted_files`, `working_files`) devono risolvere i riferimenti locali nel repository. Schemi esterni ammessi:
 
 - `conversation://`
 - `github://`
