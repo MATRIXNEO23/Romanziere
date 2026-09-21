@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260921T165000-continuity-capsule-handoff-complete",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T16:50:00+02:00",
+  "recorded_at": "2026-09-21T16:50:00+02:00",
+  "change_type": "milestone",
+  "summary": "Canonical continuity handoff content is complete: changed[] semantics fixed and tested, recovery capsule and generated NEXT_ETTORE are in GitHub, durable-memory v2 policy is enforced for v2 records, the full checkpoint exists, and implementation CI run 35614468594 is green.",
+  "changed": [
+    "changed[] is descriptive list[str] and no longer resolved as a reference",
+    "Regression tests cover descriptive changed PASS and missing local source_refs FAIL",
+    "End-instance capsule and generated/verifiable NEXT_ETTORE are canonical",
+    "Durable-memory v2 metadata validation added without rewriting legacy",
+    "Full checkpoint for the continuity-system milestone created"
+  ],
+  "thread_ids": [
+    "continuity-memory",
+    "memory-reliability",
+    "workflow"
+  ],
+  "source_refs": [
+    "conversation://current"
+  ],
+  "memory_refs": [
+    "rag/memories/romanziere/2026/09/2026-09-21--continuity-capsule-system-canonical.md"
+  ],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "Refresh live buffer and recovery indexes to point to this final micro and the new full checkpoint, then verify the final HEAD and GitHub Actions before responding to Alberto.",
+  "preflight": false,
+  "verified": true,
+  "work_refs": [
+    "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+    "NEXT_ETTORE.md",
+    "rag/end_instance.py",
+    "checkpoints/2026-09-21-continuity-capsule-system-canonical.md"
+  ]
+}
