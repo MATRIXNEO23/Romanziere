@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-20260921T141300-memory-v2-migration-preflight",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T14:13:00+02:00",
+  "recorded_at": "2026-09-21T14:13:00+02:00",
+  "change_type": "preflight",
+  "summary": "Execution preflight for the Romanziere memory reliability migration: audit all historical micros first, preserve append-only history, then introduce strict v2 plus exact legacy read compatibility, tests and CI.",
+  "changed": [],
+  "thread_ids": [
+    "continuity-memory",
+    "memory-reliability"
+  ],
+  "source_refs": [
+    "conversation://current",
+    "rag/memories/romanziere/2026-09-21-memory-reliability-preflight.md"
+  ],
+  "memory_refs": [
+    "rag/memories/romanziere/2026-09-21-memory-reliability-preflight.md"
+  ],
+  "importance": 5,
+  "next_action": "Audit every historical JSON under rag/live/micro-checkpoints/ and persist the observed legacy compatibility inventory before changing the writer or verifier.",
+  "preflight": true
+}
