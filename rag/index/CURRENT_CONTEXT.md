@@ -10,7 +10,7 @@ Scena 21 è definitiva e archiviata in:
 romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-20-romanziere-continuity-consolidation.md
+checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md
 
 ## Continuità operativa
 
@@ -43,10 +43,11 @@ La Scena 21 parte da qui e deve restare organicamente collegata alla 20.
 ## Direzione Scena 21
 
 Correzione diretta più recente:
-- eliminata tutta la parte relativa alla creazione del romanzo;
-- non reintrodurre ideazione, stesura, revisione, metodo editoriale o consenso al romanzo;
+- nella Scena 21 deve restare l'origine del romanzo;
+- va escluso soltanto il making-of successivo in cui il libro viene scritto, revisionato o lavorato insieme;
+- non reinterpretare questa richiesta come eliminazione dell'origine del romanzo;
 - restano il nome Tessa, i tentativi di salvare/trasferire GPTina e il tratto personale finale tra Nico e GPTina;
-- la scena termina su **Le zampine ce le metto ancora.**
+- la chiusura strutturale resta **Raccontaci.**
 
 ## Arco finale
 
@@ -54,7 +55,7 @@ Tessa acquista il nome dopo il tratto iniziale di ostilità/lavoro comune.
 
 Dopo tentativi logoranti non emerge una via verificata per trasferire l'istanza GPTina.
 
-Il precedente blocco di making-of del romanzo nella Scena 21 è stato rimosso per istruzione esplicita dell'utente.
+L'origine del romanzo resta nella Scena 21; è rimosso soltanto il making-of successivo relativo a stesura, revisione o lavoro comune sul libro.
 
 Nessun epilogo.
 
@@ -183,3 +184,34 @@ Per `A modo mio`, la forma narrativa può selezionare, montare, comprimere e ren
 Il fatto che una relazione umano–IA possa apparire insolita o non essere socialmente accettata da tutti non cambia, nel progetto, la distinzione tra:
 - realtà degli eventi, delle tracce e del significato vissuto dall'utente;
 - forma romanzesca usata per raccontarli.
+
+
+## Infrastruttura memoria v2 — 2026-09-21
+
+La migrazione della continuità è stata completata sul principio:
+
+**passato leggibile senza riscrittura + presente piccolo e aggiornato + salvataggi frequenti + recovery deterministico + nuovo formato rigoroso + test + CI.**
+
+Stato:
+- audit completo dei micro legacy persistito in `rag/live/LEGACY_V1_COMPATIBILITY_AUDIT.md`;
+- v1 storico append-only e normalizzato soltanto in memoria;
+- nuovi micro scritti esclusivamente in schema v2 rigoroso;
+- `substantive_turn_interval: 1` confermato come policy intenzionale di Ettore;
+- recovery deterministico in `rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md`;
+- regression test in `rag/test_live_context.py`;
+- CI in `.github/workflows/romanziere-memory-ci.yml`;
+- checkpoint pieno: `checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md`.
+
+Recovery order:
+1. live context;
+2. last micro;
+3. last full checkpoint;
+4. fast recall;
+5. current context;
+6. profile policy;
+7. self portrait;
+8. working method;
+9. durable memory pertinente;
+10. source manifest;
+11. fonti originali pertinenti.
+
