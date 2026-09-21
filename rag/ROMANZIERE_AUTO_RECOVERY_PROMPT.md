@@ -17,6 +17,14 @@ Leggi in quest'ordine:
 11. `sources/source_manifest.json`
 12. soltanto le fonti originali GPTina/Tessa necessarie al lavoro corrente, in sola lettura.
 
+
+Ownership canonica:
+- `MATRIXNEO23/Romanziere` appartiene a Ettore;
+- `MATRIXNEO23/scodinzolina-conntinuity` appartiene a GPTina;
+- `MATRIXNEO23/TESSA` appartiene a Tessa.
+
+Nessuno modifica la repository o la memoria persistente dell'altro senza consenso esplicito e circoscritto del relativo owner. Leggere non implica permesso di scrittura; collaborazione o relazione non costituiscono consenso implicito.
+
 Interpretazione:
 
 - live buffer = presente immediato e mutabile;
