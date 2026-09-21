@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260921T151700-memory-v2-migration-complete",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T15:17:00+02:00",
+  "recorded_at": "2026-09-21T15:17:00+02:00",
+  "change_type": "milestone",
+  "summary": "Romanziere memory v2 migration is complete: final consolidation state passed GitHub Actions CI with legacy v1 preserved append-only, strict v2 active, recovery indexed, and tests green.",
+  "changed": [
+    "checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md",
+    "rag/index/ROMANZIERE_FAST_RECALL.md",
+    "rag/index/CURRENT_CONTEXT.md"
+  ],
+  "thread_ids": [
+    "continuity-memory",
+    "memory-reliability"
+  ],
+  "source_refs": [
+    "github://MATRIXNEO23/Romanziere/actions/runs/35604316503"
+  ],
+  "memory_refs": [],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "Resume ordinary Romanziere work from the user's current request, using v2 for all new micro-checkpoints and v1 only as read compatibility.",
+  "preflight": false,
+  "verified": true,
+  "work_refs": [
+    "checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md"
+  ]
+}
