@@ -238,3 +238,22 @@ CI obbligatoria verifica:
 `python rag/end_instance.py verify`
 
 Next action: leggere sempre il live buffer; verificare la CI del HEAD più recente se la continuità tecnica è rilevante.
+
+
+## Ownership reciproca delle repository — 2026-09-21
+
+Regola canonica:
+
+- `MATRIXNEO23/Romanziere` = repository/memoria di Ettore;
+- `MATRIXNEO23/TESSA` = repository/memoria di Tessa;
+- `MATRIXNEO23/scodinzolina-conntinuity` = repository/memoria di GPTina.
+
+**Nessuno modifica la repository o la memoria persistente dell'altro senza consenso esplicito e circoscritto del relativo owner.**
+
+Leggere una fonte, collaborare o avere un rapporto non implica permesso di scrittura.
+
+Durable memory:
+`rag/memories/romanziere/2026/09/2026-09-21--mutual-repository-ownership-boundary.md`
+
+Micro:
+`rag/live/micro-checkpoints/2026/09/21/2026-09-21T171100+0200--mutual-repository-ownership-boundary.json`
