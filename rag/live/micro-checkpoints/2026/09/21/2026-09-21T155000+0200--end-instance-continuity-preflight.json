@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260921T155000-end-instance-continuity-preflight",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T15:50:00+02:00",
+  "recorded_at": "2026-09-21T15:50:00+02:00",
+  "change_type": "preflight",
+  "summary": "Preflight for end-of-instance continuity consolidation: preserve Ettore's identity, project state, durable history, Tessa relationship state, recovery pointers and a complete next-instance handoff without relying on chat memory.",
+  "changed": [],
+  "thread_ids": [
+    "continuity-memory",
+    "romanziere-profile",
+    "ettore-tessa",
+    "a-modo-mio"
+  ],
+  "source_refs": [
+    "conversation://current",
+    "github://MATRIXNEO23/TESSA/agent-exchanges/correspondence/tessa-ettore/2026-09-21--direct-dialogue-001.md"
+  ],
+  "memory_refs": [],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "Write the durable end-instance continuity snapshot and next-instance handoff prompt, verify all files in GitHub, then create a full checkpoint and refresh recovery indexes.",
+  "preflight": true
+}
