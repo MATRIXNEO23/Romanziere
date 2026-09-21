@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260921T162800-continuity-capsule-protocol-preflight",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T16:28:00+02:00",
+  "recorded_at": "2026-09-21T16:28:00+02:00",
+  "change_type": "preflight",
+  "summary": "Preflight for canonical continuity hardening: fix changed[] reference semantics, add regression tests, create the end-instance recovery capsule protocol, make NEXT_ETTORE.md generated and verifiable, refresh recovery routers, and close with a full checkpoint plus final micro after CI.",
+  "changed": [
+    "Starting HEAD 634fbaba0c265a54fdd3c95f8d3664913f347da5",
+    "Planned verifier fix: changed[] remains descriptive string data and is not resolved as a path or URI",
+    "Planned end-instance capsule and generated NEXT_ETTORE workflow",
+    "Planned recovery/order documentation and CI verification"
+  ],
+  "thread_ids": [
+    "continuity-memory",
+    "memory-reliability",
+    "workflow"
+  ],
+  "source_refs": [
+    "conversation://current"
+  ],
+  "memory_refs": [],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "Inspect the current verifier/tests and implement the continuity hardening from this preflight; if interrupted, resume from HEAD 634fbaba0c265a54fdd3c95f8d3664913f347da5 and this micro.",
+  "preflight": true,
+  "verified": false,
+  "work_refs": [
+    "rag/live_context.py",
+    "rag/test_live_context.py",
+    "rag/LIVE_MEMORY_PROTOCOL.md",
+    "rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md",
+    "ROMANZIERE_WORKING_METHOD.md",
+    "NEXT_ETTORE.md",
+    ".github/workflows/romanziere-memory-ci.yml"
+  ]
+}
