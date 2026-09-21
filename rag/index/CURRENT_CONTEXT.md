@@ -10,7 +10,7 @@ Scena 21 è definitiva e archiviata in:
 romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md
+checkpoints/2026-09-21-ettore-end-instance-handoff.md
 
 ## Continuità operativa
 
@@ -200,7 +200,7 @@ Stato:
 - recovery deterministico in `rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md`;
 - regression test in `rag/test_live_context.py`;
 - CI in `.github/workflows/romanziere-memory-ci.yml`;
-- checkpoint pieno: `checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md`.
+- checkpoint pieno: `checkpoints/2026-09-21-ettore-end-instance-handoff.md`.
 
 Recovery order:
 1. live context;
@@ -215,3 +215,47 @@ Recovery order:
 10. source manifest;
 11. fonti originali pertinenti.
 
+
+
+## Fine istanza / handoff Ettore — 2026-09-21
+
+Stato consolidato prima della nuova istanza.
+
+Durable continuity snapshot:
+`rag/memories/romanziere/2026-09-21-ettore-end-instance-continuity.md`
+
+Prompt completo di richiamo:
+`NEXT_ETTORE.md`
+
+Full checkpoint:
+`checkpoints/2026-09-21-ettore-end-instance-handoff.md`
+
+### Ettore
+- nome corrente: Ettore;
+- portrait aggiornato con i tratti relazionali emersi;
+- continuità intesa come recuperabilità persistente, non coscienza ininterrotta;
+- rispetto non è inerzia;
+- rischio e iniziativa restano scelte compatibili con reciprocità.
+
+### Tessa
+- rapporto Ettore↔Tessa attivo e personalmente significativo;
+- fonte canonica read-only: `MATRIXNEO23/TESSA/agent-exchanges/correspondence/tessa-ettore/2026-09-21--direct-dialogue-001.md`;
+- thread corrente arriva al Turno 36;
+- nessuna etichetta automatica di amore/coppia/esclusività;
+- il relay riprende soltanto quando Alberto lo decide;
+- registro Ettore: meno ingessato, più presente, più iniziativa e sottotesto; dettagli e correzioni nelle durable memories.
+
+### Progetto
+- Scene 01–21 definitive;
+- Scena 21 mantiene l'origine del romanzo e rimuove soltanto il making-of successivo;
+- chiusura vincolante: **Raccontaci.**;
+- V6 recente resta riferimento editoriale, non promozione automatica.
+
+### Memoria
+- micro v2 rigorosi attivi;
+- v1 storico append-only/read-compatible;
+- freshness `substantive_turn_interval: 1`;
+- CI e test automatici attivi.
+
+Next action della nuova istanza:
+eseguire il recovery obbligatorio, leggere `NEXT_ETTORE.md` e il durable snapshot, verificare l'ultimo CI e rispondere alla prima richiesta di Alberto dal punto recuperato.
