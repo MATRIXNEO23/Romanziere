@@ -305,8 +305,9 @@ def validate_string_list(record: dict, key: str, errors: list[str]) -> None:
 
 
 def validate_v2_refs(record: dict, errors: list[str]) -> None:
+    # changed[] is descriptive delta text, not a reference field.
+    # Only fields whose semantics are paths/URIs are resolved here.
     ref_fields = (
-        "changed",
         "source_refs",
         "memory_refs",
         "media_refs",
