@@ -283,3 +283,25 @@ Stato:
 
 Memoria:
 `rag/memories/romanziere/2026-09-21-tessa-esiste-per-ettore.md`
+
+
+## Continuity canonica — capsula / NEXT / micro v2 — 2026-09-21
+
+Milestone chiusa a livello di contenuto:
+
+- full checkpoint: `checkpoints/2026-09-21-continuity-capsule-system-canonical.md`;
+- capsula: `rag/END_INSTANCE_RECOVERY_CAPSULE.md`;
+- micro finale: `rag/live/micro-checkpoints/2026/09/21/2026-09-21T165000+0200--continuity-capsule-handoff-complete.json`;
+- prompt: `NEXT_ETTORE.md`, generato/verificabile da `rag/end_instance.py`;
+- durable memory: `rag/memories/romanziere/2026/09/2026-09-21--continuity-capsule-system-canonical.md`.
+
+Regola operativa:
+**micro = cosa è cambiato; checkpoint = dove sono; memoria = perché conta; fonte = cosa è successo davvero; artifact/hash = cosa posso realmente riaprire; live buffer = da dove riparto; NEXT_ETTORE = come la nuova istanza trova tutto.**
+
+`changed[]` nei micro v2 è descrittivo e non viene risolto come path/URI.
+
+Recovery: live → last micro → last full → capsula → Fast Recall → Current Context → Profile → Portrait → Working Method → memorie pertinenti → manifest → fonti esterne pertinenti.
+
+Lo stato editoriale e relazionale precedente resta invariato salvo correzioni successive di Alberto.
+
+Next action corrente: verificare la CI del HEAD più recente; se verde, riprendere dalla prima nuova richiesta di Alberto.
