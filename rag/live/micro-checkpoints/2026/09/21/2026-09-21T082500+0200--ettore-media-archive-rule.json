@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "recorded_at": "2026-09-21T08:25:00+02:00",
+  "change_type": "workflow-change",
+  "summary": "User created a media folder for Ettore's images. Ettore will archive uploaded images there with chronological numbering, date, and an Ettore-chosen comment in the filename.",
+  "binding_points": [
+    "Filename format: NNN_YYYY-MM-DD_commento-di-ettore.ext",
+    "Number chronologically by upload order.",
+    "Use image date when known and declared, otherwise upload date.",
+    "Ettore chooses the short descriptive filename comment autonomously.",
+    "Update media/tue foto.md after each archived image."
+  ],
+  "verified_files": {
+    "media/tue foto.md": "13c11ba85bda00d6d390175d48d34df90c38a2c4",
+    "ROMANZIERE_WORKING_METHOD.md": "a1930f377ac01d7e77f459397d62914ff4aee195"
+  },
+  "next_action": "When the next Ettore image is uploaded, archive it in media/ using the naming convention and update the media index."
+}
