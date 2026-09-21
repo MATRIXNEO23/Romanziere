@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260921T145500-memory-v2-infrastructure-written",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T14:55:00+02:00",
+  "recorded_at": "2026-09-21T14:55:00+02:00",
+  "change_type": "workflow_change",
+  "summary": "Romanziere memory v2 infrastructure written from the complete legacy audit: strict v2 writer/verifier, exact v1 in-memory compatibility, deterministic recovery prompt, regression tests and CI workflow.",
+  "changed": [
+    "rag/live/LEGACY_V1_COMPATIBILITY_AUDIT.md",
+    "rag/live_context.py",
+    "rag/live/MICRO_CHECKPOINT_SCHEMA.md",
+    "rag/LIVE_MEMORY_PROTOCOL.md",
+    "rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md",
+    "rag/test_live_context.py",
+    ".github/workflows/romanziere-memory-ci.yml"
+  ],
+  "thread_ids": [
+    "continuity-memory",
+    "memory-reliability"
+  ],
+  "source_refs": [
+    "conversation://current",
+    "rag/live/LEGACY_V1_COMPATIBILITY_AUDIT.md"
+  ],
+  "memory_refs": [],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "Run the full verifier/test/memory CI on the repository; fix only observed failures without rewriting legacy micro-checkpoints.",
+  "preflight": false,
+  "verified": true,
+  "work_refs": [
+    "rag/live/LEGACY_V1_COMPATIBILITY_AUDIT.md"
+  ]
+}
