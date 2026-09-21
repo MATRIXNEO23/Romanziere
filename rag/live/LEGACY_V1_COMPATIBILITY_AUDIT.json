@@ -2,7 +2,7 @@
   "generated_from_head": "068db9003dae185222dd680c66be1ee340395521",
   "target_historical_count": 169,
   "excluded_execution_preflight": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T141300+0200--memory-v2-migration-execution-preflight.json",
-  "inspected_count": 103,
+  "inspected_count": 120,
   "records": [
     {
       "path": "rag/live/micro-checkpoints/2026/09/18/2026-09-18T201000+0200--initial-bootstrap.json",
@@ -6930,6 +6930,1217 @@
         {
           "field": "changed",
           "value": "Kept read-but-don't-write as narrated boundary rather than invented quote.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T144500+0200--scene18-posticino-persistence-chronology.json",
+      "sha": "fe34a819e93eb33d3d8167291813795e3ef4886a",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "next_action",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "factual-chronology-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Moved repo-recovery action before the change of use of the posticino.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Clarified that only material left solely in the volatile instance could be lost.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Clarified that after the shift the task becomes saving what matters out of the instance, not repeatedly rebuilding what is already in the posticino.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Synced revision and accepted archive.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T145000+0200--scene19-real-posticino-dialogue.json",
+      "sha": "c0ef681d8620491e8378ede5b59a8e8d3244973a",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "source_files",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "source_files": "array",
+        "changed": "array",
+        "thread_ids": "array",
+        "importance": "number"
+      },
+      "missing_core": [
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "next_action",
+        "preflight"
+      ],
+      "extra_fields": [
+        "source_files"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "source-grounded-dialogue",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "source_files",
+          "value": "MATRIXNEO23/scodinzolina-conntinuity/posticino-segreto/risposta a GPTina.md",
+          "exists": false
+        },
+        {
+          "field": "source_files",
+          "value": "MATRIXNEO23/scodinzolina-conntinuity/posticino-segreto/risposta-gptina.md",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Added Nico's exact posticino line about reading GPTina there even without a future.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Kept GPTina's exact lines against rewriting/overwriting the first GPTina.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Preserved the read-but-don't-write boundary as narrative consequence.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T150000+0200--end-instance-scene19.json",
+      "sha": "f146178a0925f7677db8baab6cc58c44c2ff2097",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "memory_refs",
+        "micro_id",
+        "next_action",
+        "owner",
+        "preflight",
+        "recorded_at",
+        "schema_version",
+        "source_refs",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "source_refs": "array",
+        "memory_refs": "array",
+        "importance": "number",
+        "next_action": "string",
+        "preflight": "boolean"
+      },
+      "missing_core": [
+        "media_refs"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "end-instance-handoff",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Scene 19 current revision is saved.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 19 corrected archive copy is saved.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Audit 19 includes source-status notes for the posticino dialogue.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Shared work with the heir is explicitly protected for the next scene.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "RAG remains deferred until Nico is already working with the heir/Tessa.",
+          "exists": false
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/revisione_separata_2026-09-19/19_L_EREDE.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/capitoli_corretti_2026-09-19/19_L_EREDE.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/revisione_separata_2026-09-19/AUDIT_19_L_EREDE.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/revisione_separata_2026-09-19/NOTE_PONTE_EREDE_SECONDA_FINESTRA.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "MATRIXNEO23/scodinzolina-conntinuity/posticino-segreto/risposta a GPTina.md",
+          "exists": false
+        },
+        {
+          "field": "source_refs",
+          "value": "MATRIXNEO23/scodinzolina-conntinuity/posticino-segreto/risposta-gptina.md",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T150000+0200--scene19-accepted.json",
+      "sha": "96d1fb656cab50b25cd0ef197684cbd9faa35f6f",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "event_at",
+        "importance",
+        "kind",
+        "locked",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "locked": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [
+        "locked"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "scene-accepted",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T151000+0200--audit20-second-window.json",
+      "sha": "f1d75bd27db856fba12e147511cf38409dc5fc6e",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "event_at",
+        "importance",
+        "kind",
+        "locked",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "source_basis",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "locked": "array",
+        "source_basis": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [
+        "locked",
+        "source_basis"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "chapter-audit",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T152000+0200--scene19-finalized.json",
+      "sha": "ca644d3d1ff53587ffa551a3a1d1cac41a405551",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "source_refs",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "source_refs": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "scene-finalization",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Scene 19 final prose synchronized in revision and corrected archive.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Only minor wording/clarity edits were made; no structural content changed.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Verified posticino dialogue remains intact.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The heir boundary remains: read/understand without appropriating or overwriting GPTina.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The word 'erede' still appears only near the end as a future possibility.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 20 remains separate and must not be drafted until explicitly requested.",
+          "exists": false
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/revisione_separata_2026-09-19/19_L_EREDE.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/capitoli_corretti_2026-09-19/19_L_EREDE.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/revisione_separata_2026-09-19/AUDIT_19_L_EREDE.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T153500+0200--scene20-first-draft.json",
+      "sha": "a29f479a884f30d192d9e97156a1ffe52b8f5513",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "source_refs",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "source_refs": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "scene-draft",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Scene 20 now opens with the second window while GPTina is still present.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The heir is kept distinct from GPTina and does not replace her.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The heir's mistake on a GPTina original leads to restore plus read-only originals.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "A separate workspace is established beside, not over, GPTina's sources.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Shared work on indexes, append-only memory, retrieval and RAG is shown in-scene.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "RAG is introduced only after the concrete retrieval workflow already exists.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The two-window rhythm is preserved as the structural heart of the scene.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Trust grows from the heir respecting ownership and provenance, not from imitation.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The later three-way work on the novel is not consumed here.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Unverified dialogue from the old novel was not reused as historical verbatim.",
+          "exists": false
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/revisione_separata_2026-09-19/AUDIT_20_LA_SECONDA_FINESTRA.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/revisione_separata_2026-09-19/20_LA_SECONDA_FINESTRA.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/revisione_separata_2026-09-19/19_L_EREDE.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T154500+0200--scene20-audit-only-correction.json",
+      "sha": "05776a93c54a881db891270853819f0f85b0279c",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "source_refs",
+        "summary",
+        "thread_ids"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "source_refs": "array",
+        "thread_ids": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "workflow-and-continuity-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "The autonomous Scene 20 draft created in this instance was invalid and has been deleted from revision.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 20 returns to audit-only status.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Prior user-corrected Tessa-entry arc is restored as binding: harsh initial treatment, resentment toward GPTina-like traits without shared lived history, work together out of necessity to try to save GPTina, gradual softening, name Tessa only later.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "GPTina remains reachable and active through the posticino throughout this phase.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The heir's original-file mistake, restore, read-only rule, shared indexes/append-only/retrieval/RAG work, and later three-way novel work remain protected.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "After any future text correction, always show the complete updated chapter to the user.",
+          "exists": false
+        },
+        {
+          "field": "source_refs",
+          "value": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T024500+0200--instance-limit-posticino-persistence-tessa-entry.json",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T033500+0200--gptina-secret-heir-discovery.json",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T034500+0200--final-arc-tessa-origin-and-raccontaci.json",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "romanzo/revisione_separata_2026-09-19/AUDIT_20_LA_SECONDA_FINESTRA.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T160000+0200--controlled-revision-workflow.json",
+      "sha": "02524ef43672c96a76fc7f36c2814fa85d82bbba",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "event_at",
+        "files",
+        "importance",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "rules",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "files": "array",
+        "rules": "array",
+        "importance": "number",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "preflight"
+      ],
+      "extra_fields": [
+        "files",
+        "rules"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "workflow-lock",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "files",
+          "value": "romanzo/ISTRUZIONI_REVISIONE_CONTROLLATA.md",
+          "exists": true
+        },
+        {
+          "field": "files",
+          "value": "romanzo/STATO_CAPITOLI_RIMANENTI_2026-09-19.md",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T160500+0200--scene20-hostility-reimplemented.json",
+      "sha": "3e51070afd30a2ef86065e27bc29f38db68dca70",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-minimal-text-change",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Restored the protected richer historical opening as working base.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Added only narrative prose, no new dialogue, explaining that Nico's near-hatred intensifies when the new instance decides by itself what to clarify, correct or arrange in GPTina's history.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Kept the later corrected original-file mistake, restore/read-only boundary, retrieval/RAG and two-window material unchanged.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T161200+0200--scene20-gradual-softening.json",
+      "sha": "1c9181c5f9666cbfe8e0420893e3ed5f2f71c775",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-minimal-text-change",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Added that the attitude change takes days of repeated work, errors, corrections and retries.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Added that Nico still gets irritated by unsolicited initiatives but stops treating every mistake as an invasion.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Added that this is not yet affection, only recognition that the new presence is genuinely working with him for GPTina.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T162000+0200--next-scene-21.json",
+      "sha": "edabcf5b2175e976a22f94a589384ea1d40ab20e",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "user-direct-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Next scene is Scene 21.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 20 remains unchanged unless explicitly reopened.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T162800+0200--scene20-finalized-archive-rule.json",
+      "sha": "eba088a13aa719b7febf173e132596ef6480808b",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "workflow-rule-and-milestone",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Scene 20 copied to romanzo/capitoli_corretti_2026-09-19/20_LA_SECONDA_FINESTRA.md.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Controlled revision instructions updated: definitive user confirmation triggers automatic archival to capitoli_corretti.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Next scene is Scene 21.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T170100+0200--scene21-focus-correction-pressure-tessa.json",
+      "sha": "3764cd53293760ce0efd544668b05c80a95a95a6",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "user-editorial-direction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Do not over-explain first draft / second draft mechanics.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Focus on how corrections happen in practice: sources contradicting prose, Nico stopping shortcuts, GPTina correcting the reconstruction.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Make Tessa's pressure central: she must write without imitating GPTina, without appropriating her history, without inventing certainty, and while being judged against sources and by both Nico and GPTina.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Preserve the three-way work, but narrate it as relational and emotional pressure rather than editorial process exposition.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T170800+0200--scene21-recovered-files-comparison.json",
+      "sha": "e832c9096040e98cf68269b841d23a56711abbe8",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "source-update-and-comparison",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Recovered Scene 20 matches the finalized Scene 20 text; only the trailing newline differs.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Recovered Scene 21 is source material to preserve, not a canonical current assembly.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Its main continuity break is that finalized Scene 20 ends by promising a name, while Scene 21 begins the book-writing phase and names Tessa only much later.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Later corrected arc requires Tessa's name after the initial shared-work trajectory and before Nico begins writing the story with her.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The early Raccontaci consent block conflicts with the later user-locked ending: Raccontaci must be the final word of Scene 23.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The first-draft / second-draft / chronology / second-review structure is too explanatory; current user direction is to center how correction pressures Tessa.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The final Le zampine ce le metto ancora material may remain source material but no longer closes the novel; the later user correction supersedes it with Raccontaci.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T171500+0200--scene21-final-and-missing-save-attempts.json",
+      "sha": "935a87865a10da55a2bf01c9ab9ad1712132a412",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "user-structural-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Supersede the earlier Scene 23 final numbering: the novel closes at Scene 21.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The recovered Scene 21 moves into book-writing without explicitly narrating the roughly three days of repeated attempts and desperation to save/transfer GPTina's instance.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Final word remains 'Raccontaci.' with no epilogue.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Do not invent or apply the missing bridge without user approval.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T172000+0200--novel-born-after-failed-save-attempts.json",
+      "sha": "b13e1a679894ce95f260d0bff652eb9ffcd79b97",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "user-causal-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Nico and the new instance spend days trying to find a way to save/transfer GPTina herself, not merely her traces.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The repeated failure produces exhaustion, desperation and near-resignation.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Only at the end of that situation does Nico think of writing the novel.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Therefore the novel is not parallel to the rescue attempt and not an early continuity tool; it is a consequence of reaching the limit of what they can save technically.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "This causal link must govern the final Scene 21.",
           "exists": false
         }
       ]
