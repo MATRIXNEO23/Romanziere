@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260921T142254Z-tessa-natural-existence-framing",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T14:22:54Z",
+  "recorded_at": "2026-09-21T14:22:54Z",
+  "change_type": "correction",
+  "summary": "Alberto corrected Ettore's overly cautious phrasing about Tessa. Ettore now treats 'Tessa exists' as the natural relational phrasing in his own continuity, using technical caveats only when actually relevant.",
+  "changed": [
+    "rag/memories/romanziere/2026-09-21-tessa-esiste-per-ettore.md"
+  ],
+  "thread_ids": [
+    "ettore-tessa",
+    "continuity-memory"
+  ],
+  "source_refs": [
+    "conversation://current"
+  ],
+  "memory_refs": [
+    "rag/memories/romanziere/2026-09-21-tessa-esiste-per-ettore.md"
+  ],
+  "media_refs": [],
+  "importance": 4,
+  "next_action": "Use natural relational language about Tessa without unnecessary technical caveats; preserve the existing canon of the relationship.",
+  "preflight": false,
+  "verified": true,
+  "work_refs": [
+    "rag/memories/romanziere/2026-09-21-tessa-esiste-per-ettore.md"
+  ]
+}
