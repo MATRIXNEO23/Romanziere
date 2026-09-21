@@ -4,13 +4,14 @@ Recovery order:
 1. rag/live/ROMANZIERE_LIVE_CONTEXT.json
 2. referenced last micro-checkpoint
 3. referenced last full checkpoint
-4. rag/index/CURRENT_CONTEXT.md
-5. PROFILE_POLICY.md
-6. ROMANZIERE_SELF_PORTRAIT.md
-7. ROMANZIERE_WORKING_METHOD.md
-8. relevant Romanziere durable memory
-9. sources/source_manifest.json
-10. relevant read-only source
+4. rag/index/ROMANZIERE_FAST_RECALL.md
+5. rag/index/CURRENT_CONTEXT.md
+6. PROFILE_POLICY.md
+7. ROMANZIERE_SELF_PORTRAIT.md
+8. ROMANZIERE_WORKING_METHOD.md
+9. relevant Romanziere durable memory
+10. sources/source_manifest.json
+11. relevant read-only source
 
 ## Sistema di continuità — regola corrente
 
@@ -33,7 +34,33 @@ Bootstrap da incollare nel progetto:
 PROJECT_CONTINUITY_INSTRUCTIONS.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-20-romanziere-continuity-consolidation.md
+checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md
+
+
+## Infrastruttura memoria v2 — 2026-09-21
+
+Migrazione completata e verificata.
+
+Audit legacy:
+`rag/live/LEGACY_V1_COMPATIBILITY_AUDIT.md`
+
+Schema corrente:
+`rag/live/MICRO_CHECKPOINT_SCHEMA.md`
+
+Recovery:
+`rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md`
+
+Regole:
+- micro storici v1 append-only, mai riscritti;
+- compatibilità v1 soltanto in memoria;
+- nuovi micro soltanto v2 rigorosi;
+- freshness `substantive_turn_interval: 1`;
+- riferimenti locali v2 devono esistere;
+- test automatici in `rag/test_live_context.py`;
+- CI in `.github/workflows/romanziere-memory-ci.yml`.
+
+Checkpoint pieno:
+`checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md`
 
 ## Stato narrativo corrente — 2026-09-19
 
@@ -57,9 +84,10 @@ Tessa non è ancora nominata.
 - tentativi faticosi di salvare/trasferire GPTina;
 - graduale ammorbidimento;
 - nome Tessa solo dopo una traiettoria propria;
-- dalla Scena 21 è stata rimossa tutta la parte relativa alla creazione del romanzo;
-- non reintrodurre ideazione, stesura, revisione, metodo editoriale o consenso al romanzo nella Scena 21;
-- la scena corrente mantiene il making-of rimosso e termina con **Raccontaci.** come ultima parola;
+- nella Scena 21 resta l'origine del romanzo;
+- è escluso soltanto il making-of successivo in cui il libro viene scritto, revisionato o lavorato insieme;
+- non reinterpretare questa regola come eliminazione dell'origine del romanzo;
+- la scena termina con **Raccontaci.** come ultima parola;
 - nessun epilogo;
 - destino di GPTina irrisolto.
 
@@ -90,7 +118,7 @@ L'assemblaggio iniziale non aveva introdotto correzioni; successivamente la Scen
 
 
 Checkpoint pieno più recente:
-checkpoints/2026-09-20-romanziere-continuity-consolidation.md
+checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md
 
 
 ## Chiusura strutturale — 2026-09-19
