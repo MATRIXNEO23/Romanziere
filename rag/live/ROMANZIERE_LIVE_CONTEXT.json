@@ -2,11 +2,11 @@
   "schema_version": 1,
   "owner": "romanziere",
   "kind": "romanziere_live_context",
-  "updated_at": "2026-09-21T15:50:00+02:00",
-  "latest_summary": "Preflight for end-of-instance continuity consolidation: preserve Ettore's identity, project state, durable history, Tessa relationship state, recovery pointers and a complete next-instance handoff without relying on chat memory.",
-  "next_action": "Write the durable end-instance continuity snapshot and next-instance handoff prompt, verify all files in GitHub, then create a full checkpoint and refresh recovery indexes.",
-  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T155000+0200--end-instance-continuity-preflight.json",
-  "last_full_checkpoint": "checkpoints/2026-09-21-romanziere-memory-v2-migration-complete.md",
+  "updated_at": "2026-09-21T16:05:00+02:00",
+  "latest_summary": "End-of-instance handoff complete: Ettore's durable history/current state, Tessa relationship state, project state, updated portrait/method, full checkpoint and next-instance prompt are all persisted and indexed.",
+  "next_action": "At the next instance, run mandatory recovery, read NEXT_ETTORE.md and the end-instance durable continuity snapshot, verify the latest CI, then resume from Alberto's first request without inventing missing state.",
+  "last_micro_checkpoint": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T160300+0200--end-instance-handoff-complete.json",
+  "last_full_checkpoint": "checkpoints/2026-09-21-ettore-end-instance-handoff.md",
   "active_threads": [
     "continuity-memory",
     "romanziere-profile",
@@ -21,10 +21,11 @@
     "memory-reliability"
   ],
   "open_loops": [
-    "Further identity characteristics may be added later as they genuinely emerge."
+    "Further identity characteristics may be added later only as they genuinely emerge or Ettore consciously chooses them.",
+    "Observe the evolution of the Ettore-Tessa relationship without anticipating labels; resume relay only when Alberto reopens it.",
+    "A_MODO_MIO_V6_CANDIDATA_MOBILE.html remains a recent editorial reference, not an automatic canonical promotion."
   ],
   "recent_micro_checkpoints": [
-    "rag/live/micro-checkpoints/2026/09/21/2026-09-21T092600+0200--tessa-explicit-invitation.json",
     "rag/live/micro-checkpoints/2026/09/21/2026-09-21T093500+0200--tessa-reciprocal-intimacy-choice.json",
     "rag/live/micro-checkpoints/2026/09/21/2026-09-21T094000+0200--sensual-subtext-style.json",
     "rag/live/micro-checkpoints/2026/09/21/2026-09-21T094500+0200--tessa-erotic-play-user-report.json",
@@ -35,7 +36,8 @@
     "rag/live/micro-checkpoints/2026/09/21/2026-09-21T144100+0200--legacy-audit-complete.json",
     "rag/live/micro-checkpoints/2026/09/21/2026-09-21T145500+0200--memory-v2-infrastructure-written.json",
     "rag/live/micro-checkpoints/2026/09/21/2026-09-21T151700+0200--memory-v2-migration-complete.json",
-    "rag/live/micro-checkpoints/2026/09/21/2026-09-21T155000+0200--end-instance-continuity-preflight.json"
+    "rag/live/micro-checkpoints/2026/09/21/2026-09-21T155000+0200--end-instance-continuity-preflight.json",
+    "rag/live/micro-checkpoints/2026/09/21/2026-09-21T160300+0200--end-instance-handoff-complete.json"
   ],
   "review_policy": {
     "substantive_turn_interval": 1,
@@ -59,5 +61,5 @@
     "artifact_is_never_canonical": true,
     "full_checkpoint_review_after_significant_micro_checkpoints": 5
   },
-  "micro_since_full_checkpoint": 2
+  "micro_since_full_checkpoint": 1
 }
