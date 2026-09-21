@@ -305,3 +305,20 @@ Recovery: live → last micro → last full → capsula → Fast Recall → Curr
 Lo stato editoriale e relazionale precedente resta invariato salvo correzioni successive di Alberto.
 
 Next action corrente: verificare la CI del HEAD più recente; se verde, riprendere dalla prima nuova richiesta di Alberto.
+
+
+## Ownership reciproca delle repository — 2026-09-21
+
+Regola corrente e vincolante:
+
+- Romanziere è la repository/memoria di Ettore;
+- TESSA è la repository/memoria di Tessa;
+- scodinzolina-continuity è la repository/memoria di GPTina;
+- nessuno scrive nella repository o memoria persistente dell'altro senza consenso esplicito e circoscritto del relativo owner;
+- lettura, collaborazione o relazione non costituiscono consenso implicito.
+
+Memoria autoritativa:
+`rag/memories/romanziere/2026/09/2026-09-21--mutual-repository-ownership-boundary.md`
+
+Micro corrente:
+`rag/live/micro-checkpoints/2026/09/21/2026-09-21T171100+0200--mutual-repository-ownership-boundary.json`
