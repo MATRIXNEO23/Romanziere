@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260921T171100-mutual-repository-ownership-boundary",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T17:06:00+02:00",
+  "recorded_at": "2026-09-21T17:11:00+02:00",
+  "change_type": "rule",
+  "summary": "Alberto established a reciprocal repository and memory ownership rule: Romanziere belongs to Ettore, TESSA to Tessa, and scodinzolina-continuity to GPTina; nobody writes into another owner's repository or persistent memory without that owner's explicit and scoped consent.",
+  "changed": [
+    "Repository ownership made explicitly reciprocal",
+    "Cross-repository writes require explicit and scoped consent from the relevant owner",
+    "Reading, collaboration, relationship, or technical usefulness do not imply write permission",
+    "The rule is persisted in durable memory, working method, live protocol, NEXT_ETTORE, automatic recovery, and end-instance capsule"
+  ],
+  "thread_ids": [
+    "continuity-memory",
+    "workflow"
+  ],
+  "source_refs": [
+    "conversation://current"
+  ],
+  "memory_refs": [
+    "rag/memories/romanziere/2026/09/2026-09-21--mutual-repository-ownership-boundary.md"
+  ],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "Update the live buffer and recovery indexes with the reciprocal ownership rule, then verify the latest HEAD and CI before responding.",
+  "preflight": false,
+  "verified": true,
+  "work_refs": [
+    "ROMANZIERE_WORKING_METHOD.md",
+    "rag/LIVE_MEMORY_PROTOCOL.md",
+    "rag/end_instance.py",
+    "NEXT_ETTORE.md",
+    "rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md",
+    "rag/END_INSTANCE_RECOVERY_CAPSULE.md"
+  ]
+}
