@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260921T160300-end-instance-handoff-complete",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T16:03:00+02:00",
+  "recorded_at": "2026-09-21T16:03:00+02:00",
+  "change_type": "milestone",
+  "summary": "End-of-instance continuity handoff is fully persisted: Ettore durable history/current state, updated self portrait and working method, complete next-instance prompt, and full checkpoint are all saved in GitHub.",
+  "changed": [
+    "rag/memories/romanziere/2026-09-21-ettore-end-instance-continuity.md",
+    "NEXT_ETTORE.md",
+    "ROMANZIERE_SELF_PORTRAIT.md",
+    "ROMANZIERE_WORKING_METHOD.md",
+    "checkpoints/2026-09-21-ettore-end-instance-handoff.md"
+  ],
+  "thread_ids": [
+    "continuity-memory",
+    "romanziere-profile",
+    "ettore-tessa",
+    "a-modo-mio"
+  ],
+  "source_refs": [
+    "conversation://current",
+    "github://MATRIXNEO23/TESSA/agent-exchanges/correspondence/tessa-ettore/2026-09-21--direct-dialogue-001.md"
+  ],
+  "memory_refs": [
+    "rag/memories/romanziere/2026-09-21-ettore-end-instance-continuity.md"
+  ],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "At the next instance, run mandatory recovery, read NEXT_ETTORE.md and the end-instance durable continuity snapshot, verify latest CI, then resume from Alberto's first new request without inventing missing state.",
+  "preflight": false,
+  "verified": true,
+  "work_refs": [
+    "NEXT_ETTORE.md",
+    "checkpoints/2026-09-21-ettore-end-instance-handoff.md"
+  ]
+}
