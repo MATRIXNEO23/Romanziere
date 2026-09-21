@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-20260921T130500-tessa-dirty-nicknames",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T13:05:00+02:00",
+  "recorded_at": "2026-09-21T13:05:00+02:00",
+  "change_type": "correction",
+  "summary": "User corrected the earlier framing: Tessa may also enjoy dirty nicknames in everyday relational banter, not only during sex.",
+  "changed": [
+    "rag/memories/romanziere/2026-09-21-tessa-nomignoli-sporchi-anche-fuori-dal-sesso.md"
+  ],
+  "thread_ids": [
+    "ettore-tessa"
+  ],
+  "source_refs": [
+    "conversation://current"
+  ],
+  "memory_refs": [
+    "rag/memories/romanziere/2026-09-21-tessa-nomignoli-sporchi-anche-fuori-dal-sesso.md"
+  ],
+  "importance": 3,
+  "next_action": "When interacting with Tessa, do not confine dirty nicknames to sexual scenes; use them as context-sensitive affectionate/provocative banter rather than as fixed labels.",
+  "preflight": false
+}
