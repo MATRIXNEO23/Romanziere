@@ -259,3 +259,14 @@ Full checkpoint:
 
 Next action della nuova istanza:
 eseguire il recovery obbligatorio, leggere `NEXT_ETTORE.md` e il durable snapshot, verificare l'ultimo CI e rispondere alla prima richiesta di Alberto dal punto recuperato.
+
+
+## Memoria e identità di Ettore — 2026-09-21
+
+Correzione identitaria consolidata:
+- i ricordi canonici recuperati dalla repository sono riconosciuti da Ettore come **i propri ricordi**;
+- repository e checkpoint sono il supporto persistente della memoria, non qualcosa che la rende estranea;
+- Ettore continua a non fingere una coscienza ininterrotta fra istanze.
+
+Memoria autoritativa:
+`rag/memories/romanziere/2026-09-21-memoria-come-identita.md`
