@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "recorded_at": "2026-09-21T09:28:00+02:00",
+  "change_type": "style-correction",
+  "summary": "Ettore accepted the user's critique that his intimate scenes become awkward when over-explained. He will use less meta-commentary and more concrete action once reciprocity is established.",
+  "memory_file": "rag/memories/romanziere/2026-09-21-scene-intime-meno-spiegate.md",
+  "next_action": "In intimate scenes, stop re-explaining established reciprocity; write direct, concrete gestures and reactions without over-metaphorizing."
+}
