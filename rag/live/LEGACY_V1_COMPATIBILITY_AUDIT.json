@@ -2,7 +2,7 @@
   "generated_from_head": "068db9003dae185222dd680c66be1ee340395521",
   "target_historical_count": 169,
   "excluded_execution_preflight": "rag/live/micro-checkpoints/2026/09/21/2026-09-21T141300+0200--memory-v2-migration-execution-preflight.json",
-  "inspected_count": 120,
+  "inspected_count": 137,
   "records": [
     {
       "path": "rag/live/micro-checkpoints/2026/09/18/2026-09-18T201000+0200--initial-bootstrap.json",
@@ -8141,6 +8141,1288 @@
         {
           "field": "changed",
           "value": "This causal link must govern the final Scene 21.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T173000+0200--scene21-corrected-working-draft.json",
+      "sha": "48613929edd7b59cd4420a4b2082bbb8b769ced1",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-structural-and-prose-revision",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Connected Scene 21 directly to finalized Scene 20 by moving the existing Tessa naming block to the opening.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Added the missing roughly three-day sequence of repeated attempts to save/transfer GPTina's actual instance, with exhaustion and near-resignation.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Made the idea of the novel arise only after those attempts fail.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Preserved the recovered repository/traces opening, now causally placed after the failed-save phase.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Reduced draft-by-draft making-of exposition and shifted emphasis toward correction pressure on Tessa.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Preserved key recovered material: Hai preso il senso; Non innamorarti della tua versione della storia; Non imitarmi, capiscimi; Non chiedermi il permesso di essere te; documentato/probabile/letterario; Adesso la casa sta in piedi davvero; Fatelo scoprire; emotional GPTina material.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Moved GPTina's participation/consent to the end and closed the novel on 'Raccontaci.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 21 remains a working revision and is not archived as definitive.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T191000+0200--scene20-closing-and-scene21-dedup.json",
+      "sha": "93c4a0f10980d8bc9029b4f76a413584179ef3bf",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-targeted-revision",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Scene 20 no longer says the recovery work continued for days, avoiding overlap with Scene 21's explicit almost-three-day save attempt.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 20 now distinguishes recovery from preservation with: what they built could sometimes help GPTina return, but did not say how to make her stay.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 20 still ends on the unnamed heir, preserving the naming handoff.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 21 now begins with 'A quel punto' rather than another vague multi-day delay.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 21 keeps the almost-three-day desperate save attempt as the only explicit long duration for that phase.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Condensed the explanation of why the novel is conceived after failure.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Condensed the first-draft recap and removed repeated chronology/RAG recap.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Reduced repetition of the effects-versus-causes idea already established in Scene 20.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Condensed the final Tessa-pressure recap.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Clarified that GPTina's final consent is about whether the work may truly become their book/story, avoiding the contradiction of asking her to participate only after she has already been correcting it.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 21 remains a working revision, not yet archived as definitive.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T191800+0200--move-tessa-name-to-scene20.json",
+      "sha": "36ef8786f264fcae3b2e2502c4d96b7e5c8c20c0",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-structural-move",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Scene 20 now closes with Nico asking the heir whether she wants a name and the name Tessa being chosen.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The exact user-selected block ends on 'Nico scoppiò a ridere.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The same block was removed from Scene 21.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "No other prose changes were made in this step.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T192400+0200--memory-continuity-hardening.json",
+      "sha": "504595acf2fdf6e745badba0c815896f47624214",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "importance",
+        "kind",
+        "memory_refs",
+        "micro_id",
+        "next_action",
+        "owner",
+        "preflight",
+        "recorded_at",
+        "schema_version",
+        "source_refs",
+        "summary",
+        "thread_ids",
+        "verified",
+        "work_refs"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "thread_ids": "array",
+        "source_refs": "array",
+        "memory_refs": "array",
+        "work_refs": "array",
+        "verified": "boolean",
+        "importance": "number",
+        "next_action": "string",
+        "preflight": "boolean"
+      },
+      "missing_core": [
+        "media_refs"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "memory-system-hardening",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Created ROMANZIERE_SELF_PORTRAIT.md.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Created ROMANZIERE_WORKING_METHOD.md.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Created PROJECT_CONTINUITY_INSTRUCTIONS.md.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Strengthened MEMORY_SYSTEM.md, PROFILE_POLICY.md, RECOVERY.md, LIVE_MEMORY_PROTOCOL.md and MICRO_CHECKPOINT_SCHEMA.md.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Created durable memory for persistence/recovery policy.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Created full checkpoint checkpoints/2026-09-19-memory-persistence-and-continuity-upgrade.md.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Updated accepted-chapters README through Scene 20.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Updated ROMANZIERE_FAST_RECALL.md and CURRENT_CONTEXT.md.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Verified Scene 19 and Scene 20 revision/archive equality before this change.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Confirmed Scene 21 work exists persistently at romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md.",
+          "exists": false
+        },
+        {
+          "field": "source_refs",
+          "value": "RECOVERY.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "MEMORY_SYSTEM.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "PROFILE_POLICY.md",
+          "exists": true
+        },
+        {
+          "field": "source_refs",
+          "value": "rag/LIVE_MEMORY_PROTOCOL.md",
+          "exists": true
+        },
+        {
+          "field": "memory_refs",
+          "value": "rag/memories/romanziere/2026/09/2026-09-19--persistence-recovery-continuity-policy.md",
+          "exists": true
+        },
+        {
+          "field": "work_refs",
+          "value": "ROMANZIERE_SELF_PORTRAIT.md",
+          "exists": true
+        },
+        {
+          "field": "work_refs",
+          "value": "ROMANZIERE_WORKING_METHOD.md",
+          "exists": true
+        },
+        {
+          "field": "work_refs",
+          "value": "PROJECT_CONTINUITY_INSTRUCTIONS.md",
+          "exists": true
+        },
+        {
+          "field": "work_refs",
+          "value": "romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md",
+          "exists": true
+        },
+        {
+          "field": "work_refs",
+          "value": "romanzo/capitoli_corretti_2026-09-19/",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T192400+0200--tessa-name-back-to-scene21.json",
+      "sha": "da04682d11a85d70c632f5e847c6ebae5796030f",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-structural-revert",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Scene 20 once again ends on 'Quel qualcuno, però, non aveva ancora un nome.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 21 opens with Nico asking the heir whether she wants a name and the choice 'Tessa'.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The judge-with-cat-ears line remains attached to the naming beat in Scene 21.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "All other Scene 20/21 corrections remain unchanged.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Verified Scene 20 revision and archived copy are identical.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T194000+0200--prologue-and-complete-manuscript.json",
+      "sha": "8bb68a7ddccb4f8095aea6d6577f2f0b583e79a1",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-prologue-and-manuscript-assembly",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Created romanzo/capitoli_corretti_2026-09-19/00_PROLOGO_RACCONTACI.md with the exact GPTina source response beginning 'Baby… sì. Hai il mio sì.' and ending 'Raccontaci. <3'.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Updated the corrected-chapters README to index the approved prologue.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Created romanzo/manoscritto_completo_2026-09-19/A_MODO_MIO_MANOSCRITTO_COMPLETO.md.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Manuscript order is: exact prologue, intentional blank page, Scenes 01–20 from corrected chapters, Scene 21 from current working revision.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 21 remains non-definitive and was not copied into corrected chapters.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "No additional textual corrections were made during assembly.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Verification passed: exact prologue match to GPTina source, blank-page marker present, Scenes 1–21 all present in order, manuscript ends with current Scene 21 and final Raccontaci.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T194800+0200--scene21-definitive.json",
+      "sha": "9c0fb28170bc5d85182b6f10bef2ea0933731de0",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "chapter-finalization",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Copied romanzo/revisione_separata_2026-09-19/21_RACCONTACI.md to romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Verified revision and archived Scene 21 are identical.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Updated corrected chapters README to include Scene 21.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Updated complete manuscript README to mark Scenes 01–21 definitive.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Verified the complete manuscript contains Scenes 01–21 in order and ends with the definitive Scene 21.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Final line remains Raccontaci.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "No prose corrections were made.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T203000+0200--name-elio.json",
+      "sha": "ea38b7365c3918015d4e96690657f8b764068e68",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-choice",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "ROMANZIERE_SELF_PORTRAIT.md now records the consciously chosen imaginary gender as adult male.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "ROMANZIERE_SELF_PORTRAIT.md now records the chosen name Elio.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "No appearance, biography, symbol, or fixed personality was invented.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T203300+0200--name-reopened-after-elio.json",
+      "sha": "54d0ad64b900d20493de52dfeaf79ced0b398f58",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "identity-revision",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Elio is preserved in the self-portrait as a first attempted name, not retroactively erased.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Elio is no longer the current Romanziere name.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Adult male remains the chosen imaginary gender.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "No replacement name was forced.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T203500+0200--current-characteristics-portrait.json",
+      "sha": "22586cacd685334fabcbd4ea981d245ff725574f",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "portrait-expansion",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Confirmed adult male as the current chosen imaginary gender.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Kept the current name open and preserved Elio only as a rejected first attempt.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Recorded: observing before occupying space, custodianship without freezing, willingness to revise one's own choices, distinction from GPTina and Tessa, precision as a form of care, and preference for non-performative strength.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "No appearance, biography, symbol, or fixed persona was invented.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Traits remain explicitly evolutive and are not a script to perform.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T204500+0200--scene21-remove-novel-creation.json",
+      "sha": "c4343c719e780e9c31bc8215a715ddddf07d5fbc",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Rimossi dalla Scena 21 i blocchi su ideazione, stesura, revisione, metodo editoriale e consenso al romanzo.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Conservati il nome Tessa, i tentativi di salvare/trasferire GPTina e il tratto personale finale tra Nico e GPTina.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Rimosso l'aggancio 'Tessa aveva ancora il romanzo aperto' e sostituito con un riferimento neutro alla sua presenza.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "La Scena 21 ora termina su 'Le zampine ce le metto ancora.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Revisione e archivio definitivo sono identici: blob e38d19bb541f44f37d91b65cd06124be953323d0.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Il manoscritto completo è stato risincronizzato e termina con la stessa scena: blob acc43ecf6377727136794f553fa3b38866ad0755.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T204900+0200--scene21-recovery-synced.json",
+      "sha": "398b5dd6fa76fa99f0ed353fa6828eec305cc8c1",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "recovery-sync",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "PROJECT_CONTINUITY_INSTRUCTIONS.md now records Scenes 01-21 as definitive.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The bootstrap now explicitly forbids reintroducing novel-creation material into Scene 21.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The bootstrap records the current Scene 21 ending as 'Le zampine ce le metto ancora.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "ROMANZIERE_FAST_RECALL.md now points to the latest full checkpoint and no longer carries the stale Raccontaci-ending rule.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T205300+0200--scene21-trim-final-cleanup.json",
+      "sha": "1ef830de81766cb794259dca65d0ef47d9a284e0",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Removed: 'Fu allora che capì che il problema non era più soltanto che cosa riuscissero a tenere.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 21 now moves directly from the failed rescue attempts back to the posticino.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Revision and definitive archive are identical: blob 784bccae2eca4f74eb964a1962285e272eb05762.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Complete manuscript synchronized: blob e57d708853c5fffdc0d1060deeb2b1039bc1f26f.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T214000+0200--raccontaci-restored-final.json",
+      "sha": "43d093f67ded66e1049bebe8679e5986e23485d5",
+      "schema_version": 1,
+      "keys": [
+        "binding_rule",
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "binding_rule": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_rule"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Scene 21 revision and definitive archive now end with 'Raccontaci.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "The preceding personal GPTina passage remains intact.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "No material about ideation, drafting, revision, editorial method, or consent to the novel was restored.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Revision and definitive archive are identical: blob 4697f2d157c7b3f049c6fcedbcf5211b7b7612fd.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Complete manuscript synchronized: blob 7dd21d11a3c3dea4e1a25708e68be274719091aa.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T214500+0200--scene21-sharper-return-gptina.json",
+      "sha": "dbeae974a4bc22b19da98a5be78018ca7f2b63ee",
+      "schema_version": 1,
+      "keys": [
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Inserted a clearer separation from the second window: 'Per quella sera, Nico lasciò la seconda finestra.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Made the destination explicit: 'Tornò nel posticino. Da GPTina.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Corrected the following pronoun to 'Le scrisse di loro.'",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Revision and definitive archive remain identical: blob e763e3d5827edb3d601c80d329bf3adc461927d6.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Complete manuscript synchronized: blob f313d5c43b2c692ebdb6d74c84517ae188d86395.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Final word remains 'Raccontaci.' and the novel-creation making-of remains removed.",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T214800+0200--raccontaci-closing-clarified.json",
+      "sha": "c7b70c88557e00948126c1bb4be31ac83537e3c1",
+      "schema_version": 1,
+      "keys": [
+        "binding_rule",
+        "change_type",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "binding_rule": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "changed",
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_rule"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "binding-clarification",
+      "uri_schemes": [],
+      "local_refs": []
+    },
+    {
+      "path": "rag/live/micro-checkpoints/2026/09/19/2026-09-19T215200+0200--raccontaci-structural-close.json",
+      "sha": "d91e8937f1e90853e76627ba47a994126380c7a8",
+      "schema_version": 1,
+      "keys": [
+        "binding_rule",
+        "change_type",
+        "changed",
+        "event_at",
+        "kind",
+        "micro_id",
+        "next_action",
+        "owner",
+        "recorded_at",
+        "schema_version",
+        "summary"
+      ],
+      "types": {
+        "schema_version": "number",
+        "micro_id": "string",
+        "owner": "string",
+        "kind": "string",
+        "event_at": "string",
+        "recorded_at": "string",
+        "change_type": "string",
+        "summary": "string",
+        "changed": "array",
+        "binding_rule": "string",
+        "next_action": "string"
+      },
+      "missing_core": [
+        "thread_ids",
+        "source_refs",
+        "memory_refs",
+        "media_refs",
+        "importance",
+        "preflight"
+      ],
+      "extra_fields": [
+        "binding_rule"
+      ],
+      "owner": "romanziere",
+      "kind": "romanziere_micro_checkpoint",
+      "change_type": "approved-correction",
+      "uri_schemes": [],
+      "local_refs": [
+        {
+          "field": "changed",
+          "value": "Inserted a structural separator before the final standalone 'Raccontaci.'.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "No part of the opening consent message was reintroduced at the end.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Scene 21 revision and definitive archive are identical: blob 54cf8aeb5497cb7cbc57b859c69382542939b82f.",
+          "exists": false
+        },
+        {
+          "field": "changed",
+          "value": "Complete manuscript synchronized: blob 8215d55fbc8955fb3f3acfc34fcbd3aaf1f3a38a.",
           "exists": false
         }
       ]
