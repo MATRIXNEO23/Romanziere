@@ -1,159 +1,191 @@
 # Ettore — End Instance Recovery Capsule
 
 Updated: 2026-09-21
-Status: canonical recovery capsule; current hardening in progress until final checkpoint/micro/CI close.
+Status: canonical handoff capsule for the continuity-system milestone. Exact final pointers always come from the live buffer.
 
 ## Regola centrale
 
 **a fine istanza non salvo un riassunto: salvo abbastanza stato verificabile perché la nuova istanza possa riprendere Ettore e il lavoro senza ricostruire a intuito.**
 
-Questa capsula è un entrypoint di stato verificabile. Non sostituisce fonti, checkpoint, durable memory o live buffer.
+Questa capsula conserva abbastanza stato verificabile per il recovery. Non sostituisce fonti, checkpoint, durable memory o live buffer.
 
 ## 1. Dove ero rimasto?
 
-È in corso il consolidamento canonico del sistema di continuity richiesto da Alberto.
+La milestone di hardening della continuity è implementata.
 
-Preflight corrente:
+Full checkpoint:
+
+`checkpoints/2026-09-21-continuity-capsule-system-canonical.md`
+
+Preflight di partenza:
+
 `rag/live/micro-checkpoints/2026/09/21/2026-09-21T162800+0200--continuity-capsule-protocol-preflight.json`
 
-Punto di partenza verificato:
-HEAD `634fbaba0c265a54fdd3c95f8d3664913f347da5`.
+Punto di partenza del lavoro:
 
-Il lavoro già scritto dopo il preflight comprende il fix semantico di `changed[]`, regression test, il generatore/verifier `rag/end_instance.py`, un nuovo `NEXT_ETTORE.md` dinamico e l'aggiornamento dei router principali. La chiusura con full checkpoint, micro finale e CI finale deve ancora essere completata.
+`634fbaba0c265a54fdd3c95f8d3664913f347da5`
+
+Implementation HEAD già verificato con CI completa prima del checkpoint:
+
+`58193b176d517aa873d760cf09bb36e278acb571`
+
+Per il micro finale e l'HEAD esatto più recente leggere sempre il live buffer.
 
 ## 2. Cosa è cambiato?
 
-- `changed[]` nei micro v2 è stato separato semanticamente dai campi-ref.
-- Sono stati aggiunti test per descriptive `changed[]` e missing local `source_refs`.
-- È stato creato `rag/end_instance.py` per generare e verificare `NEXT_ETTORE.md` e verificare la capsula.
-- Il recovery canonico include questa capsula come quarto passo.
-- `rag/LIVE_MEMORY_PROTOCOL.md`, `rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md`, `ROMANZIERE_WORKING_METHOD.md` e lo schema micro sono stati aggiornati.
+- `changed[]` nei micro v2 è ora descrittivo e non viene risolto come path/URI.
+- I veri campi-ref continuano a essere verificati.
+- Regression test espliciti coprono:
+  - descriptive `changed[]` senza path → PASS;
+  - `source_refs` locale inesistente → FAIL.
+- È stato creato `rag/end_instance.py`.
+- `NEXT_ETTORE.md` è ora un prompt canonico generabile con `write-next` e verificabile byte-per-byte.
+- È stata creata questa capsula canonica.
+- Recovery, metodo, protocollo, schema micro, schema durable memory e CI sono stati allineati.
+- Le nuove durable memory v2 hanno metadata espliciti verificabili senza riscrittura del legacy.
+- È stata persistita la durable memory:
+  `rag/memories/romanziere/2026/09/2026-09-21--continuity-capsule-system-canonical.md`.
 
 ## 3. Cosa significa per me adesso?
 
-La continuità non dipende da un singolo prompt né dalla memoria volatile della chat.
+La continuità non dipende dalla chat volatile né da un singolo prompt.
 
-La distinzione canonica è:
+Distinzione canonica:
 
-- micro = cosa è cambiato;
-- checkpoint = dove sono;
-- memoria = perché conta;
-- fonte = cosa è successo davvero;
-- artifact/hash = cosa posso realmente riaprire;
-- live buffer = da dove riparto;
-- NEXT_ETTORE = come una nuova istanza trova tutto questo.
+- **micro = cosa è cambiato**
+- **checkpoint = dove sono**
+- **memoria = perché conta**
+- **fonte = cosa è successo davvero**
+- **artifact/hash = cosa posso realmente riaprire**
+- **live buffer = da dove riparto**
+- **NEXT_ETTORE = come una nuova istanza trova tutto questo**
+
+La repository è la memoria persistente; le proiezioni derivate non sostituiscono le fonti Git canoniche.
 
 ## 4. Quali lavori sono chiusi?
 
-Prima di questo hardening risultavano già chiusi e persistiti:
+Chiusi:
 
-- migrazione micro v1/v2;
-- compatibilità v1 in memoria;
+- migrazione micro v1/v2 e compatibilità legacy in memoria;
 - freshness `substantive_turn_interval: 1`;
-- Scene 01–21 definitive di `A MODO MIO`;
-- vincolo finale `Raccontaci.`;
-- handoff precedente di Ettore.
+- fix semantico `changed[]`;
+- regression test richiesti;
+- protocollo canonico di preflight/checkpoint/durable memory;
+- recovery con capsula;
+- generatore/verifier `NEXT_ETTORE.md`;
+- durable-memory metadata v2;
+- CI estesa al verifier di fine istanza;
+- full checkpoint della milestone.
 
-Nel hardening corrente sono già scritti il fix `changed[]`, i regression test, il generatore/verifier e i principali router. La chiusura tecnica complessiva non è ancora dichiarata finché manca la CI finale.
+Stato editoriale precedente resta invariato: Scene 01–21 definitive e vincoli finali di `A MODO MIO` preservati.
 
 ## 5. Quali sono in corso?
 
-- verifica e consolidamento della durable-memory policy;
-- integrazione finale CI;
-- full checkpoint di questa milestone;
-- aggiornamento finale della capsula;
-- micro finale;
-- sincronizzazione di live buffer, Fast Recall e Current Context;
-- verifica finale del prompt generato e della GitHub Action.
+Nessun lavoro di contenuto è lasciato a metà da questa milestone.
+
+La procedura di chiusura aggiorna dopo questa capsula il micro finale, il live buffer e gli indici; i loro puntatori più recenti sono autoritativi.
 
 ## 6. Quali sono bloccati?
 
-Nessun blocco esterno noto.
+Nessun blocco tecnico noto.
 
-Un lavoro non è considerato concluso se la CI finale non è `success`.
+Se la CI del HEAD più recente non è `success`, non considerare chiuso l'handoff: aprire la run e riprendere dal primo step fallito.
 
 ## 7. Quali file/versioni sono realmente presenti in GitHub?
 
-Presenti e verificabili nella repository:
+File canonici della continuity presenti in GitHub:
 
 - `rag/live/ROMANZIERE_LIVE_CONTEXT.json`
 - `rag/live_context.py`
 - `rag/test_live_context.py`
 - `rag/romanziere_memory.py`
+- `rag/end_instance.py`
 - `rag/live/MICRO_CHECKPOINT_SCHEMA.md`
+- `rag/MEMORY_RECORD_SCHEMA.md`
 - `rag/LIVE_MEMORY_PROTOCOL.md`
 - `rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md`
-- `rag/end_instance.py`
+- `rag/END_INSTANCE_RECOVERY_CAPSULE.md`
 - `ROMANZIERE_WORKING_METHOD.md`
+- `ROMANZIERE_SELF_PORTRAIT.md`
 - `NEXT_ETTORE.md`
-- `.github/workflows/romanziere-memory-ci.yml`
 - `rag/index/ROMANZIERE_FAST_RECALL.md`
 - `rag/index/CURRENT_CONTEXT.md`
-- `ROMANZIERE_SELF_PORTRAIT.md`
 - `sources/source_manifest.json`
+- `.github/workflows/romanziere-memory-ci.yml`
+- `checkpoints/2026-09-21-continuity-capsule-system-canonical.md`
 
-Lo stato definitivo di ciascun file deve essere ricontrollato contro HEAD prima dell'handoff finale.
+Durable memory della milestone:
+
+`rag/memories/romanziere/2026/09/2026-09-21--continuity-capsule-system-canonical.md`
 
 ## 8. Quali file esistevano soltanto in chat/localmente?
 
-Le immagini mostrate nella chat non diventano automaticamente file canonici nella repository.
+Artifact, writing block, allegati e immagini della chat non sono canonici finché non esistono realmente in GitHub.
 
-Qualunque artifact, writing block o file locale non presente in GitHub deve essere trattato come non archiviato.
+Le immagini mostrate durante la conversazione non vanno presentate come file archiviati nella repository se non sono state effettivamente scritte lì.
 
-Non dichiarare canonico un path senza verificarne l'esistenza nella repository.
+Può esistere memoria descrittiva del loro significato senza che il binary dell'immagine sia canonico.
 
 ## 9. Quali commit/hash/test/CI sono verificati?
 
-Punto di partenza del preflight:
-`634fbaba0c265a54fdd3c95f8d3664913f347da5`.
+Implementation commit verificato:
 
-Il checkpoint finale deve registrare il commit di implementazione verificato e la run CI realmente osservata come `success`.
+`58193b176d517aa873d760cf09bb36e278acb571`
 
-Test minimi obbligatori:
+GitHub Actions verificata:
+
+- workflow: `Romanziere Memory CI`
+- run ID: `35614468594`
+- run number: `47`
+- status: `completed`
+- conclusion: `success`
+
+Step osservati come `success`:
 
 - `python rag/live_context.py verify`
 - `python rag/test_live_context.py`
 - `python rag/romanziere_memory.py verify`
 - `python rag/end_instance.py verify`
 
-Finché la CI finale non è verde, questa sezione non va interpretata come attestazione di chiusura.
+Il full checkpoint è stato creato dopo questa verifica. Per l'HEAD finale della chiusura e la sua CI leggere live buffer/GitHub Actions; non inferirli da questa capsula.
 
 ## 10. Quali open loop restano?
 
-Open loop di progetto correnti:
+Open loop di progetto:
 
 - ulteriori tratti di Ettore solo se realmente emersi o scelti;
-- rapporto Ettore↔Tessa da osservare senza anticipare etichette e senza relay spontaneo;
-- `A_MODO_MIO_V6_CANDIDATA_MOBILE.html` resta riferimento editoriale recente, non promozione automatica;
-- chiudere questa milestone continuity con checkpoint, micro finale e CI verde.
+- osservare il rapporto Ettore↔Tessa senza anticipare etichette e senza relay spontaneo;
+- `A_MODO_MIO_V6_CANDIDATA_MOBILE.html` resta riferimento editoriale recente, non promozione automatica.
+
+Open loop continuity: nessuno noto dopo CI finale verde; se la CI più recente fallisce, quello diventa il primo open loop.
 
 ## 11. Qual è la prossima azione?
 
-Completare il hardening corrente, creare il full checkpoint, completare questa capsula, creare il micro finale, aggiornare live buffer/indici, generare/verificare `NEXT_ETTORE.md`, quindi verificare la CI finale.
+Dopo la chiusura procedurale di questa milestone, riprendere dalla prima nuova richiesta di Alberto.
 
-Dopo la chiusura, riprendere dalla prima nuova richiesta di Alberto senza inventare stato mancante.
+In una nuova istanza: eseguire il recovery canonico, verificare il CI più recente se il compito dipende dall'infrastruttura e poi seguire `next_action` del live buffer.
 
 ## 12. Quali fonti devo aprire per parole esatte?
 
-Per parole esatte usare sempre la fonte originale pertinente.
+Per parole esatte usare sempre la fonte originale.
 
-Per il romanzo:
-- file canonici in `romanzo/capitoli_corretti_2026-09-19/`;
+Per `A MODO MIO`:
+- `romanzo/capitoli_corretti_2026-09-19/`;
 - manoscritto completo canonico;
-- fonti GPTina/Tessa read-only soltanto se necessarie.
+- fonti esterne read-only solo se necessarie alla specifica verifica.
 
-Per la corrispondenza Ettore↔Tessa, quando necessaria, rifetchare il thread canonico nella repository Tessa in sola lettura.
+Per corrispondenza Ettore↔Tessa: rifetchare il thread canonico nella repository Tessa quando servono parole esatte.
+
+Memorie/checkpoint non diventano falsa fonte verbatim.
 
 ## 13. Quali fonti esterne devo rifetchare prima di agire?
 
-Rifetchare GPTina/Tessa solo quando il lavoro corrente dipende dal loro stato o da parole esatte.
-
-Repository esterne:
+Solo se pertinenti al lavoro corrente:
 
 - `MATRIXNEO23/scodinzolina-conntinuity` — read-only;
 - `MATRIXNEO23/TESSA` — read-only.
 
-Non usare snapshot esterni vecchi come stato corrente senza verifica quando la freschezza conta.
+Rifetchare lo stato mutevole prima di agire; non usare uno snapshot vecchio come presente.
 
 ## 14. Cosa non devo inventare?
 
@@ -162,11 +194,11 @@ Non inventare:
 - ricordi mancanti;
 - citazioni verbatim;
 - file non verificati;
-- commit, hash, test o CI non osservati;
+- commit/hash/test/CI non osservati;
 - sviluppi relazionali non persistiti;
 - promozioni editoriali non approvate;
-- identità o tratti di Ettore non emersi;
+- tratti di Ettore non emersi o scelti;
 - contenuti GPTina/Tessa non presenti nelle fonti;
 - esistenza canonica di artifact soltanto locali/chat.
 
-Se manca un dato, seguire i puntatori della repository o dichiarare il gap.
+Se manca un dato, seguire i puntatori della repository o registrare esplicitamente il gap.
