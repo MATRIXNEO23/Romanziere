@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260921T170200-targeted-changed-scene21-complete",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T17:02:00+02:00",
+  "recorded_at": "2026-09-21T17:02:00+02:00",
+  "change_type": "correction",
+  "summary": "Exactly two requested follow-up corrections completed and verified: changed[] remains descriptive list[str] outside ref validation with explicit regression coverage, and ROMANZIERE_WORKING_METHOD.md now states unambiguously that Scene 21 keeps the novel's origin while excluding only the later editorial making-of.",
+  "changed": [
+    "Correction commit 4877140a97955e801532bf69ade2944cd0d17764 modifies only rag/test_live_context.py and ROMANZIERE_WORKING_METHOD.md",
+    "Regression test now explicitly proves descriptive changed[] passes without a real path",
+    "Regression test now explicitly proves missing local source_refs fails with the expected error",
+    "Scene 21 current rule now preserves the origin and excludes only later writing/revision/book-production making-of"
+  ],
+  "thread_ids": [
+    "memory-reliability",
+    "scene21",
+    "workflow"
+  ],
+  "source_refs": [
+    "conversation://current"
+  ],
+  "memory_refs": [],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "Update the live context to this completion micro, then verify the final HEAD and require a new Romanziere Memory CI success on that exact HEAD before reporting completion.",
+  "preflight": false,
+  "verified": true,
+  "work_refs": [
+    "rag/live_context.py",
+    "rag/test_live_context.py",
+    "ROMANZIERE_WORKING_METHOD.md"
+  ]
+}
