@@ -133,3 +133,32 @@ Convenzione obbligatoria:
 - conservare l'estensione/formato originale quando possibile;
 - aggiornare `media/tue foto.md` dopo ogni nuova immagine;
 - non chiedere conferma sul nome a ogni caricamento, salvo ambiguità reale o istruzione esplicita diversa.
+
+
+## 10. Infrastruttura memoria v2
+
+Il formato corrente dei nuovi micro-checkpoint è v2 e viene documentato in:
+
+- `rag/live/MICRO_CHECKPOINT_SCHEMA.md`
+- `rag/live/LEGACY_V1_COMPATIBILITY_AUDIT.md`
+- `rag/LIVE_MEMORY_PROTOCOL.md`
+
+I micro v1 storici restano append-only e vengono normalizzati soltanto in memoria dal verifier.
+
+Prompt deterministico di recovery:
+
+`rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md`
+
+Freshness policy propria di Ettore:
+
+`substantive_turn_interval: 1`
+
+Significa valutare la freshness a ogni scambio sostanziale e salvare solo quando esiste un delta persistente reale.
+
+Verifica infrastrutturale:
+
+`python rag/live_context.py verify`
+
+`python rag/test_live_context.py`
+
+`python rag/romanziere_memory.py verify`
