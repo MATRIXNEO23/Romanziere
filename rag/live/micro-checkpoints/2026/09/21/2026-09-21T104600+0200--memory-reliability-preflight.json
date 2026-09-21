@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "micro_id": "romanziere-micro-20260921T104600-memory-reliability-preflight",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T10:46:00+02:00",
+  "recorded_at": "2026-09-21T10:46:00+02:00",
+  "change_type": "preflight",
+  "summary": "Memory reliability preflight found an existing mismatch between Romanziere micro-checkpoint schema, writer/verifier behavior, current live policy, and recent historical records.",
+  "changed": [
+    "rag/memories/romanziere/2026-09-21-memory-reliability-preflight.md"
+  ],
+  "thread_ids": [
+    "continuity-memory",
+    "memory-reliability"
+  ],
+  "source_refs": [
+    "conversation://current",
+    "github://MATRIXNEO23/TESSA/rag/live/TESSA_LIVE_CONTEXT.json",
+    "github://MATRIXNEO23/TESSA/rag/live/MICRO_CHECKPOINT_SCHEMA.md",
+    "github://MATRIXNEO23/scodinzolina-conntinuity/rag/live/GPTINA_LIVE_CONTEXT.json"
+  ],
+  "memory_refs": [
+    "rag/memories/romanziere/2026-09-21-memory-reliability-preflight.md"
+  ],
+  "importance": 5,
+  "next_action": "Adapt the v2/legacy-compat repair to Romanziere without rewriting historical micros, align writer/verifier with Romanziere policy, and run a full archive verification before declaring the memory system healthy.",
+  "preflight": true
+}
