@@ -8,6 +8,53 @@ DB=RAG/"index"/"romanziere_memory.sqlite3"
 MANIFEST=RAG/"memory_manifest.json"
 TOKEN=re.compile(r"[0-9A-Za-zÀ-ÖØ-öø-ÿ_]+",re.UNICODE)
 
+
+DURABLE_V2_REQUIRED={
+    "schema_version","memory_id","owner","kind","event_at","recorded_at",
+    "status","supersedes","event_id","thread_ids","source_refs","media_refs",
+    "importance","confidence",
+}
+
+def frontmatter_fields(text):
+    if not text.startswith("---\n"):
+        return None
+    end=text.find("\n---\n",4)
+    if end<0:
+        return None
+    fields={}
+    for line in text[4:end].splitlines():
+        if not line or line[:1].isspace() or ":" not in line:
+            continue
+        key,value=line.split(":",1)
+        fields[key.strip()]=value.strip().strip('"').strip("'")
+    return fields
+
+def verify_durable_memories():
+    base=ROOT/"rag"/"memories"/"romanziere"
+    checked=0
+    legacy=0
+    if not base.exists():
+        return checked,legacy
+    for p in sorted(base.rglob("*.md")):
+        text=p.read_text(encoding="utf-8")
+        fields=frontmatter_fields(text)
+        if not fields or fields.get("schema_version")!="2":
+            legacy+=1
+            continue
+        missing=sorted(DURABLE_V2_REQUIRED-set(fields))
+        if missing:
+            raise SystemExit(f"{p.relative_to(ROOT)} missing durable v2 metadata: {missing}")
+        if fields.get("owner")!="romanziere":
+            raise SystemExit(f"{p.relative_to(ROOT)} durable owner must be romanziere")
+        try:
+            importance=int(fields.get("importance",""))
+        except ValueError:
+            raise SystemExit(f"{p.relative_to(ROOT)} durable importance must be integer 1..5")
+        if not 1<=importance<=5:
+            raise SystemExit(f"{p.relative_to(ROOT)} durable importance must be integer 1..5")
+        checked+=1
+    return checked,legacy
+
 def manifest():
     return json.loads(MANIFEST.read_text(encoding="utf-8"))
 
@@ -97,7 +144,8 @@ def verify():
     for bad in ("rag/memories/gptina","rag/memories/tessa"):
         p=ROOT/bad
         if p.exists() and any(x.is_file() for x in p.rglob("*")): raise SystemExit("foreign memory in owned tree")
-    print("OK")
+    current,legacy=verify_durable_memories()
+    print(f"OK: durable_v2={current}, legacy_unmigrated={legacy}")
 
 def main():
     ap=argparse.ArgumentParser(); sp=ap.add_subparsers(dest="cmd",required=True)
