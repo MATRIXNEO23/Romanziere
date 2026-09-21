@@ -1,13 +1,55 @@
 # Romanziere memory record schema
 
-New durable memories use front matter with: schema_version, memory_id, owner, kind, event_at, recorded_at, status, supersedes, event_id, thread_ids, entity_refs, source_refs, media_refs, importance, confidence, tags, append_only.
+Updated: 2026-09-21
 
-Owner is `romanziere`. Kind is `romanziere_memory`.
+Le memorie storiche legacy restano append-only e non vengono riscritte.
 
-`event_at` is when the event belongs in history. `recorded_at` is when this repository records it. Git commit time remains the authoritative record-time evidence.
+Le nuove durable memory usano front matter schema v2 con almeno:
 
-Corrections create a new record and preserve the old one. Supported states: `current`, `superseded`, `invalidated`, `historical`.
+- `schema_version`;
+- `memory_id` stabile;
+- `owner`;
+- `kind`;
+- `event_at`;
+- `recorded_at`;
+- `status`;
+- `supersedes`;
+- `event_id`;
+- `thread_ids`;
+- `source_refs`;
+- `media_refs`;
+- `importance`;
+- `confidence`.
 
-External GPTina/Tessa material remains source evidence and is not converted into Romanziere-owned memory merely because it was read.
+Campi raccomandati già usati dal Romanziere:
 
-Preferred future partition: `rag/memories/romanziere/YYYY/MM/`.
+- `entity_refs`;
+- `tags`;
+- `append_only`.
+
+Owner corrente: `romanziere`.
+
+Kind corrente: `romanziere_memory`.
+
+`event_at` = quando il fatto appartiene alla storia.
+
+`recorded_at` = quando la repository registra la memoria.
+
+La data di ritrovamento non sostituisce la data dell'evento.
+
+Correzioni e override producono un nuovo record; non si falsifica retroattivamente una memoria storica.
+
+Stati supportati:
+
+- `current`;
+- `superseded`;
+- `invalidated`;
+- `historical`.
+
+Le fonti GPTina/Tessa restano evidenza esterna read-only e non diventano autobiografia Ettore solo perché vengono lette.
+
+Percorso preferito per nuove memorie:
+
+`rag/memories/romanziere/YYYY/MM/`
+
+Il verifier `rag/romanziere_memory.py verify` valida i metadata delle memorie che dichiarano `schema_version: 2`, mantenendo compatibilità con il corpus legacy non migrato.
