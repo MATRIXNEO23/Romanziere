@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260921T165600-targeted-changed-scene21-preflight",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-21T16:56:00+02:00",
+  "recorded_at": "2026-09-21T16:56:00+02:00",
+  "change_type": "preflight",
+  "summary": "Targeted preflight for exactly two follow-up corrections: re-verify and minimally harden changed[] regression coverage without weakening true ref validation, and make the current Scene 21 origin-versus-making-of rule unambiguous in ROMANZIERE_WORKING_METHOD.md.",
+  "changed": [
+    "Starting HEAD 4b01f2f07f619fa590a5993fb5c6e20c8eaeede2",
+    "Correction 1 scope: rag/live_context.py semantics plus rag/test_live_context.py regression coverage only",
+    "Correction 2 scope: ROMANZIERE_WORKING_METHOD.md Scene 21 rule only",
+    "No historical micro-checkpoint will be rewritten"
+  ],
+  "thread_ids": [
+    "memory-reliability",
+    "scene21",
+    "workflow"
+  ],
+  "source_refs": [
+    "conversation://current"
+  ],
+  "memory_refs": [],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "Apply only the two requested corrections, verify the modified files in GitHub, run the three required verification commands through the repository CI, then create a completion micro and update the live context.",
+  "preflight": true,
+  "verified": false,
+  "work_refs": [
+    "rag/live_context.py",
+    "rag/test_live_context.py",
+    "ROMANZIERE_WORKING_METHOD.md"
+  ]
+}
