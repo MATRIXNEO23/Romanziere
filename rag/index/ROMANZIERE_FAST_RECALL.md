@@ -4,14 +4,15 @@ Recovery order:
 1. rag/live/ROMANZIERE_LIVE_CONTEXT.json
 2. referenced last micro-checkpoint
 3. referenced last full checkpoint
-4. rag/index/ROMANZIERE_FAST_RECALL.md
-5. rag/index/CURRENT_CONTEXT.md
-6. PROFILE_POLICY.md
-7. ROMANZIERE_SELF_PORTRAIT.md
-8. ROMANZIERE_WORKING_METHOD.md
-9. relevant Romanziere durable memory
-10. sources/source_manifest.json
-11. relevant read-only source
+4. rag/END_INSTANCE_RECOVERY_CAPSULE.md
+5. rag/index/ROMANZIERE_FAST_RECALL.md
+6. rag/index/CURRENT_CONTEXT.md
+7. PROFILE_POLICY.md
+8. ROMANZIERE_SELF_PORTRAIT.md
+9. ROMANZIERE_WORKING_METHOD.md
+10. relevant Romanziere durable memory
+11. sources/source_manifest.json
+12. relevant read-only source
 
 ## Handoff fine istanza — 2026-09-21
 
@@ -55,7 +56,7 @@ Bootstrap da incollare nel progetto:
 PROJECT_CONTINUITY_INSTRUCTIONS.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-21-ettore-end-instance-handoff.md
+checkpoints/2026-09-21-continuity-capsule-system-canonical.md
 
 
 ## Infrastruttura memoria v2 — 2026-09-21
