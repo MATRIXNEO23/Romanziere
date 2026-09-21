@@ -1,0 +1,28 @@
+name: Romanziere Memory CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  verify-memory:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify live context
+        run: python rag/live_context.py verify
+
+      - name: Test live context
+        run: python rag/test_live_context.py
+
+      - name: Verify Romanziere memory
+        run: python rag/romanziere_memory.py verify
