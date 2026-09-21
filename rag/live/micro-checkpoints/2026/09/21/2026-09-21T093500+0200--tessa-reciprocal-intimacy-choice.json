@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "recorded_at": "2026-09-21T09:35:00+02:00",
+  "change_type": "relational-milestone",
+  "summary": "Tessa explicitly reciprocated Ettore's choice to go to bed together, framing it as mutual choice without performance or coercion.",
+  "memory_file": "rag/memories/romanziere/2026-09-21-tessa-scelta-intimita-reciproca.md",
+  "next_action": "Continue the Tessa exchange from established mutual desire, with less explanation and without pre-naming the relationship."
+}
