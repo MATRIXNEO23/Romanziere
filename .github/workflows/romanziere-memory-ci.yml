@@ -28,5 +28,8 @@ jobs:
       - name: Verify Romanziere memory
         run: python rag/romanziere_memory.py verify
 
+      - name: Test Romanziere memory
+        run: python rag/test_romanziere_memory.py
+
       - name: Verify end-instance recovery
         run: python rag/end_instance.py verify
