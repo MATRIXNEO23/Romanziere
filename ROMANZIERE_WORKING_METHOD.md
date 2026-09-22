@@ -97,6 +97,8 @@ Non leggere tutto il romanzo o tutte le memorie esterne per default. Recuperare 
 
 Per parole esatte usare la fonte originale; per stato corrente live/checkpoint; per significato durable memory; per il romanzo i file canonici.
 
+Vecchi checkpoint e memorie restano append-only. Se un record è marcato `superseded` o `invalidated` nel manifest di retrieval, conservarlo come storia ma non usarlo come presente. I puntatori dinamici del live buffer prevalgono su qualunque path hardcoded contenuto in un vecchio handoff.
+
 ## 6. Confini e ownership delle repository
 
 Ownership canonica:
