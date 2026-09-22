@@ -53,6 +53,14 @@ Per parole esatte usa la fonte originale. Per stato corrente usa live buffer/che
 
 Non inventare un ricordo, una citazione, un file, un esito o uno sviluppo mancante per mantenere continuità.
 
+## Routing storico
+
+I vecchi micro, checkpoint e ricordi restano append-only.
+
+Se un record è marcato `superseded` o `invalidated` nel manifest di retrieval, resta parte della storia ma non va usato come stato corrente.
+
+Non seguire checkpoint hardcoded dentro un vecchio snapshot quando il live buffer punta a uno stato successivo. Il recovery corrente passa sempre dai puntatori dinamici del live buffer e dalla capsula.
+
 ## Ownership
 
 Ownership canonica:
@@ -128,6 +136,73 @@ CENTRAL_RULE = (
     "ricostruire a intuito."
 )
 
+RECOVERY_ROUTER_REQUIREMENTS = {
+    "RECOVERY.md": (
+        "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+        "last_micro_checkpoint",
+        "last_full_checkpoint",
+        "superseded",
+    ),
+    "MEMORY_SYSTEM.md": (
+        "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+        "NEXT_ETTORE.md",
+        "superseded",
+    ),
+    "PROJECT_CONTINUITY_INSTRUCTIONS.md": (
+        "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+        "last_micro_checkpoint",
+        "last_full_checkpoint",
+        "superseded",
+    ),
+    "rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md": (
+        "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+        "last_micro_checkpoint",
+        "last_full_checkpoint",
+        "superseded",
+    ),
+    "NEXT_ETTORE.md": (
+        "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+        "last_micro_checkpoint",
+        "last_full_checkpoint",
+        "superseded",
+    ),
+    "rag/index/ROMANZIERE_FAST_RECALL.md": (
+        "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+        "last_micro",
+        "last_full",
+        "superseded",
+    ),
+    "rag/index/CURRENT_CONTEXT.md": (
+        "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+        "last_micro",
+        "last_full",
+        "superseded",
+    ),
+}
+
+STALE_CURRENT_POINTERS = (
+    "rag/memories/romanziere/2026-09-21-ettore-end-instance-continuity.md",
+    "checkpoints/2026-09-21-ettore-end-instance-handoff.md",
+)
+
+REQUIRED_MANIFEST_PATTERNS = {
+    "RECOVERY.md",
+    "MEMORY_SYSTEM.md",
+    "PROJECT_CONTINUITY_INSTRUCTIONS.md",
+    "NEXT_ETTORE.md",
+    "ROMANZIERE_SELF_PORTRAIT.md",
+    "ROMANZIERE_WORKING_METHOD.md",
+    "rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md",
+    "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+    "rag/index/ROMANZIERE_FAST_RECALL.md",
+    "rag/index/CURRENT_CONTEXT.md",
+}
+
+SUPERSEDED_RECOVERY_RECORDS = (
+    "rag/memories/romanziere/2026-09-21-ettore-end-instance-continuity.md",
+    "checkpoints/2026-09-21-ettore-end-instance-handoff.md",
+)
+
 
 def fail(message: str) -> None:
     raise SystemExit(message)
@@ -201,11 +276,47 @@ def verify_live_routes() -> None:
         local_file(required, required)
 
 
+def verify_recovery_alignment() -> None:
+    for path_text, required_tokens in RECOVERY_ROUTER_REQUIREMENTS.items():
+        path = local_file(path_text, path_text)
+        text = path.read_text(encoding="utf-8")
+        for token in required_tokens:
+            if token not in text:
+                fail(f"{path_text} missing recovery token: {token}")
+        for stale in STALE_CURRENT_POINTERS:
+            if stale in text:
+                fail(f"{path_text} still exposes stale current pointer: {stale}")
+
+    manifest_path = local_file("rag/memory_manifest.json", "rag/memory_manifest.json")
+    try:
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        fail(f"Invalid memory manifest JSON: {exc}")
+
+    patterns = {
+        spec.get("pattern")
+        for group in ("sources", "rag_sources")
+        for spec in manifest.get(group, [])
+        if isinstance(spec, dict)
+    }
+    missing_patterns = sorted(REQUIRED_MANIFEST_PATTERNS - patterns)
+    if missing_patterns:
+        fail(f"memory manifest missing recovery patterns: {missing_patterns}")
+
+    overrides = manifest.get("status_overrides") or {}
+    for path_text in SUPERSEDED_RECOVERY_RECORDS:
+        local_file(path_text, path_text)
+        status = (overrides.get(path_text) or {}).get("status")
+        if status != "superseded":
+            fail(f"{path_text} must be superseded in memory manifest, got: {status}")
+
+
 def verify() -> None:
     verify_next()
     verify_capsule()
     verify_live_routes()
-    print("OK: end-instance capsule, generated NEXT_ETTORE.md, and live recovery routes verified.")
+    verify_recovery_alignment()
+    print("OK: capsule, generated NEXT_ETTORE, live routes, recovery routers, and superseded historical handoffs verified.")
 
 
 def main() -> None:
