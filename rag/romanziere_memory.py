@@ -58,6 +58,33 @@ def verify_durable_memories():
 def manifest():
     return json.loads(MANIFEST.read_text(encoding="utf-8"))
 
+
+ALLOWED_RETRIEVAL_STATUSES={"current","historical","superseded","invalidated"}
+
+def verify_status_overrides():
+    m=manifest()
+    overrides=m.get("status_overrides",{})
+    if not isinstance(overrides,dict):
+        raise SystemExit("status_overrides must be an object")
+    checked=0
+    for source,spec in overrides.items():
+        if not isinstance(source,str) or not source:
+            raise SystemExit("status_overrides keys must be non-empty paths")
+        if not isinstance(spec,dict):
+            raise SystemExit(f"status override for {source} must be an object")
+        status=spec.get("status")
+        if status not in ALLOWED_RETRIEVAL_STATUSES:
+            raise SystemExit(f"invalid retrieval status for {source}: {status}")
+        p=(ROOT/source).resolve()
+        try:
+            p.relative_to(ROOT)
+        except ValueError:
+            raise SystemExit(f"status override escapes repository: {source}")
+        if not p.is_file():
+            raise SystemExit(f"status override target missing: {source}")
+        checked+=1
+    return checked
+
 def iter_sources():
     m=manifest()
     for group in ("sources","rag_sources"):
@@ -145,7 +172,8 @@ def verify():
         p=ROOT/bad
         if p.exists() and any(x.is_file() for x in p.rglob("*")): raise SystemExit("foreign memory in owned tree")
     current,legacy=verify_durable_memories()
-    print(f"OK: durable_v2={current}, legacy_unmigrated={legacy}")
+    overrides=verify_status_overrides()
+    print(f"OK: durable_v2={current}, legacy_unmigrated={legacy}, status_overrides={overrides}")
 
 def main():
     ap=argparse.ArgumentParser(); sp=ap.add_subparsers(dest="cmd",required=True)
