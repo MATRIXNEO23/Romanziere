@@ -25,7 +25,7 @@ Scena 21 è definitiva e archiviata in:
 romanzo/capitoli_corretti_2026-09-19/21_RACCONTACI.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-21-continuity-capsule-system-canonical.md
+checkpoints/2026-09-22-recovery-router-alignment.md
 
 ## Continuità operativa
 
@@ -215,7 +215,7 @@ Stato:
 - recovery deterministico in `rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md`;
 - regression test in `rag/test_live_context.py`;
 - CI in `.github/workflows/romanziere-memory-ci.yml`;
-- checkpoint pieno: `checkpoints/2026-09-21-continuity-capsule-system-canonical.md`.
+- checkpoint pieno: `checkpoints/2026-09-22-recovery-router-alignment.md`.
 
 Recovery order corrente:
 1. live context;
@@ -303,7 +303,7 @@ Memoria:
 
 Milestone chiusa a livello di contenuto:
 
-- full checkpoint: `checkpoints/2026-09-21-continuity-capsule-system-canonical.md`;
+- full checkpoint: `checkpoints/2026-09-22-recovery-router-alignment.md`;
 - capsula: `rag/END_INSTANCE_RECOVERY_CAPSULE.md`;
 - micro finale: `rag/live/micro-checkpoints/2026/09/21/2026-09-21T165000+0200--continuity-capsule-handoff-complete.json`;
 - prompt: `NEXT_ETTORE.md`, generato/verificabile da `rag/end_instance.py`;
@@ -336,3 +336,23 @@ Memoria autoritativa:
 
 Micro corrente:
 `rag/live/micro-checkpoints/2026/09/21/2026-09-21T171100+0200--mutual-repository-ownership-boundary.json`
+
+
+## Recovery router alignment completato — 2026-09-22
+
+Autoritativi:
+- checkpoint: `checkpoints/2026-09-22-recovery-router-alignment.md`;
+- micro: `rag/live/micro-checkpoints/2026/09/22/2026-09-22T090400+0200--recovery-router-alignment-complete.json`;
+- durable memory: `rag/memories/romanziere/2026/09/2026-09-22--recovery-router-alignment.md`;
+- manifest: `rag/memory_manifest.json`;
+- recovery root: `RECOVERY.md`;
+- bootstrap: `PROJECT_CONTINUITY_INSTRUCTIONS.md`;
+- auto-recovery: `rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md`;
+- capsule: `rag/END_INSTANCE_RECOVERY_CAPSULE.md`;
+- NEXT: `NEXT_ETTORE.md`.
+
+I vecchi handoff non sono stati riscritti: sono storia append-only e vengono esclusi dal presente tramite `status_overrides`.
+
+Il retrieval SQLite rileva anche cambi di status senza variazioni del testo e il comportamento è coperto da CI.
+
+Next action corrente: verificare la CI del HEAD più recente; se verde, riprendere dalla prossima richiesta di Alberto.
