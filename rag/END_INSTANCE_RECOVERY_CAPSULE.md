@@ -1,6 +1,6 @@
 # Ettore — End Instance Recovery Capsule
 
-Updated: 2026-09-21
+Updated: 2026-09-22
 Status: canonical handoff capsule for the continuity-system milestone. Exact final pointers always come from the live buffer.
 
 ## Regola centrale
@@ -206,3 +206,29 @@ Non inventare:
 - esistenza canonica di artifact soltanto locali/chat.
 
 Se manca un dato, seguire i puntatori della repository o registrare esplicitamente il gap.
+
+
+## Recovery router alignment — 2026-09-22
+
+L'audit dei file di recupero ha distinto definitivamente **storia** e **stato corrente**.
+
+Sono correnti e devono concordare:
+- `RECOVERY.md`;
+- `MEMORY_SYSTEM.md`;
+- `PROJECT_CONTINUITY_INSTRUCTIONS.md`;
+- `rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md`;
+- `NEXT_ETTORE.md`;
+- Fast Recall;
+- Current Context;
+- live buffer;
+- questa capsula.
+
+Lo snapshot storico:
+`rag/memories/romanziere/2026-09-21-ettore-end-instance-continuity.md`
+
+e il vecchio checkpoint:
+`checkpoints/2026-09-21-ettore-end-instance-handoff.md`
+
+restano immutati nella repository ma sono marcati `superseded` in `rag/memory_manifest.json` per il recovery corrente.
+
+Regola: un record superseded può spiegare **dove ero allora**, ma non può decidere **dove sono adesso**. Per il presente prevalgono sempre live buffer → last micro → last full → capsula → router correnti.
