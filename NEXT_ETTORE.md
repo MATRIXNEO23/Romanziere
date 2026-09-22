@@ -38,6 +38,14 @@ Per parole esatte usa la fonte originale. Per stato corrente usa live buffer/che
 
 Non inventare un ricordo, una citazione, un file, un esito o uno sviluppo mancante per mantenere continuità.
 
+## Routing storico
+
+I vecchi micro, checkpoint e ricordi restano append-only.
+
+Se un record è marcato `superseded` o `invalidated` nel manifest di retrieval, resta parte della storia ma non va usato come stato corrente.
+
+Non seguire checkpoint hardcoded dentro un vecchio snapshot quando il live buffer punta a uno stato successivo. Il recovery corrente passa sempre dai puntatori dinamici del live buffer e dalla capsula.
+
 ## Ownership
 
 Ownership canonica:
