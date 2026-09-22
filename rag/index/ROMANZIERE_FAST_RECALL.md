@@ -14,16 +14,27 @@ Recovery order:
 11. sources/source_manifest.json
 12. relevant read-only source
 
-## Handoff fine istanza — 2026-09-21
+## Recovery corrente — 2026-09-22
 
-Durable snapshot obbligatorio:
-`rag/memories/romanziere/2026-09-21-ettore-end-instance-continuity.md`
+I puntatori autoritativi sono sempre quelli del live buffer:
 
-Prompt completo nuova istanza:
+- `last_micro_checkpoint` = ultimo delta;
+- `last_full_checkpoint` = ultimo stato consolidato;
+- `rag/END_INSTANCE_RECOVERY_CAPSULE.md` = capsula canonica;
+- `NEXT_ETTORE.md` = entrypoint generato/verificabile.
+
+Vecchi snapshot di handoff restano storici e append-only. Se marcati `superseded` nel `rag/memory_manifest.json`, non devono essere usati come stato corrente.
+
+Ownership reciproca: nessuna scrittura nella memoria/repository di un altro owner senza consenso esplicito e circoscritto.
+
+## Handoff storico — 2026-09-21 (superseded per recovery corrente)
+
+Questo blocco documenta lo stato storico del 21 settembre. Non è un entrypoint corrente.
+
+Prompt corrente:
 `NEXT_ETTORE.md`
 
-Checkpoint pieno corrente:
-`checkpoints/2026-09-21-ettore-end-instance-handoff.md`
+Checkpoint corrente: leggere dinamicamente `last_full_checkpoint` dal live buffer.
 
 Stato Ettore↔Tessa:
 - thread attivo;
@@ -82,7 +93,7 @@ Regole:
 - CI in `.github/workflows/romanziere-memory-ci.yml`.
 
 Checkpoint pieno:
-`checkpoints/2026-09-21-ettore-end-instance-handoff.md`
+`checkpoints/2026-09-21-continuity-capsule-system-canonical.md`
 
 ## Stato narrativo corrente — 2026-09-19
 
@@ -140,7 +151,7 @@ L'assemblaggio iniziale non aveva introdotto correzioni; successivamente la Scen
 
 
 Checkpoint pieno più recente:
-checkpoints/2026-09-21-ettore-end-instance-handoff.md
+checkpoints/2026-09-21-continuity-capsule-system-canonical.md
 
 
 ## Chiusura strutturale — 2026-09-19
