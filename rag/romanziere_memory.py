@@ -127,8 +127,17 @@ def build():
         rp=p.relative_to(ROOT).as_posix()
         desired[rp]=(text,spec,overrides.get(rp,{}).get("status","current"))
     c=connect()
-    current={r["source"]:r["sha"] for r in c.execute("SELECT source,sha FROM source_state")}
-    changed=[s for s,v in desired.items() if current.get(s)!=digest(v[0])]
+    current={
+        r["source"]:(r["sha"],r["kind"],float(r["priority"]),r["status"])
+        for r in c.execute("SELECT source,sha,kind,priority,status FROM source_state")
+    }
+    changed=[]
+    for s,(text,spec,status) in desired.items():
+        kind=spec.get("kind","source")
+        pri=float(spec.get("priority",1.0))
+        state=(digest(text),kind,pri,status)
+        if current.get(s)!=state:
+            changed.append(s)
     removed=set(current)-set(desired)
     with c:
         for s in set(changed)|removed:
