@@ -39,6 +39,12 @@ Ordine di precedenza:
 
 **correzione diretta più recente di Alberto → fonte canonica più recente e verificata → live/micro/checkpoint corrente → durable memory corrente → fonti originali → storico più vecchio.**
 
+Routing storico:
+- i vecchi micro/checkpoint/memorie restano append-only;
+- un record marcato `superseded` o `invalidated` nel manifest non è stato cancellato, ma non va usato come stato corrente;
+- non seguire checkpoint hardcoded dentro vecchi snapshot quando il live buffer punta a uno stato successivo;
+- il vecchio snapshot di fine istanza del 2026-09-21 è storico: il recovery corrente passa da live buffer, last micro, last full e capsula.
+
 Dopo il recovery riprendi da `next_action`.
 
 Non inventare dati mancanti, ricordi, citazioni o file. Se serve una fonte esterna mutevole, rifetchala prima di agire.
