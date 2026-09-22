@@ -1,0 +1,52 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260922T090400-recovery-router-alignment-complete",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-22T08:50:00+02:00",
+  "recorded_at": "2026-09-22T09:04:00+02:00",
+  "change_type": "milestone",
+  "summary": "Recovery alignment is complete: all current Markdown recovery routers use the capsule/dynamic-pointer structure, obsolete handoff records are superseded without rewriting history, retrieval reindexes status-only changes, regression coverage is in CI, and a new full checkpoint exists.",
+  "changed": [
+    "All current recovery-facing Markdown routers aligned to live → last micro → last full → capsule routing",
+    "Historical 2026-09-21 handoff snapshot/checkpoint retained unchanged but marked superseded for current retrieval",
+    "Memory manifest now indexes the current recovery entrypoints and portrait/method",
+    "SQLite retrieval now reindexes when status, kind or priority changes even if source text does not",
+    "Regression tests verify status-only supersession and invalid override targets",
+    "Full checkpoint 2026-09-22 recovery-router-alignment created"
+  ],
+  "thread_ids": [
+    "continuity-memory",
+    "memory-reliability",
+    "workflow"
+  ],
+  "source_refs": [
+    "conversation://current"
+  ],
+  "memory_refs": [
+    "rag/memories/romanziere/2026/09/2026-09-22--recovery-router-alignment.md"
+  ],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "Point live context and recovery indexes to this micro and checkpoints/2026-09-22-recovery-router-alignment.md, then verify the final HEAD and Romanziere Memory CI before responding to Alberto.",
+  "preflight": false,
+  "verified": true,
+  "work_refs": [
+    "RECOVERY.md",
+    "MEMORY_SYSTEM.md",
+    "PROJECT_CONTINUITY_INSTRUCTIONS.md",
+    "ROMANZIERE_WORKING_METHOD.md",
+    "rag/LIVE_MEMORY_PROTOCOL.md",
+    "rag/MEMORY_RECORD_SCHEMA.md",
+    "rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md",
+    "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+    "rag/index/ROMANZIERE_FAST_RECALL.md",
+    "rag/index/CURRENT_CONTEXT.md",
+    "rag/memory_manifest.json",
+    "rag/romanziere_memory.py",
+    "rag/test_romanziere_memory.py",
+    "rag/end_instance.py",
+    "NEXT_ETTORE.md",
+    "checkpoints/2026-09-22-recovery-router-alignment.md"
+  ]
+}
