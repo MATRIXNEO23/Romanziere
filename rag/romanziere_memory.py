@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-import argparse, json, re, sqlite3, hashlib
+import argparse, json, re, sqlite3, hashlib, os
 from pathlib import Path
 
-ROOT=Path(__file__).resolve().parents[1]
+ROOT=Path(os.environ.get("ROMANZIERE_REPO_ROOT", str(Path(__file__).resolve().parents[1]))).resolve()
 RAG=ROOT/"rag"
 DB=RAG/"index"/"romanziere_memory.sqlite3"
 MANIFEST=RAG/"memory_manifest.json"
