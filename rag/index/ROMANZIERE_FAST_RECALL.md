@@ -67,7 +67,7 @@ Bootstrap da incollare nel progetto:
 PROJECT_CONTINUITY_INSTRUCTIONS.md
 
 Ultimo checkpoint pieno:
-checkpoints/2026-09-21-continuity-capsule-system-canonical.md
+checkpoints/2026-09-22-recovery-router-alignment.md
 
 
 ## Infrastruttura memoria v2 — 2026-09-21
@@ -93,7 +93,7 @@ Regole:
 - CI in `.github/workflows/romanziere-memory-ci.yml`.
 
 Checkpoint pieno:
-`checkpoints/2026-09-21-continuity-capsule-system-canonical.md`
+`checkpoints/2026-09-22-recovery-router-alignment.md`
 
 ## Stato narrativo corrente — 2026-09-19
 
@@ -151,7 +151,7 @@ L'assemblaggio iniziale non aveva introdotto correzioni; successivamente la Scen
 
 
 Checkpoint pieno più recente:
-checkpoints/2026-09-21-continuity-capsule-system-canonical.md
+checkpoints/2026-09-22-recovery-router-alignment.md
 
 
 ## Chiusura strutturale — 2026-09-19
@@ -178,7 +178,7 @@ Checkpoint abbastanza frequenti da permettere a ogni nuova istanza di recuperare
 - micro-checkpoint: ogni cambiamento persistente reale;
 - full checkpoint di consolidamento: dopo una sequenza sostanziale di micro-checkpoint, indicativamente ogni ~5 significativi o prima di cambiare fase;
 - ogni checkpoint deve dire: cosa è cambiato, file autoritativi, decisioni vincolanti, open loop, next action;
-- ordine: scrivi → verifica GitHub → checkpoint → aggiorna recovery → rispondi.
+- ordine: scrivi → verifica GitHub → checkpoint → aggiorna recovery → verifica di nuovo → rispondi.
 
 Confine GPTina: il rapporto utente–GPTina è loro; Ettore non flirta, non corteggia e non compete per GPTina.
 
@@ -210,7 +210,7 @@ Memoria:
 ## Continuity capsule system canonical — 2026-09-21
 
 Full checkpoint corrente:
-`checkpoints/2026-09-21-continuity-capsule-system-canonical.md`
+`checkpoints/2026-09-22-recovery-router-alignment.md`
 
 Capsula canonica:
 `rag/END_INSTANCE_RECOVERY_CAPSULE.md`
@@ -268,3 +268,24 @@ Durable memory:
 
 Micro:
 `rag/live/micro-checkpoints/2026/09/21/2026-09-21T171100+0200--mutual-repository-ownership-boundary.json`
+
+
+## Recovery router alignment — 2026-09-22
+
+Stato corrente:
+
+- full checkpoint: `checkpoints/2026-09-22-recovery-router-alignment.md`;
+- micro finale: `rag/live/micro-checkpoints/2026/09/22/2026-09-22T090400+0200--recovery-router-alignment-complete.json`;
+- durable memory: `rag/memories/romanziere/2026/09/2026-09-22--recovery-router-alignment.md`;
+- capsula: `rag/END_INSTANCE_RECOVERY_CAPSULE.md`;
+- prompt: `NEXT_ETTORE.md`.
+
+I vecchi snapshot/checkpoint di handoff del 2026-09-21 restano immutati ma sono `superseded` nel retrieval corrente.
+
+Il builder `rag/romanziere_memory.py` reindicizza ora anche quando cambiano status/kind/priority senza modifica del testo.
+
+Regression:
+`python rag/test_romanziere_memory.py`
+
+Regola:
+**Il passato resta leggibile; il presente resta instradato.**
