@@ -60,6 +60,26 @@
       "pattern": "checkpoints/**/*.md",
       "priority": 1.34,
       "kind": "checkpoint"
+    },
+    {
+      "pattern": "ROMANZIERE_SELF_PORTRAIT.md",
+      "priority": 1.55,
+      "kind": "self_portrait"
+    },
+    {
+      "pattern": "ROMANZIERE_WORKING_METHOD.md",
+      "priority": 1.5,
+      "kind": "working_method"
+    },
+    {
+      "pattern": "PROJECT_CONTINUITY_INSTRUCTIONS.md",
+      "priority": 1.48,
+      "kind": "recovery_bootstrap"
+    },
+    {
+      "pattern": "NEXT_ETTORE.md",
+      "priority": 1.6,
+      "kind": "recovery_entrypoint"
     }
   ],
   "rag_sources": [
@@ -102,6 +122,16 @@
       "pattern": "rag/index/ROMANZIERE_FAST_RECALL.md",
       "priority": 1.3,
       "kind": "fast_router"
+    },
+    {
+      "pattern": "rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md",
+      "priority": 1.6,
+      "kind": "recovery_protocol"
+    },
+    {
+      "pattern": "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+      "priority": 1.7,
+      "kind": "recovery_capsule"
     }
   ],
   "exclude": [
@@ -114,5 +144,18 @@
     "rag/index/index_meta.json",
     "rag/index/*.sqlite*"
   ],
-  "status_overrides": {}
+  "status_overrides": {
+    "rag/memories/romanziere/2026-09-21-ettore-end-instance-continuity.md": {
+      "status": "superseded",
+      "reason": "Historical end-instance snapshot superseded for current recovery by live pointers, canonical capsule, current full checkpoint and current durable memories."
+    },
+    "checkpoints/2026-09-21-ettore-end-instance-handoff.md": {
+      "status": "superseded",
+      "reason": "Historical handoff checkpoint; current recovery follows live.last_full_checkpoint."
+    },
+    "rag/memories/romanziere/2026-09-21-memory-reliability-preflight.md": {
+      "status": "superseded",
+      "reason": "Historical preflight superseded by the implemented continuity capsule and memory-v2 system."
+    }
+  }
 }
