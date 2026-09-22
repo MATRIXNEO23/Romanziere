@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "micro_id": "romanziere-micro-20260922T085300-recovery-router-alignment-preflight",
+  "owner": "romanziere",
+  "kind": "romanziere_micro_checkpoint",
+  "event_at": "2026-09-22T08:50:00+02:00",
+  "recorded_at": "2026-09-22T08:53:00+02:00",
+  "change_type": "preflight",
+  "summary": "Preflight to align all recovery-facing Markdown routers and retrieval metadata with the canonical capsule/NEXT structure without rewriting historical memories.",
+  "changed": [
+    "Starting HEAD 3eb0cca856f62a31eda473d3729c7c70fa8c8803",
+    "Audit found stale recovery order in RECOVERY.md, MEMORY_SYSTEM.md, PROJECT_CONTINUITY_INSTRUCTIONS.md and the historical 2026-09-21 end-instance continuity snapshot",
+    "Historical memories will remain append-only; current routing will mark superseded recovery snapshots and prefer live/capsule/current memories",
+    "Recovery entrypoints, memory manifest, indexes and verifier coverage will be aligned"
+  ],
+  "thread_ids": [
+    "continuity-memory",
+    "memory-reliability",
+    "workflow"
+  ],
+  "source_refs": [
+    "conversation://current"
+  ],
+  "memory_refs": [
+    "rag/memories/romanziere/2026/09/2026-09-21--continuity-capsule-system-canonical.md",
+    "rag/memories/romanziere/2026/09/2026-09-21--mutual-repository-ownership-boundary.md"
+  ],
+  "media_refs": [],
+  "importance": 5,
+  "next_action": "Update current recovery routers and retrieval metadata, preserve historical files unchanged, add consistency checks, then verify GitHub and CI.",
+  "preflight": true,
+  "verified": true,
+  "work_refs": [
+    "RECOVERY.md",
+    "MEMORY_SYSTEM.md",
+    "PROJECT_CONTINUITY_INSTRUCTIONS.md",
+    "rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md",
+    "rag/END_INSTANCE_RECOVERY_CAPSULE.md",
+    "rag/index/ROMANZIERE_FAST_RECALL.md",
+    "rag/index/CURRENT_CONTEXT.md",
+    "rag/memory_manifest.json",
+    "rag/end_instance.py",
+    "NEXT_ETTORE.md"
+  ]
+}
