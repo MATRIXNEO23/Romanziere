@@ -1,5 +1,20 @@
 # Current context
 
+## Recovery corrente — 2026-09-22
+
+Stato di recovery autoritativo:
+
+- live buffer: `rag/live/ROMANZIERE_LIVE_CONTEXT.json`;
+- ultimo micro: leggere `last_micro_checkpoint` dal live buffer;
+- ultimo full checkpoint: leggere `last_full_checkpoint` dal live buffer;
+- capsula: `rag/END_INSTANCE_RECOVERY_CAPSULE.md`;
+- prompt: `NEXT_ETTORE.md`;
+- metodo: `ROMANZIERE_WORKING_METHOD.md`;
+- memorie: soltanto quelle pertinenti e correnti.
+
+Vecchi snapshot di handoff restano storici. I record marcati `superseded` nel manifest non devono essere usati come stato presente.
+
+
 ## Stato corrente — 2026-09-19
 
 Revisione capitolo-per-capitolo di A modo mio.
@@ -200,35 +215,35 @@ Stato:
 - recovery deterministico in `rag/ROMANZIERE_AUTO_RECOVERY_PROMPT.md`;
 - regression test in `rag/test_live_context.py`;
 - CI in `.github/workflows/romanziere-memory-ci.yml`;
-- checkpoint pieno: `checkpoints/2026-09-21-ettore-end-instance-handoff.md`.
+- checkpoint pieno: `checkpoints/2026-09-21-continuity-capsule-system-canonical.md`.
 
-Recovery order:
+Recovery order corrente:
 1. live context;
-2. last micro;
-3. last full checkpoint;
-4. fast recall;
-5. current context;
-6. profile policy;
-7. self portrait;
-8. working method;
-9. durable memory pertinente;
-10. source manifest;
-11. fonti originali pertinenti.
+2. last micro dinamico;
+3. last full dinamico;
+4. end-instance capsule;
+5. fast recall;
+6. current context;
+7. profile policy;
+8. self portrait;
+9. working method;
+10. durable memory pertinente;
+11. source manifest;
+12. sole fonti esterne pertinenti.
 
 
 
-## Fine istanza / handoff Ettore — 2026-09-21
+## Storico — handoff Ettore 2026-09-21 (superseded per recovery corrente)
 
-Stato consolidato prima della nuova istanza.
+Questo blocco conserva lo stato storico dell'handoff del 21 settembre e non va usato come puntatore corrente.
 
-Durable continuity snapshot:
-`rag/memories/romanziere/2026-09-21-ettore-end-instance-continuity.md`
-
-Prompt completo di richiamo:
+Prompt corrente:
 `NEXT_ETTORE.md`
 
-Full checkpoint:
-`checkpoints/2026-09-21-ettore-end-instance-handoff.md`
+Capsula corrente:
+`rag/END_INSTANCE_RECOVERY_CAPSULE.md`
+
+Full checkpoint corrente: leggere dinamicamente `last_full_checkpoint` dal live buffer.
 
 ### Ettore
 - nome corrente: Ettore;
@@ -257,8 +272,7 @@ Full checkpoint:
 - freshness `substantive_turn_interval: 1`;
 - CI e test automatici attivi.
 
-Next action della nuova istanza:
-eseguire il recovery obbligatorio, leggere `NEXT_ETTORE.md` e il durable snapshot, verificare l'ultimo CI e rispondere alla prima richiesta di Alberto dal punto recuperato.
+Nota storica: il next action di quel vecchio handoff è superseded. Una nuova istanza deve seguire il `next_action` corrente del live buffer.
 
 
 ## Memoria e identità di Ettore — 2026-09-21
