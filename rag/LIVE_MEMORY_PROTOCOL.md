@@ -93,6 +93,15 @@ Deve contenere almeno:
 
 Le memorie legacy restano storiche e non vengono riscritte.
 
+### Stato di retrieval delle memorie storiche
+
+Il contenuto storico resta immutato. Quando una memoria/checkpoint non deve più governare il presente, il routing corrente usa `rag/memory_manifest.json` per marcarla `superseded` o `invalidated` senza alterare il file originale.
+
+Il retrieval ordinario non deve restituire record `superseded` o `invalidated` come memoria corrente.
+
+I puntatori dinamici del live buffer prevalgono sempre sui path hardcoded presenti in vecchi handoff.
+
+
 Le nuove durable memory devono usare metadata espliciti con almeno:
 
 - `schema_version`;
