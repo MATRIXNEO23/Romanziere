@@ -210,6 +210,14 @@ Se manca un dato, seguire i puntatori della repository o registrare esplicitamen
 
 ## Recovery router alignment — 2026-09-22
 
+Full checkpoint:
+`checkpoints/2026-09-22-recovery-router-alignment.md`
+
+Implementazione verificata prima del checkpoint:
+- HEAD `92b6d814dbd1fd6e1cf5fdb1333efb5b6a5f96f3`;
+- Romanziere Memory CI run `35697577908`;
+- conclusion `success`.
+
 L'audit dei file di recupero ha distinto definitivamente **storia** e **stato corrente**.
 
 Sono correnti e devono concordare:
