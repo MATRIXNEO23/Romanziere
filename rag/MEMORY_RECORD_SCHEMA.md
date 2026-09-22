@@ -53,3 +53,7 @@ Percorso preferito per nuove memorie:
 `rag/memories/romanziere/YYYY/MM/`
 
 Il verifier `rag/romanziere_memory.py verify` valida i metadata delle memorie che dichiarano `schema_version: 2`, mantenendo compatibilità con il corpus legacy non migrato.
+
+Per record legacy che non hanno front matter v2, lo stato corrente può essere espresso senza riscrivere il file tramite `rag/memory_manifest.json -> status_overrides`.
+
+Un override `superseded` significa: il record resta parte della storia ma non governa più il presente né il recovery corrente.
